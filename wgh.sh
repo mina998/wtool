@@ -72,15 +72,14 @@ action1(){
 	#初始化一个本地仓库
 	git init
 	git add .
-	read -p "请输入要创建的分支名(例:master):" branch
 	git commit -m "$(date +%Y-%m-%d)"
 	#分支重命名
-	git branch -M $branch
+	git branch -M master
 	#把本地仓库和远程仓库关联
 	git remote add origin $repo
 	echo "以下需要输入GitHub用户名和密码(为ToKen)"
-	#把分支推送到远程仓库 并清除远程仓库分支历史记录
-	git push -u origin $branch --force	
+	#把分支推送到远程仓库
+	git push -u origin master --force	
 }
 
 action2(){
@@ -95,7 +94,7 @@ action2(){
 	#获取远程仓库地址
 	repof
 	#获取指定提交ID
-	read -p "请输入要拉取指定提交ID或者分支名, 如果留空将拉取最新代码:" rcid
+	read -p "请输入要拉取指定提交ID(例:2ef3fb1), 如果留空将拉取最新代码:" rcid
 	if [ -z "${rcid}" ];then
 	#拉取最新代码
 		git clone --depth=1 $repo site
