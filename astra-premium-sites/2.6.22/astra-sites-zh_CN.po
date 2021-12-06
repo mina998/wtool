@@ -1,0 +1,2119 @@
+# Copyright (C) 2021
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/astra-pro-sites\n"
+"POT-Creation-Date: 2021-09-06 13:35:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-09-20 00:16+0800\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid ""
+"Want to help make <strong>%1s</strong> even more awesome? Allow us to "
+"collect non-sensitive diagnostic data and usage information. "
+msgstr ""
+"想帮助使<strong>%1s</strong>更加令人敬畏？允许我们收集非敏感的诊断数据和使用"
+"情况信息。 "
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "这将适用于网络中的所有站点。"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr " 了解更多。"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "是的！允许它"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "不用了，谢谢"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "使用跟踪"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "允许%s跟踪非敏感使用情况跟踪数据。"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr " 这将适用于网络中的所有站点。"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "了解更多。"
+
+#: admin/bsf-core/auto-update/admin-functions.php:306
+msgid "Please"
+msgstr "请"
+
+#: admin/bsf-core/auto-update/admin-functions.php:306
+msgid "activate"
+msgstr "启用"
+
+#: admin/bsf-core/auto-update/admin-functions.php:306
+msgid "your copy of the"
+msgstr "你的副本"
+
+#: admin/bsf-core/auto-update/admin-functions.php:306
+msgid ""
+"to get update notifications, access to support features & other resources!"
+msgstr "获取更新通知，访问支持功能和其他资源！"
+
+#: admin/bsf-core/class-bsf-envato-activate.php:137
+msgid "Sign Up & Activate"
+msgstr "注册并激活"
+
+#: admin/bsf-core/class-bsf-envato-activate.php:138
+#: admin/bsf-core/class-bsf-license-manager.php:508
+#: admin/bsf-core/class-bsf-license-manager.php:732
+#: includes/license-form.php:60
+msgid "Deactivate License"
+msgstr "停用许可证"
+
+#: admin/bsf-core/class-bsf-envato-activate.php:199
+msgid ""
+"Updates & Support Registration - <span class=\"not-active\">Not Active!</"
+"span>"
+msgstr "更新和支持注册 - <span class=\"not-active\">未激活!</span>"
+
+#: admin/bsf-core/class-bsf-envato-activate.php:200
+#: admin/bsf-core/class-bsf-license-manager.php:572
+msgid ""
+"Click on the button below to activate your license and subscribe to our "
+"newsletter."
+msgstr "点击下面的按钮激活您的许可证并订阅我们的新闻通讯."
+
+#: admin/bsf-core/class-bsf-license-manager.php:493
+msgid "Product id is missing."
+msgstr "缺少产品编号。"
+
+#: admin/bsf-core/class-bsf-license-manager.php:507
+#: admin/bsf-core/class-bsf-license-manager.php:716
+#: admin/bsf-core/class-bsf-license-manager.php:731
+#: includes/license-form.php:59
+msgid "Activate License"
+msgstr "激活许可证"
+
+#: admin/bsf-core/class-bsf-license-manager.php:574
+msgid "Enter your purchase key and activate automatic updates."
+msgstr "输入您的购买密钥并激活自动更新。"
+
+#: admin/bsf-core/class-bsf-license-manager.php:603
+msgid "Your license is active."
+msgstr "您的许可证是有效的。"
+
+#: admin/bsf-core/class-bsf-license-manager.php:719
+msgid "License"
+msgstr "许可证"
+
+#: admin/bsf-core/class-bsf-license-manager.php:734
+#: includes/license-form.php:62
+msgid "Your license is not active!"
+msgstr "您的许可未激活！"
+
+#: admin/bsf-core/class-bsf-license-manager.php:735
+#: includes/license-form.php:63
+msgid "Your license is activated!"
+msgstr "许可证激活成功!"
+
+#: admin/bsf-core/class-bsf-license-manager.php:781
+#: inc/includes/templates.php:125 inc/includes/templates.php:126
+msgid "Close"
+msgstr "关闭"
+
+#. translators: %1$s: $parent_name %2%s: $registration_page
+#: admin/bsf-core/class-bsf-update-manager.php:573
+msgid ""
+" <br>This plugin is came bundled with the <i>%1$s</i>. For receiving "
+"updates, you need to register license of <i>%2$s</i> <a href=\"%3$s\">here</"
+"a>."
+msgstr ""
+" <br>此插件与<i>%1$s</i>捆绑在一起。 要获得更新，您需要注册</i>%2$s</i> <a "
+"href=\"%3$s\">此处</a>的许可."
+
+#. translators: %1$s: $registration_page %2%s: search term
+#: admin/bsf-core/class-bsf-update-manager.php:576
+msgid "Please <a href=\"%1$s\">activate your license</a> to update the plugin."
+msgstr "请<a href=\"%1$s\">激活您的许可证</a>以更新插件。"
+
+#: admin/bsf-core/class-bsf-update-manager.php:633
+#: admin/bsf-core/class-bsf-update-manager.php:641
+msgid "Downloading the update..."
+msgstr "正在下载更新..."
+
+#: admin/bsf-core/classes/class-bsf-extension-installer.php:54
+msgid "You are not authorized to perform this action."
+msgstr "您无权执行此操作。"
+
+#: admin/bsf-core/classes/class-bsf-extension-installer.php:63
+msgid "No plugin specified"
+msgstr "没有指定插件"
+
+#: admin/bsf-core/classes/class-bsf-extension-installer.php:83
+#: inc/classes/class-astra-sites.php:1844
+msgid "Plugin Activated"
+msgstr "插件已激活"
+
+#: admin/bsf-core/includes/helpers.php:239
+msgid " requires following plugins to be active : "
+msgstr " 需要激活以下插件： "
+
+#: admin/bsf-core/includes/helpers.php:249
+msgid " requires following plugins to be installed and activated : "
+msgstr " 需要安装并激活以下插件: "
+
+#: admin/bsf-core/includes/helpers.php:258
+msgid "Begin activating plugins"
+msgstr "开始激活插件"
+
+#: admin/bsf-core/includes/helpers.php:262
+msgid "Begin installing plugins"
+msgstr "开始安装插件"
+
+#: admin/bsf-core/includes/helpers.php:265
+msgid "Dismiss This Notice"
+msgstr "忽略此通知"
+
+#. translators: %1$s: strong tag %2%s: strong tag  %3%s: anchor tag %4%s:
+#. closing anchor tag
+#: admin/bsf-core/includes/helpers.php:296
+msgid ""
+"Looks like you are on a WordPress Multisite, you will need to install and "
+"network activate %1$s Brainstorm Updater for Multisite %2$s plugin. Download "
+"it from %3$s here %4$s"
+msgstr ""
+"看起来你在一个WordPress多站点，您将需要安装和网络激活%1$s 头脑风暴更新器为多"
+"站点%2$s插件。 从 %3$s下载%4$s"
+
+#: admin/bsf-core/includes/system-info.php:19
+msgid "WordPress Environment"
+msgstr "WordPress环境"
+
+#: admin/bsf-core/includes/system-info.php:124
+msgid "Server Environment"
+msgstr "服务器环境"
+
+#: admin/bsf-core/includes/system-info.php:228
+msgid "Theme Information"
+msgstr "主题信息"
+
+#: admin/bsf-core/includes/system-info.php:250
+msgid "Installed Plugins"
+msgstr "安装插件"
+
+#: admin/bsf-core/includes/views/list-bundled-products.php:42
+msgid "Extensions "
+msgstr "扩展 "
+
+#: admin/bsf-core/includes/views/list-bundled-products.php:48
+msgid "Available Extensions"
+msgstr "可用扩展"
+
+#: admin/bsf-core/includes/views/list-bundled-products.php:56
+msgid "Installed Extensions"
+msgstr "已安装的扩展"
+
+#: admin/bsf-core/index.php:114 admin/bsf-core/index.php:115
+msgid "Extensions"
+msgstr "扩展"
+
+#: admin/bsf-core/index.php:213
+msgid "iMedica Extensions"
+msgstr "iMedica扩展"
+
+#: admin/bsf-core/plugin-installer/admin-functions.php:189
+msgid "All available extensions have been installed!"
+msgstr "所有可用的扩展已安装！"
+
+#: admin/bsf-core/plugin-installer/admin-functions.php:200
+msgid "No extensions available yet!"
+msgstr "还没有扩展功能！"
+
+#: admin/bsf-core/plugin-installer/admin-functions.php:203
+msgid "Refresh Bundled Products"
+msgstr "刷新捆绑产品"
+
+#: admin/bsf-core/plugin-installer/admin-functions.php:248
+msgid "Downloading"
+msgstr "下载中"
+
+#: admin/bsf-core/plugin-installer/admin-functions.php:273
+msgid "Install"
+msgstr "安装"
+
+#: admin/bsf-core/plugin-installer/admin-functions.php:278
+msgid "Validate Purchase"
+msgstr "验证购买"
+
+#: admin/bsf-core/plugin-installer/admin-functions.php:289
+msgid "Installed"
+msgstr "已安装"
+
+#: astra-pro-sites.php:14
+msgid "Premium Starter Templates"
+msgstr "高级模版库"
+
+#: astra-sites.php:12 inc/classes/class-astra-sites-page.php:805
+#: inc/lib/gutenberg-templates/classes/class-ast-block-templates.php:395
+msgid "Starter Templates"
+msgstr "基础模板"
+
+#. translators: %1$s product purchase link and %2$s find purchase key link
+#: class-brainstorm-update-astra-pro-sites.php:135
+msgid ""
+"<p>To find your license key, login to  <a target=\"_blank\" href=\"%1$s"
+"\">store account</a> and visit the <a target=\"_blank\" href=\"%2$s"
+"\">'Licenses'</a> page.</p>"
+msgstr ""
+"<p>要查找许可证密钥，请登录到  <a target=\"_blank\" href=\"%1$s\">存储帐户</"
+"a> 并访问 <a target=\"_blank\" href=\"%2$s\">\"许可证\"</a> 页面。</p>"
+
+#. translators: %1$s product purchase link
+#: class-brainstorm-update-astra-pro-sites.php:139
+msgid ""
+"<p>If you don't have a license, you can <a target=\"_blank\" href=\"%1$s"
+"\">get it here &raquo;</a></p>"
+msgstr ""
+"<p>如果您没有许可证， 可以 <a target=\"_blank\" href=\"%1$s\">在这里获取。</"
+"a></p>"
+
+#. translators: %1$s product activation link %2$s white label plugin name
+#: class-brainstorm-update-astra-pro-sites.php:157
+msgid ""
+"Please <a href=\"%1$s\">activate</a> your copy of the <i>%2$s</i> to get "
+"update notifications, access to support features & other resources!"
+msgstr ""
+"请<a href=\"%1$s\">激活</a> <i>%2$s</i>的副本以获取更新通知、访问支持功能和其"
+"他资源！"
+
+#: class-brainstorm-update-astra-pro-sites.php:286
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+#. translators: %1$s white label plugin name
+#: class-brainstorm-update-astra-pro-sites.php:290
+msgid "Activate %1$s License"
+msgstr "激活 %1$s 许可证"
+
+#: classes/class-astra-pro-sites.php:111
+#: inc/classes/class-astra-sites-page.php:402
+#: inc/classes/class-astra-sites.php:1417
+#: inc/classes/class-astra-sites.php:1678 inc/includes/templates.php:302
+msgid "Get Access!"
+msgstr "获取访问权限！"
+
+#. translators: %1$s white label plugin name and %2$s deactivation link
+#: classes/class-astra-pro-sites.php:140
+msgid ""
+"You have two versions of the %1$s activated, click here to&nbsp;<a href="
+"\"%2$s\">Deactivate one</a>."
+msgstr "您有两个版本的 %1$s 已激活，请单击此处<a href=\"%2$s\">停用一个</a>。"
+
+#: classes/class-astra-pro-sites.php:198 inc/classes/class-astra-sites.php:1114
+msgid "See Library"
+msgstr "查看模板库"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:161
+msgid "Import Status"
+msgstr "导入状态"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:212
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:425
+msgid "Invalid site ID."
+msgstr "站点ID无效。"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:229
+msgid "Site import process is complete."
+msgstr "站点导入过程已完成。"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:234
+msgid "Site import is in process."
+msgstr "站点正在导入。"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:268
+#: inc/classes/class-astra-sites-page.php:408
+msgid "Preparing Site Import"
+msgstr "准备导入"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:278
+msgid "Site import started."
+msgstr "开始导入..。"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:328
+#: inc/classes/class-astra-sites-page.php:411
+msgid "Installing Required Plugins"
+msgstr "安装所需的插件"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:345
+#: inc/classes/class-astra-sites-page.php:414
+msgid "Importing Contact Forms"
+msgstr "导入联系表单"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:358
+#: inc/classes/class-astra-sites-page.php:417
+msgid "Setting up the Theme"
+msgstr "设置主题"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:368
+#: inc/classes/class-astra-sites-page.php:420
+msgid "Importing Media, Posts, and Pages"
+msgstr "导入媒体、文章、页面"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:379
+#: inc/classes/class-astra-sites-page.php:423
+msgid "Importing Site Options"
+msgstr "导入站点选项"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:388
+#: inc/classes/class-astra-sites-page.php:426
+msgid "Importing Sidebar and Widgets"
+msgstr "导入侧边栏和小工具"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:408
+#: inc/classes/class-astra-sites-page.php:429
+msgid "Import Complete"
+msgstr "导入完成"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:495
+msgid "Invalid plugin slug"
+msgstr "无效插件别名"
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:535
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "无法连接到文件系统。 请确认您的凭据。"
+
+#. translators: %s plugin name.
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:539
+msgid "Successfully installed \"%s\" plugin!"
+msgstr "成功安装了\"%s\"插件！"
+
+#: inc/classes/class-astra-sites-importer-log.php:96
+msgid "Required File Permissions to import the templates are missing."
+msgstr "缺少导入模板所需的文件权限。"
+
+#: inc/classes/class-astra-sites-importer-log.php:98
+msgid "This is usually due to inconsistent file permissions."
+msgstr "这通常是由于文件权限不一致。"
+
+#: inc/classes/class-astra-sites-importer-log.php:101
+msgid ""
+"You can easily update permissions by adding the following code into the wp-"
+"config.php file."
+msgstr "您可以通过将以下代码添加到 wp-config.php 文件中来轻松更新权限。"
+
+#: inc/classes/class-astra-sites-importer-log.php:269
+msgid "Enabled"
+msgstr "启用"
+
+#: inc/classes/class-astra-sites-importer-log.php:272
+msgid "Disabled"
+msgstr "禁用"
+
+#: inc/classes/class-astra-sites-importer-log.php:357
+#: inc/classes/class-astra-sites-importer-log.php:416
+msgid "Yes"
+msgstr "是"
+
+#: inc/classes/class-astra-sites-importer-log.php:360
+#: inc/classes/class-astra-sites-importer-log.php:419
+msgid "No"
+msgstr "否"
+
+#: inc/classes/class-astra-sites-importer-log.php:434
+msgid "You currently have no scheduled cron events."
+msgstr "您当前没有计划的 cron 事件。"
+
+#: inc/classes/class-astra-sites-importer.php:162
+#: inc/classes/class-astra-sites-importer.php:298
+#: inc/classes/class-astra-sites-importer.php:342
+#: inc/classes/class-astra-sites-importer.php:414
+#: inc/classes/class-astra-sites-importer.php:460
+#: inc/classes/class-astra-sites-importer.php:502
+#: inc/classes/class-astra-sites-importer.php:662
+#: inc/classes/class-astra-sites-importer.php:690
+#: inc/classes/class-astra-sites-importer.php:724
+#: inc/classes/class-astra-sites-importer.php:788
+#: inc/classes/class-astra-sites-importer.php:831
+#: inc/classes/class-astra-sites-importer.php:869
+#: inc/classes/class-astra-sites.php:379 inc/classes/class-astra-sites.php:594
+#: inc/classes/class-astra-sites.php:698 inc/classes/class-astra-sites.php:770
+#: inc/classes/class-astra-sites.php:964 inc/classes/class-astra-sites.php:983
+msgid "You are not allowed to perform this action"
+msgstr "您不能执行此操作"
+
+#: inc/classes/class-astra-sites-importer.php:324
+msgid "Customizer data is empty!"
+msgstr "自定义器数据为空！"
+
+#: inc/classes/class-astra-sites-importer.php:346
+msgid ""
+"If XMLReader is not available, it imports all other settings and only skips "
+"XML import. This creates an incomplete website. We should bail early and not "
+"import anything if this is not present."
+msgstr ""
+"如果XMLReader不可用，它将导入所有其他设置，并仅跳过XML导入。 这会创建一个不完"
+"整的网站 如果不存在，我们应该提前保释而不进口任何东西。"
+
+#: inc/classes/class-astra-sites-importer.php:379
+msgid "There was an error downloading the XML file."
+msgstr "下载 XML 文件时出错。"
+
+#: inc/classes/class-astra-sites-importer.php:393
+msgid "Invalid site XML file!"
+msgstr "无效的站点 XML 文件！"
+
+#: inc/classes/class-astra-sites-importer.php:438
+msgid "Site options are empty!"
+msgstr "站点选项为空！"
+
+#: inc/classes/class-astra-sites-importer.php:483
+msgid "Widget data is empty!"
+msgstr "小部件数据是空的！"
+
+#. translators: %1$s is the admin page URL, %2$s is product name.
+#: inc/classes/class-astra-sites-page.php:135
+msgid ""
+"Thank you for choosing %1$s! Check the library of <a class=\"astra-sites-"
+"getting-started-btn\" href=\"%2$s\">ready starter templates here »</a>"
+msgstr ""
+"感谢您选择 %1$s！<a class=\"astra-sites-getting-started-btn\" href=\"%2$s\">"
+"在此处查看初学者模板库 ›</a>"
+
+#: inc/classes/class-astra-sites-page.php:356
+msgid "Settings saved successfully."
+msgstr "设置已成功保存。"
+
+#: inc/classes/class-astra-sites-page.php:395
+msgid "Importing Starter Template..."
+msgstr "导入启动模板..."
+
+#: inc/classes/class-astra-sites-page.php:400
+msgid "The demo you are importing seems invalid. The site is not found."
+msgstr "您正在导入的演示似乎无效。找不到该站点。"
+
+#: inc/classes/class-astra-sites-page.php:402
+msgid "The demo you are importing is a premium demo."
+msgstr "您正在导入的演示是一个高级演示。"
+
+#: inc/classes/class-astra-sites-page.php:404
+msgid ""
+"The import process can take a few minutes depending on the size of the site "
+"and speed of the connection."
+msgstr "导入过程可能需要几分钟，具体取决于站点的大小和连接速度。"
+
+#: inc/classes/class-astra-sites-page.php:435
+msgid "Site Imported Successfully!"
+msgstr "网站成功导入！"
+
+#: inc/classes/class-astra-sites-page.php:436
+msgid "Visit Site"
+msgstr "访问网站"
+
+#: inc/classes/class-astra-sites-page.php:485
+msgid "Getting Started"
+msgstr "入门指南"
+
+#: inc/classes/class-astra-sites-page.php:491
+msgid "Select Page Builder"
+msgstr "选择页面构建器"
+
+#: inc/classes/class-astra-sites-page.php:492
+msgid ""
+"We offer starter templates that can be imported in one click. These sites "
+"are available in the following page builders. Please choose your preferred "
+"page builder from the list below."
+msgstr ""
+"我们提供可一键导入的入门模板。这些网站可在以下页面构建器中找到。请从下面的列"
+"表中选择您喜欢的页面构建器。"
+
+#: inc/classes/class-astra-sites-page.php:552
+msgid "My Favorite"
+msgstr "我的最爱"
+
+#: inc/classes/class-astra-sites-page.php:557 inc/includes/templates.php:130
+msgid "Sync Library"
+msgstr "同步库"
+
+#: inc/classes/class-astra-sites-page.php:646
+#: inc/classes/class-astra-sites-page.php:648
+#: inc/classes/class-astra-sites-page.php:660
+#: inc/classes/class-astra-sites.php:1178 inc/includes/templates.php:28
+#: inc/includes/templates.php:35
+msgid "All"
+msgstr "所有"
+
+#: inc/classes/class-astra-sites-page.php:665 inc/includes/templates.php:29
+msgid "Free"
+msgstr "免费"
+
+#: inc/classes/class-astra-sites-page.php:670 inc/includes/admin-page.php:244
+#: inc/includes/admin-page.php:333 inc/includes/admin-page.php:394
+#: inc/includes/templates.php:30 inc/includes/templates.php:181
+#: inc/includes/templates.php:308 inc/includes/templates.php:394
+msgid "Premium"
+msgstr "高级"
+
+#: inc/classes/class-astra-sites-page.php:678 inc/includes/templates.php:44
+msgid "Search..."
+msgstr "搜索..."
+
+#: inc/classes/class-astra-sites-page.php:752
+msgid "Gutenberg"
+msgstr "古腾堡"
+
+#: inc/classes/class-astra-sites-page.php:754
+msgid "The default WordPress editor"
+msgstr "默认的WordPress编辑器"
+
+#: inc/classes/class-astra-sites-page.php:758
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/classes/class-astra-sites-page.php:763
+msgid "Beaver Builder"
+msgstr "海狸网页编辑器"
+
+#: inc/classes/class-astra-sites-page.php:768
+msgid "Brizy"
+msgstr "Brizy"
+
+#. translators: 1: The number of years in an interval of time.
+#: inc/classes/class-astra-sites-page.php:866
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s 年"
+
+#. translators: 1: The number of months in an interval of time.
+#: inc/classes/class-astra-sites-page.php:868
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s 月"
+
+#. translators: 1: The number of weeks in an interval of time.
+#: inc/classes/class-astra-sites-page.php:870
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s 周"
+
+#. translators: 1: The number of days in an interval of time.
+#: inc/classes/class-astra-sites-page.php:872
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s 天"
+
+#. translators: 1: The number of hours in an interval of time.
+#: inc/classes/class-astra-sites-page.php:874
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s 小时"
+
+#. translators: 1: The number of minutes in an interval of time.
+#: inc/classes/class-astra-sites-page.php:876
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s 分钟"
+
+#. translators: 1: The number of seconds in an interval of time.
+#: inc/classes/class-astra-sites-page.php:878
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s 秒"
+
+#: inc/classes/class-astra-sites-page.php:882
+msgid "now"
+msgstr "现在"
+
+#: inc/classes/class-astra-sites-page.php:936
+msgid ""
+"ERROR! Cron schedules are disabled by setting constant DISABLE_WP_CRON to "
+"true.<br/>To start the import process please enable the cron by setting the "
+"constant to false. E.g. define( 'DISABLE_WP_CRON', false );"
+msgstr ""
+"错误！通过将常量DISABLE_WP_CRON设置为 true 来禁用 Cron 计划。<br>要启动导入过"
+"程，请通过将常量设置为 false 来启用 cron。例如定义 （ \"DISABLE_WP_CRON\"， "
+"否 ）;"
+
+#: inc/classes/class-astra-sites-page.php:940
+msgid ""
+"ERROR! Cron schedules are disabled by setting constant ALTERNATE_WP_CRON to "
+"true.<br/>To start the import process please enable the cron by setting the "
+"constant to false. E.g. define( 'ALTERNATE_WP_CRON', false );"
+msgstr ""
+"错误！通过将常量ALTERNATE\\u WP\\u Cron设置为true，可以禁用Cron计划。<br/>要"
+"启动导入过程，请通过将常量设置为false来启用Cron。例如，define（'ALTERNATE\\u "
+"WP\\u CRON'，false）;"
+
+#. translators: 1: The HTTP response code.
+#: inc/classes/class-astra-sites-page.php:976
+msgid "Unexpected HTTP response code: %s"
+msgstr "意外的 HTTP 响应代码： %s"
+
+#. translators: %1$s product name
+#: inc/classes/class-astra-sites-white-label.php:223
+msgid "%1$s Branding"
+msgstr "%1$s 品牌"
+
+#: inc/classes/class-astra-sites-wp-cli.php:120
+msgid "No sites found! Try another query."
+msgstr "找不到网站！尝试其他查询。"
+
+#: inc/classes/class-astra-sites-wp-cli.php:155
+msgid "Are you sure you want to import the site?"
+msgstr "您确定要导入该网站吗？"
+
+#: inc/classes/class-astra-sites-wp-cli.php:161
+#: inc/classes/class-astra-sites-wp-cli.php:422
+msgid "Invalid Site ID,"
+msgstr "无效站点 ID,"
+
+#. Translators: %s is the error message.
+#: inc/classes/class-astra-sites-wp-cli.php:171
+msgid "Site Import failed due to error: %s"
+msgstr "站点导入失败由于错误：%s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:183
+msgid ""
+"This is Premium site. Please activate the \"Starter Templates\" license!"
+msgstr "这是高级网站。请激活\"启动模板\"许可证！"
+
+#: inc/classes/class-astra-sites-wp-cli.php:184
+msgid ""
+"Use `wp plugin deactivate astra-sites` and then `wp plugin activate astra-"
+"pro-sites`"
+msgstr "使用\"WP插件停用 astra 网站\"，然后使用\"WP插件激活 astra专业站点\""
+
+#. translators: %s is the activate plugin license link.
+#: inc/classes/class-astra-sites-wp-cli.php:188
+msgid ""
+"Use CLI command `wp brainstormforce license activate astra-pro-sites "
+"{YOUR_LICENSE_KEY}`"
+msgstr ""
+"使用CLI命令`wp brainstormforce license activate astra-pro-sites "
+"{YOUR_LICENSE_KEY}`"
+
+#: inc/classes/class-astra-sites-wp-cli.php:201
+msgid "Installing Plugins.."
+msgstr "正在安装插件."
+
+#: inc/classes/class-astra-sites-wp-cli.php:216
+msgid "Activating Plugins.."
+msgstr "激活插件.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:268
+msgid "Importing Site Options.."
+msgstr "导入站点选项。"
+
+#: inc/classes/class-astra-sites-wp-cli.php:276
+msgid "Importing Widgets.."
+msgstr "导入小部件。"
+
+#. translators: %s is the site URL.
+#: inc/classes/class-astra-sites-wp-cli.php:286
+msgid ""
+"Site Imported Successfully!\n"
+"Visit: %s"
+msgstr "网站导入成功！访问： %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:321
+msgid "Invalid XML URL."
+msgstr "无效的 XML链接。"
+
+#. translators: %s is the XML file URL.
+#: inc/classes/class-astra-sites-wp-cli.php:326
+msgid "Downloading %s"
+msgstr "正在下载 %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:330
+msgid "Importing WXR.."
+msgstr "导入 WXR.."
+
+#. translators: %s is error message.
+#: inc/classes/class-astra-sites-wp-cli.php:334
+msgid "WXR file Download Failed. Error %s"
+msgstr "WXR文件下载失败。错误%s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:361
+msgid "Are you sure you want to delete imported site data?"
+msgstr "您是否确定要删除导入的站点数据？"
+
+#: inc/classes/class-astra-sites-wp-cli.php:369
+msgid "Reseting Posts.."
+msgstr "重置文章..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:376
+msgid "Reseting Terms.."
+msgstr "重置条款。"
+
+#: inc/classes/class-astra-sites-wp-cli.php:383
+msgid "Resting WP Forms..."
+msgstr "重置 WP Forms..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:427
+msgid "Importing customizer settings.."
+msgstr "导入自定义器设置.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:476
+msgid "Please add valid parameter."
+msgstr "请添加有效的参数。"
+
+#. translators: %s is the current page builder name.
+#: inc/classes/class-astra-sites-wp-cli.php:493
+msgid "Default page builder is \"%s\"."
+msgstr "默认页面构建器是\"%s\"。"
+
+#. translators: %s is the page builder name.
+#: inc/classes/class-astra-sites-wp-cli.php:501
+msgid "\"%s\" is set as default page builder."
+msgstr "\"%s\"设置为默认页面构建器。"
+
+#: inc/classes/class-astra-sites-wp-cli.php:504
+msgid ""
+"Invalid page builder slug. \n"
+"Check all page builder slugs with command `wp astra-sites page_builder list`"
+msgstr ""
+"无效的页面生成器 slug。\n"
+"使用命令\"WP astra 网站page_builder列表检查所有页面生成器 slugs"
+
+#: inc/classes/class-astra-sites-wp-cli.php:507
+msgid ""
+"Invalid parameter! \n"
+"Please use `list` or `set` parameter."
+msgstr ""
+"参数无效！\n"
+"请使用\"列表\"或\"设置\"参数。"
+
+#: inc/classes/class-astra-sites-wp-cli.php:561
+msgid ""
+"This page builder plugin is not installed. Please try a different page "
+"builder."
+msgstr "此页面构建器插件未安装。请尝试其他页面构建器。"
+
+#: inc/classes/class-astra-sites-wp-cli.php:570
+msgid "This site type does not exist. Please try a different site type."
+msgstr "此站点类型不存在。请尝试不同的网站类型。"
+
+#: inc/classes/class-astra-sites-wp-cli.php:579
+msgid ""
+"This site category does not exist. Please try a different site category."
+msgstr "此站点类别不存在。请尝试不同的网站类别。"
+
+#: inc/classes/class-astra-sites.php:208
+msgid "See Quick Links"
+msgstr "查看快速链接"
+
+#: inc/classes/class-astra-sites.php:213
+msgid "Upgrade to Premium"
+msgstr "升级到高级版"
+
+#: inc/classes/class-astra-sites.php:219
+msgid "Support & Docs"
+msgstr "支持和文档"
+
+#: inc/classes/class-astra-sites.php:224
+msgid "Join Facebook Group"
+msgstr "加入Facebook群组"
+
+#: inc/classes/class-astra-sites.php:383
+msgid "Invalid API URL"
+msgstr "无效的 API 接口"
+
+#: inc/classes/class-astra-sites.php:395
+msgid "Invalid Post Meta"
+msgstr "无效的文章标签"
+
+#: inc/classes/class-astra-sites.php:402
+msgid "Invalid Post ID or Elementor Meta"
+msgstr "无效的文章ID 或Elementor标签"
+
+#: inc/classes/class-astra-sites.php:424
+msgid "Provided API URL is empty! Please try again!"
+msgstr "提供的 API 接口为空！请重试！"
+
+#. translators: %s Error Message
+#: inc/classes/class-astra-sites.php:441
+msgid "API Request could not be performed - %s"
+msgstr "无法执行 API 请求 - %s"
+
+#. translators: %s Error Message
+#: inc/classes/class-astra-sites.php:446
+msgid "API Request has failed - %s"
+msgstr "API 请求已失败 - %s"
+
+#: inc/classes/class-astra-sites.php:475
+msgid "Internal Server Error."
+msgstr "内部服务器错误。"
+
+#. translators: %s IP address.
+#: inc/classes/class-astra-sites.php:481
+msgid "Client IP: %1$s </br> Error code: %2$s"
+msgstr "客户端 IP： %1$s</br> 错误代码： %2$s"
+
+#: inc/classes/class-astra-sites.php:778
+msgid "Need to send URL of the image to be downloaded"
+msgstr "需要发送要下载的图像的URL"
+
+#: inc/classes/class-astra-sites.php:803
+msgid "Could not download the image."
+msgstr "无法下载图像。"
+
+#: inc/classes/class-astra-sites.php:991
+msgid "Theme Activated"
+msgstr "主题已激活"
+
+#: inc/classes/class-astra-sites.php:1037
+msgid "User does not have permission!"
+msgstr "用户无权限！"
+
+#: inc/classes/class-astra-sites.php:1179
+msgid "Animals"
+msgstr "动物"
+
+#: inc/classes/class-astra-sites.php:1180
+msgid "Architecture/Buildings"
+msgstr "建设/创建"
+
+#: inc/classes/class-astra-sites.php:1181
+msgid "Backgrounds/Textures"
+msgstr "背景/纹理"
+
+#: inc/classes/class-astra-sites.php:1182
+msgid "Beauty/Fashion"
+msgstr "美容/时尚"
+
+#: inc/classes/class-astra-sites.php:1183
+msgid "Business/Finance"
+msgstr "业务/财务"
+
+#: inc/classes/class-astra-sites.php:1184
+msgid "Computer/Communication"
+msgstr "计算机/通信"
+
+#: inc/classes/class-astra-sites.php:1185
+msgid "Education"
+msgstr "教育"
+
+#: inc/classes/class-astra-sites.php:1186
+msgid "Emotions"
+msgstr "情感"
+
+#: inc/classes/class-astra-sites.php:1187
+msgid "Food/Drink"
+msgstr "食物/饮料"
+
+#: inc/classes/class-astra-sites.php:1188
+msgid "Health/Medical"
+msgstr "健康/医疗"
+
+#: inc/classes/class-astra-sites.php:1189
+msgid "Industry/Craft"
+msgstr "工业/工艺"
+
+#: inc/classes/class-astra-sites.php:1190
+msgid "Music"
+msgstr "音乐"
+
+#: inc/classes/class-astra-sites.php:1191
+msgid "Nature/Landscapes"
+msgstr "自然/风景"
+
+#: inc/classes/class-astra-sites.php:1192
+msgid "People"
+msgstr "人"
+
+#: inc/classes/class-astra-sites.php:1193
+msgid "Places/Monuments"
+msgstr "地点/纪念品"
+
+#: inc/classes/class-astra-sites.php:1194
+msgid "Religion"
+msgstr "关系"
+
+#: inc/classes/class-astra-sites.php:1195
+msgid "Science/Technology"
+msgstr "科学/技术"
+
+#: inc/classes/class-astra-sites.php:1196
+msgid "Sports"
+msgstr "跑车"
+
+#: inc/classes/class-astra-sites.php:1197
+msgid "Transportation/Traffic"
+msgstr "交通/交通工具"
+
+#: inc/classes/class-astra-sites.php:1198
+msgid "Travel/Vacation"
+msgstr "旅行/度假"
+
+#: inc/classes/class-astra-sites.php:1201
+msgid "Popular"
+msgstr "流行"
+
+#: inc/classes/class-astra-sites.php:1202
+msgid "Latest"
+msgstr "最新"
+
+#: inc/classes/class-astra-sites.php:1203
+msgid "Upcoming"
+msgstr "即将到来"
+
+#: inc/classes/class-astra-sites.php:1204
+msgid "Editor's Choice"
+msgstr "编辑推荐"
+
+#: inc/classes/class-astra-sites.php:1207
+msgid "Any Orientation"
+msgstr "任何方向"
+
+#: inc/classes/class-astra-sites.php:1208
+msgid "Vertical"
+msgstr "垂直"
+
+#: inc/classes/class-astra-sites.php:1209
+msgid "Horizontal"
+msgstr "横向"
+
+#: inc/classes/class-astra-sites.php:1211
+msgid "Free Images"
+msgstr "免费图片"
+
+#: inc/classes/class-astra-sites.php:1212
+msgid "Search - Ex: flowers"
+msgstr "搜索 - 前：鲜花"
+
+#: inc/classes/class-astra-sites.php:1213
+msgid "Downloading..."
+msgstr "下载中……"
+
+#: inc/classes/class-astra-sites.php:1214
+msgid "Validating..."
+msgstr "正在验证..."
+
+#: inc/classes/class-astra-sites.php:1215
+msgid "Please enter an API key."
+msgstr "请输入 API 密钥。"
+
+#: inc/classes/class-astra-sites.php:1216
+msgid "An error occured with code "
+msgstr "代码发生错误 "
+
+#: inc/classes/class-astra-sites.php:1273
+msgid "Installed! Activating.."
+msgstr "已安装！开启中..."
+
+#: inc/classes/class-astra-sites.php:1274
+msgid "Activating..."
+msgstr "启用中..."
+
+#: inc/classes/class-astra-sites.php:1275
+msgid "Activated!"
+msgstr "未激活!"
+
+#: inc/classes/class-astra-sites.php:1276
+msgid "Installing..."
+msgstr "安装…"
+
+#: inc/classes/class-astra-sites.php:1419
+msgid "Upgrade"
+msgstr "升级"
+
+#: inc/classes/class-astra-sites.php:1423
+msgid ""
+"Syncing template library in the background. The process can take anywhere "
+"between 2 to 3 minutes. We will notify you once done."
+msgstr "正在后台同步模板库。这个过程可能需要2到3分钟。完成后我们会通知您。"
+
+#: inc/classes/class-astra-sites.php:1424
+msgid ""
+"Some of the files required during the import process are missing.<br/><br/"
+">Please try again after some time."
+msgstr "导入过程中所需的某些文件丢失。<br/><br/>请在一段时间后重试。"
+
+#: inc/classes/class-astra-sites.php:1425
+msgid ""
+"<p>WordPress debug mode is currently enabled on your website. This has "
+"interrupted the import process..</p><p>Kindly disable debug mode and try "
+"importing Starter Template again.</p><p>You can add the following code into "
+"the wp-config.php file to disable debug mode.</p><p><code>define('WP_DEBUG', "
+"false);</code></p>"
+msgstr ""
+"<p>WordPress 调试模式当前已在您的网站上启用。这中断了进口流程。</p><p>请禁用"
+"调试模式，并尝试再次导入入动器模板。</p><p>您可以将以下代码添加到 wp 配置.php"
+"文件中以禁用调试模式。</p><p><code>define('WP_DEBUG', false);</code></p>"
+
+#. translators: %s is a documentation link.
+#: inc/classes/class-astra-sites.php:1427
+msgid ""
+"<p>We are facing a temporary issue in importing this template.</p><p>Read <a "
+"href=\"%s\" target=\"_blank\">article</a> to resolve the issue and continue "
+"importing template.</p>"
+msgstr ""
+"<p>我们在导入此模板时面临暂时问题。</p><p>阅读 <a href=\"%s\" target=\"_blank"
+"\">文章</a> 以解决问题并继续导入模板。</p>"
+
+#. translators: %s is a documentation link.
+#: inc/classes/class-astra-sites.php:1429
+msgid ""
+"<p>We are facing a temporary issue in installing the required plugins for "
+"this template.</p><p>Read <a href=\"%s\" target=\"_blank\">article</a> to "
+"resolve the issue and continue importing template.</p>"
+msgstr ""
+"<p>我们在为此模板安装所需的插件时面临暂时问题。</p><p>阅读 <a href=\"%s\" "
+"target=\"_blank\">文章</a> 以解决问题并继续导入模板。</p>"
+
+#. translators: %s are white label strings.
+#: inc/classes/class-astra-sites.php:1433
+msgid ""
+"Warning! %1$s Import process is not complete. Don't close the window until "
+"import process complete. Do you still want to leave the window?"
+msgstr ""
+"警告！%1$s导入过程不完整。在导入过程完成之前，不要关闭窗口。你还想离开窗户"
+"吗？"
+
+#: inc/classes/class-astra-sites.php:1434
+msgid "Done! View Site"
+msgstr "已完成！查看网站"
+
+#. translators: %s is a template name
+#: inc/classes/class-astra-sites.php:1437
+msgid "Import \"%s\" Template"
+msgstr "导入\"%s\"模板"
+
+#: inc/classes/class-astra-sites.php:1440
+msgid "Installing Required Plugins.."
+msgstr "正在安装必需的插件.."
+
+#. translators: %s are white label strings.
+#: inc/classes/class-astra-sites.php:1442
+msgid "Installing %1$s Theme.."
+msgstr "安装 %1$s 主题.."
+
+#: inc/classes/class-astra-sites.php:1464
+msgid "Dismiss this notice."
+msgstr "关闭此通知。"
+
+#: inc/classes/class-astra-sites.php:1466 inc/includes/admin-page.php:770
+msgid "One Last Step.."
+msgstr "最后一步.."
+
+#: inc/classes/class-astra-sites.php:1467 inc/includes/admin-page.php:793
+msgid "Your Selected Website is Being Imported."
+msgstr "您选定的网站正在导入。"
+
+#: inc/classes/class-astra-sites.php:1468 inc/includes/admin-page.php:795
+msgid "Your Selected Template is Being Imported."
+msgstr "您选定的模板正在导入。"
+
+#: inc/classes/class-astra-sites.php:1470
+msgid ""
+"We have sent you a surprise gift on your email address! Please check your "
+"inbox!"
+msgstr "我们在您的电子邮件地址上向您发送了一份惊喜礼物！请检查您的收件箱！"
+
+#: inc/classes/class-astra-sites.php:1472
+msgid "Looks like the template you are importing is temporarily not available."
+msgstr "看起来您导入的模板暂时不可用。"
+
+#: inc/classes/class-astra-sites.php:1473
+msgid ""
+"We could not start the import process and this is the message from WordPress:"
+msgstr "我们无法启动导入过程，这是来自WordPress的消息："
+
+#: inc/classes/class-astra-sites.php:1474
+msgid "There was an error connecting to the Starter Templates API."
+msgstr "连接到入门模板 API 时出现错误。"
+
+#: inc/classes/class-astra-sites.php:1475
+msgid "There was an error while importing the content."
+msgstr "导入内容时出现错误。"
+
+#: inc/classes/class-astra-sites.php:1476
+msgid ""
+"To import content, WordPress needs to store XML file in /wp-content/ folder. "
+"Please get in touch with your hosting provider."
+msgstr ""
+"要导入内容，WordPress 需要将 XML 文件存储在 /wp 内容/文件夹中。请与您的托管提"
+"供商联系。"
+
+#: inc/classes/class-astra-sites.php:1477
+msgid ""
+"Looks like your host probably could not store XML file in /wp-content/ "
+"folder."
+msgstr "看起来您的主机可能无法将 XML 文件存储在 /wp 内容/文件夹中。"
+
+#. translators: %s HTML tags
+#: inc/classes/class-astra-sites.php:1479
+msgid ""
+"%1$sWe could not start the import process due to failed AJAX request and "
+"this is the message from WordPress:%2$s"
+msgstr ""
+"%1$s由于 AJAX 请求失败，我们无法启动导入过程，这是来自 WordPress 的消息：%2$s"
+
+#. translators: %s URL to document.
+#: inc/classes/class-astra-sites.php:1481
+msgid ""
+"%1$sRead <a href=\"%2$s\" target=\"_blank\">article</a> to resolve the issue "
+"and continue importing template.%3$s"
+msgstr ""
+"%1$s阅读 <a href=\"%2$s\" target=\"_blank\">文章</a> 以解决问题并继续导入模"
+"板。%3$s"
+
+#. translators: %s URL to document.
+#: inc/classes/class-astra-sites.php:1490
+msgid ""
+"%1$sWe could not complete the import process due to failed AJAX request and "
+"this is the message:%2$s"
+msgstr "%1$s由于 AJAX 请求失败，我们无法完成导入过程，这就是消息：%2$s"
+
+#. translators: %s URL to document.
+#: inc/classes/class-astra-sites.php:1492
+msgid "%1$sPlease report this <a href=\"%2$s\" target=\"_blank\">here</a>.%3$s"
+msgstr "%1$s请 <a href=\"%2$s\" target=\"_blank\">在此处</a>报告。%3$s"
+
+#: inc/classes/class-astra-sites.php:1541
+msgid "XMLReader Support Missing"
+msgstr "缺少XML阅读器支持"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:1543
+msgid ""
+"You're close to importing the template. To complete the process, enable "
+"XMLReader support on your website.."
+msgstr "您即将导入模板。要完成该过程，请在您的网站上启用 XMLReader 支持。"
+
+#: inc/classes/class-astra-sites.php:1543
+#: inc/classes/class-astra-sites.php:1548
+#: inc/classes/class-astra-sites.php:1553
+msgid ""
+"Read an article <a href=\"%s\" target=\"_blank\">here</a> to resolve the "
+"issue."
+msgstr "<a href=\"%s\" target=\"_blank\">在此处</a>阅读一篇文章以解决问题。"
+
+#: inc/classes/class-astra-sites.php:1546
+msgid "cURL Support Missing"
+msgstr "缺少cURL支持"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:1548
+msgid "To run a smooth import, kindly enable cURL support on your website."
+msgstr "要顺利导入，请在您的网站上启用 cURL 支持。"
+
+#: inc/classes/class-astra-sites.php:1551
+msgid "Disable Debug Mode"
+msgstr "禁用调试模式"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:1553
+msgid ""
+"WordPress debug mode is currently enabled on your website. With this, any "
+"errors from third-party plugins might affect the import process."
+msgstr ""
+"WordPress 调试模式当前已在您的网站上启用。因此，第三方插件的任何错误都可能影"
+"响导入过程。"
+
+#: inc/classes/class-astra-sites.php:1553
+msgid ""
+"Kindly disable it to continue importing the Starter Template. To do so, you "
+"can add the following code into the wp-config.php file."
+msgstr ""
+"请禁用它继续导入入入器模板。为此，您可以将以下代码添加到 wp 配置文件中.php文"
+"件。"
+
+#: inc/classes/class-astra-sites.php:1556
+msgid "Update Plugin"
+msgstr "更新插件"
+
+#. translators: %s update page link.
+#: inc/classes/class-astra-sites.php:1558
+msgid "Updates are available for plugins used in this starter template."
+msgstr "此启动模板中使用的插件可进行更新。"
+
+#: inc/classes/class-astra-sites.php:1558
+msgid ""
+"Kindly <a href=\"%s\" target=\"_blank\">update</a> them for a successful "
+"import. Skipping this step might break the template design/feature."
+msgstr ""
+"请 <a href=\"%s\" target=\"_blank\">更新</a> 它们以获得成功的导入。跳过此步骤"
+"可能会破坏模板设计/功能。"
+
+#: inc/classes/class-astra-sites.php:1561 inc/includes/admin-page.php:491
+#: inc/includes/templates.php:442
+msgid "Required Plugins Missing"
+msgstr "缺少所需的插件"
+
+#: inc/classes/class-astra-sites.php:1562 inc/includes/admin-page.php:495
+msgid ""
+"This starter template requires premium plugins. As these are third party "
+"premium plugins, you'll need to purchase, install and activate them first."
+msgstr ""
+"此基础模板需要高级插件。由于这些是第三方高级插件，您需要先购买、安装和激活它"
+"们。"
+
+#: inc/classes/class-astra-sites.php:1565
+msgid "Dynamic Page"
+msgstr "动态页面"
+
+#: inc/classes/class-astra-sites.php:1566 inc/includes/admin-page.php:708
+msgid ""
+"The page template you are about to import contains a dynamic widget/module. "
+"Please note this dynamic data will not be available with the imported page."
+msgstr ""
+"您即将导入的页面模板包含动态小部件/模块。请注意，导入页面将不可用此动态数据。"
+
+#: inc/classes/class-astra-sites.php:1566 inc/includes/admin-page.php:709
+msgid "You will need to add it manually on the page."
+msgstr "您将需要手动将其添加到页面上。"
+
+#: inc/classes/class-astra-sites.php:1566 inc/includes/admin-page.php:710
+msgid "This dynamic content will be available when you import the entire site."
+msgstr "导入整个网站时，将提供此动态内容。"
+
+#. translators: %s are link.
+#: inc/classes/class-astra-sites.php:1652
+msgid ""
+"This is a premium template available with Essential Bundle and Growth "
+"Bundle. you can purchase it from <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+"这是一个高级模板，可与基本捆绑包和增长捆绑包。你可以从 <a href=\"%s\" target="
+"\"_blank\">这里</a>购买。"
+
+#. translators: %s are link.
+#: inc/classes/class-astra-sites.php:1656
+msgid ""
+"This is a premium template available with Essential Bundle and Growth "
+"Bundle. <a href=\"%s\" target=\"_blank\">Validate Your License</a> Key to "
+"import this template."
+msgstr ""
+"这是一个高级模板，可与基本捆绑包和增长捆绑包。 <a href=\"%s\" target=\"_blank"
+"\">验证您的许可证</a> 导入此模板的关键。"
+
+#: inc/classes/class-astra-sites.php:1682
+msgid "Template"
+msgstr "模板"
+
+#: inc/classes/class-astra-sites.php:1683
+msgid "Block"
+msgstr "块"
+
+#: inc/classes/class-astra-sites.php:1684 inc/includes/templates.php:59
+msgid "Dismiss"
+msgstr "忽略"
+
+#: inc/classes/class-astra-sites.php:1685 inc/includes/admin-page.php:855
+msgid "Install Required Plugins"
+msgstr "安装所需的插件"
+
+#. translators: %s are link.
+#: inc/classes/class-astra-sites.php:1689
+msgid ""
+"You can locate <strong>Starter Templates Settings</strong> under the "
+"<strong>Page Settings</strong> of the Style Tab."
+msgstr ""
+"您可以在样式选项卡的<strong>页面设置</strong>下找到<strong>入门模板设置</"
+"strong>。"
+
+#: inc/classes/class-astra-sites.php:1691
+msgid "Read More →"
+msgstr "阅读更多 →"
+
+#: inc/classes/class-astra-sites.php:1808
+msgid "Error: You don't have the required permissions to install plugins."
+msgstr "错误：您没有安装插件所需的权限。"
+
+#: inc/classes/class-astra-sites.php:1968
+msgid ""
+"Insufficient Permission. Please contact your Super Admin to allow the "
+"install required plugin permissions."
+msgstr "许可不足。请联系您的超级管理员，以允许安装所需的插件权限。"
+
+#: inc/classes/class-astra-sites.php:2160
+msgid "Template library refreshed!"
+msgstr "模板库刷新！"
+
+#: inc/importers/batch-processing/helpers/class-wp-background-process-astra-site-importer.php:87
+msgid "All processes are complete"
+msgstr "所有流程都已完成"
+
+#. translators: %d are the minutes.
+#: inc/importers/batch-processing/helpers/class-wp-background-process.php:444
+msgid "Every %d Minutes"
+msgstr "每 %d 分钟"
+
+#: inc/importers/class-astra-widget-importer.php:94
+msgid "Import data could not be read. Please try a different file."
+msgstr "无法读取导入数据，请尝试使用其他文件。"
+
+#: inc/importers/class-astra-widget-importer.php:138
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr "小工具在这个主题不存在（未启用）"
+
+#: inc/importers/class-astra-widget-importer.php:160
+msgid "Site does not support widget"
+msgstr "网站不支持小部件"
+
+#: inc/importers/class-astra-widget-importer.php:196
+msgid "Widget already exists"
+msgstr "小部件已经存在"
+
+#: inc/importers/class-astra-widget-importer.php:265
+msgid "Imported"
+msgstr "导入"
+
+#: inc/importers/class-astra-widget-importer.php:268
+msgid "Imported to Inactive"
+msgstr "导入无效"
+
+#: inc/importers/class-astra-widget-importer.php:274
+msgid "No Title"
+msgstr "无标题"
+
+#: inc/importers/wxr-importer/class-astra-wxr-importer.php:424
+msgid "Import complete!"
+msgstr "导入完成！"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:233
+msgid "Could not open the file for parsing"
+msgstr "无法打开文件进行解析"
+
+#. translators: %1$s is WXR version, %2$s is max supported WXR version.
+#: inc/importers/wxr-importer/class-wxr-importer.php:271
+#: inc/importers/wxr-importer/class-wxr-importer.php:390
+#: inc/importers/wxr-importer/class-wxr-importer.php:466
+msgid ""
+"This WXR file (version %1$s) is newer than the importer (version %2$s) and "
+"may not be supported. Please consider updating."
+msgstr ""
+"此 WXR 文件（版本 %1$s）比导入器（版本 %2$s）更新，可能不受支持。请考虑更新。"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:617
+msgid "The file does not exist, please try again."
+msgstr "该文件不存在，请重试。"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:677
+msgid "Invalid author mapping"
+msgstr "无效的作者映射"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:778
+msgid "Cannot import auto-draft posts"
+msgstr "无法导入自动草稿文章"
+
+#. translators: %1$s is the import message, %2$s is post type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:873
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr "无法导入\"%1$s\"：无效后类型 %2$s"
+
+#. translators: %1$s single post type, %2$s is post title.
+#: inc/importers/wxr-importer/class-wxr-importer.php:885
+msgid "%1$s \"%2$s\" already exists."
+msgstr "%1$s \"%2$s\"已存在。"
+
+#. translators: %s is post title
+#: inc/importers/wxr-importer/class-wxr-importer.php:983
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "请跳过这个链接 “%s”, 链接尝试无果"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1007
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr "导入\"%1$s\" (%2$s)失败"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#. translators: %1$s is the taxonomy name, %2$s is taxonomy.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1042
+#: inc/importers/wxr-importer/class-wxr-importer.php:1929
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr "导入的\"%1$s\"（%2$s）"
+
+#. translators: %1$s is the original post id, %2$s is old post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1050
+msgid "Post %1$d remapped to %2$d"
+msgstr "发布%1$d重新映射到%2$d"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1201
+msgid "Invalid file type"
+msgstr "无效的文件类型"
+
+#. translators: %s user login name
+#: inc/importers/wxr-importer/class-wxr-importer.php:1706
+msgid "Failed to import user \"%s\""
+msgstr "无法导入用户 \"%s\""
+
+#. translators: %s user login name
+#: inc/importers/wxr-importer/class-wxr-importer.php:1730
+msgid "Imported user \"%s\""
+msgstr "已导入用户 \"%s\""
+
+#. translators: %1$s original user Id, %2$s old user Id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1737
+msgid "User %1$d remapped to %2$d"
+msgstr "用户%1$d重新映射到%2$d"
+
+#. translators: %1$s is the taxonomy, %2$s is taxonomy name.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1902
+msgid "Failed to import %1$s %2$s"
+msgstr "无法导入 %1$s %2$s"
+
+#. translators: %1$s is term original id, %2$s is term id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1937
+msgid "Term %1$d remapped to %2$d"
+msgstr "期限%1$d重新映射到%2$d"
+
+#. translators: %1$s is error code, %2$s is error code header, %3$s is url.
+#: inc/importers/wxr-importer/class-wxr-importer.php:1995
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "远程服务器为%3$s返回%1$d%2$s"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2008
+msgid "Remote file is incorrect size"
+msgstr "远程文件大小不正确"
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2013
+msgid "Zero size file downloaded"
+msgstr "零大小的文件下载"
+
+#. translators: %s max file size.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2020
+msgid "Remote file is too large, limit is %s"
+msgstr "远程文件太大，限制是%s"
+
+#. translators: %d is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2053
+msgid "Running post-processing for post %d"
+msgstr "为后期%d运行后期处理"
+
+#. translators: %1$s is post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2069
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr "找不到\"%1$s\"的帖子父级（帖子 +%2$d）"
+
+#. translators: %1$d is post id, %2$d is parent post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2077
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr "发布%1$d已导入父级%2$d，但无法找到"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2094
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr "找不到“%1$s”的作者（帖子＃%2$d）"
+
+#. translators: %1$d is post id, %2$s is author slug.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2102
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr "发布%1$d已导入作者“%2$s”，但无法找到"
+
+#. translators: %d is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2131
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "文章%d被标记为进行后期处理，但没有要求。"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2145
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr "无法使用映射数据更新“%1$s”（后＃%2$d）"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2199
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr "找不到\"%1$s\"的菜单对象（后 @%2$d）"
+
+#. translators: %1$s is post id, %2$s is post object id, %3$s is menu type.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2207
+msgid ""
+"Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not "
+"be found"
+msgstr "帖子 %1$d 是使用 \"%2$d\" 类型的对象 \"%3$s\"导入的，但无法找到"
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2238
+msgid "Could not find the comment parent for comment #%d"
+msgstr "无法发现 #%d 的父级评论"
+
+#. translators: %1$s is comment id, %2$s is parent comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2245
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr "评论 %1$d 是使用父 %2$d 导入的,但找不到"
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2262
+msgid "Could not find the author for comment #%d"
+msgstr "找不到作者评论#%d"
+
+#. translators: %1$d is comment id, %2$d is author id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2269
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr "注释%1$d已导入作者%2$d，但无法找到"
+
+#. translators: %d is comment id.
+#: inc/importers/wxr-importer/class-wxr-importer.php:2289
+msgid "Could not update comment #%d with mapped data"
+msgstr "无法升级 #%d 评论的数据"
+
+#: inc/includes/admin-page.php:57
+msgid "Heading"
+msgstr "标题"
+
+#: inc/includes/admin-page.php:75
+msgid "We're Almost There!"
+msgstr "我们快到了！"
+
+#: inc/includes/admin-page.php:80
+msgid ""
+"You're close to importing the template. To complete the process, please "
+"clear the following conditions."
+msgstr "您即将导入模板。要完成该过程，请清除以下条件。"
+
+#: inc/includes/admin-page.php:110 inc/includes/admin-page.php:116
+#: inc/includes/admin-page.php:118 inc/includes/admin-page.php:503
+#: inc/includes/admin-page.php:713 inc/includes/admin-page.php:917
+#: inc/includes/templates.php:454
+msgid "Skip & Import"
+msgstr "跳过并导入"
+
+#: inc/includes/admin-page.php:111 inc/includes/admin-page.php:119
+#: inc/includes/admin-page.php:504 inc/includes/admin-page.php:714
+#: inc/includes/admin-page.php:918 inc/includes/templates.php:455
+msgid "Cancel"
+msgstr "取消"
+
+#: inc/includes/admin-page.php:115
+msgid "Update"
+msgstr "更新"
+
+#: inc/includes/admin-page.php:130 inc/includes/image-templates.php:58
+#: inc/includes/image-templates.php:98 inc/includes/templates.php:236
+#: inc/includes/templates.php:319 inc/includes/templates.php:405
+#: inc/includes/templates.php:463
+msgid "Sorry No Results Found."
+msgstr "很抱歉没有找到结果。"
+
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:139 inc/includes/image-templates.php:102
+#: inc/includes/templates.php:242 inc/includes/templates.php:325
+#: inc/includes/templates.php:411 inc/includes/templates.php:472
+msgid ""
+"Don't see a template you would like to import?<br><a target=\"_blank\" href="
+"\"%1$s\">Make a Template Suggestion!</a>"
+msgstr ""
+"看不到要导入的模板？<br><a target=\"_blank\" href=\"%1$s\">提出模板建议！</a>"
+
+#: inc/includes/admin-page.php:142 inc/includes/admin-page.php:165
+#: inc/includes/templates.php:245 inc/includes/templates.php:328
+#: inc/includes/templates.php:414 inc/includes/templates.php:475
+msgid "Back to Templates"
+msgstr "返回模板"
+
+#: inc/includes/admin-page.php:152
+msgid "Favorite Template List Is Empty."
+msgstr "最喜欢的模板列表是空的。"
+
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:161
+msgid ""
+"You'll notice a heart-shaped symbol on every template card. Simply tap this "
+"icon to mark the template as Favorite."
+msgstr ""
+"您会注意到每个模板卡上都有一个心形符号。只需点击此图标即可将模板标记为\"收藏"
+"夹\"。"
+
+#: inc/includes/admin-page.php:185 inc/includes/admin-page.php:282
+#: inc/includes/admin-page.php:351
+msgid "Make as Favorite"
+msgstr "加入收藏"
+
+#: inc/includes/admin-page.php:195 inc/includes/admin-page.php:291
+msgid "Make as Unfavorite"
+msgstr "不喜欢"
+
+#. translators: %s are white label strings.
+#. translators: %s are white label strings.
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:244 inc/includes/admin-page.php:333
+#: inc/includes/admin-page.php:394 inc/includes/templates.php:181
+#: inc/includes/templates.php:308 inc/includes/templates.php:394
+msgid "This premium template is accessible with %1$s \"Premium\" Package."
+msgstr "此高级模板可使用%1$s\"高级\"包访问。"
+
+#: inc/includes/admin-page.php:273
+msgid "Site Templates"
+msgstr "网站模板"
+
+#: inc/includes/admin-page.php:342 inc/includes/admin-page.php:528
+msgid "Page Templates"
+msgstr "页面模板"
+
+#: inc/includes/admin-page.php:412
+msgid ""
+"<span class=\"highlighted-note\">This is a premium template available with "
+"Essential and Growth Bundle.</span><br /> <a href=\"{{AstraSitesAdmin."
+"premium_popup_cta_link}}\" target=\"_blank\">Get access</a> to this premium "
+"template."
+msgstr ""
+"<span class=\"highlighted-note\">这是一个高级模板，可与基本和增长捆绑包。</"
+"span><br /><a href=\"{{AstraSitesAdmin.premium_popup_cta_link}}\" target="
+"\"_blank\">访问</a>此高级模板。"
+
+#. translators: %s is article link
+#: inc/includes/admin-page.php:418
+msgid ""
+"Already own an Essential or Growth Bundle? <a href=\"%s\" target=\"_blank"
+"\">Know how</a> to import premium templates."
+msgstr ""
+"已经拥有基本或增长捆绑包？ <a href=\"%s\" target=\"_blank\">知道如何</a> 导入"
+"高级模板。"
+
+#: inc/includes/admin-page.php:429
+msgid ""
+"The page templates which contain the dynamic widgets/modules are not "
+"available for single template import. With the \"Import Site\" option, you "
+"can get those pages."
+msgstr ""
+"包含动态小工具/模块的页面模板不适用于单个模板导入。通过\"导入站点\"选项，您可"
+"以获得这些页面。"
+
+#: inc/includes/admin-page.php:430
+msgid "You can have the complete site preview from bottom left button."
+msgstr "您可以从左下角按钮进行完整的站点预览。"
+
+#. translators: %s is pricing page link
+#: inc/includes/admin-page.php:462
+msgid ""
+"<p>Seems like you have purchased the %4$s 'Essential Bundle' package with a "
+"choice of '%1$s' page builder addon.</p><p>While this template is built with "
+"'%2$s' page builder addon.</p><p>Read article <a href=\"%3$s\" target="
+"\"_blank\">here</a> to see how you can proceed.</p>"
+msgstr ""
+"<p>似乎您已经购买了 %4$s \"基本捆绑包\"包，并选择了\" %1$s 页面构建器插件\"。"
+"</p><p>虽然此模板是用\" %2$s 页面构建器插件\"构建的。</p><p><a href=\"%3$s\" "
+"target=\"_blank\">在此处</a>阅读文章，了解如何继续。</p>"
+
+#: inc/includes/admin-page.php:473
+msgid "You are just 2 minutes away from importing this demo!"
+msgstr "您距离导入此演示仅 2 分钟！"
+
+#: inc/includes/admin-page.php:474
+msgid ""
+"This is a premium website demo template. Please activate your license to "
+"access it."
+msgstr "这是一个高级网站演示模板。请激活您的许可证以访问它。"
+
+#. translators: %s is article link
+#: inc/includes/admin-page.php:478
+msgid ""
+"Learn how you can <a href=\"%1$s\" target=\"_blank\">activate the license</"
+"a> of the %2$s plugin."
+msgstr ""
+"了解如何 <a href=\"%1$s\" target=\"_blank\">激活</a> %2$s 插件的许可证。"
+
+#: inc/includes/admin-page.php:569
+msgid "Not Valid License"
+msgstr "无效许可证"
+
+#: inc/includes/admin-page.php:578
+msgid "Import Complete Site"
+msgstr "导入完整站点"
+
+#: inc/includes/admin-page.php:579
+msgid "Import Template"
+msgstr "导入模板"
+
+#: inc/includes/admin-page.php:590 inc/includes/admin-page.php:615
+msgid "Imported Successfully!"
+msgstr "导入成功！"
+
+#: inc/includes/admin-page.php:594
+msgid "Hurray! The Website Imported Successfully! 🎉"
+msgstr "网站导入成功！🎉"
+
+#: inc/includes/admin-page.php:596 inc/includes/admin-page.php:620
+msgid "Go ahead, customize the text, images and design to make it yours!"
+msgstr "继续，定制文本，图像和设计，使它成为你的！"
+
+#. translators: %1$s External Link
+#: inc/includes/admin-page.php:601
+msgid "%1$sRead more%2$s about customizing this Elementor Style Kit site."
+msgstr "%1$s阅读更多%2$s 有关网站的自定义此 Elementor 样式工具包。"
+
+#: inc/includes/admin-page.php:605 inc/includes/admin-page.php:621
+msgid "Have fun!"
+msgstr "玩的开心！"
+
+#: inc/includes/admin-page.php:606 inc/includes/admin-page.php:622
+msgid ""
+"PS: We try our best to use images that are free from legal perspectives. "
+"However, we do not take any responsibility. We strongly advise website "
+"owners to replace the images and any copyrighted media before publishing "
+"them online."
+msgstr ""
+"又：我们尽量使用免费图像以避免版权纠纷。但是，我们对图像版权不承担任何责任。"
+"我们强烈建议网站所有者在在线发布之前更换图片和任何受版权保护的媒体。"
+
+#: inc/includes/admin-page.php:609
+msgid "View Site"
+msgstr "查看网站"
+
+#: inc/includes/admin-page.php:619
+msgid "Hurray! The Template Imported Successfully! 🎉"
+msgstr "已成功导入模板！🎉"
+
+#: inc/includes/admin-page.php:625
+msgid "View Template"
+msgstr "查看模板"
+
+#: inc/includes/admin-page.php:635
+msgid ""
+"We could not start the import process. This is the message from HTTP request:"
+msgstr "我们无法启动导入过程。这是来自 HTTP 请求的消息："
+
+#. translators: %s doc link.
+#: inc/includes/admin-page.php:639
+msgid ""
+"Please raise a <a href=\"%s\" target=\"_blank\">support request</a> so we "
+"can help you with it."
+msgstr ""
+"请提出 <a href=\"%s\" target=\"_blank\">支持请求</a> ，以便我们为您提供帮助。"
+
+#. translators: %s doc link.
+#: inc/includes/admin-page.php:659
+msgid ""
+"We have listed the <a href=\"%s\" target=\"_blank\">possible solutions here</"
+"a> to help you resolve this."
+msgstr ""
+"我们 <a href=\"%s\" target=\"_blank\">已在此处列出了帮助</a> 您解决这个问题的"
+"可能解决方案。"
+
+#. translators: %s doc link.
+#: inc/includes/admin-page.php:667
+msgid ""
+"Please <a class=\"ast-try-again\" href=\"\">click here and try again</a>. If "
+"this still does not work after few attempts, please report it <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"请 <a class=\"ast-try-again\" href=\"\">点击这里，再试一次</a>。如果这仍然不"
+"工作后，几次尝试，请 <a href=\"%s\" target=\"_blank\">在这里</a>报告。"
+
+#. translators: %s doc link.
+#: inc/includes/admin-page.php:672
+msgid "Please report this error %1$shere%2$s, so we can fix it."
+msgstr "请报告此错误%1$s此%2$s，以便我们可以修复它。"
+
+#: inc/includes/admin-page.php:680
+msgid ""
+"Please report this error <a href=\"#LINK\" target=\"_blank\">here</a> so we "
+"can fix it."
+msgstr ""
+"请 <a href=\"#LINK\" target=\"_blank\">在此处</a> 报告此错误，以便我们修复"
+"它。"
+
+#: inc/includes/admin-page.php:704
+msgid "Heads Up!"
+msgstr "小心!"
+
+#: inc/includes/admin-page.php:724
+msgid "Beginner"
+msgstr "初级"
+
+#: inc/includes/admin-page.php:725
+msgid "Intermediate"
+msgstr "中级"
+
+#: inc/includes/admin-page.php:726
+msgid "Expert"
+msgstr "专家"
+
+#: inc/includes/admin-page.php:728 inc/includes/admin-page.php:737
+msgid "Field is required"
+msgstr "必填字段"
+
+#: inc/includes/admin-page.php:729
+msgid "I'm a WordPress:"
+msgstr "我是一个 WordPress："
+
+#: inc/includes/admin-page.php:734
+msgid "Myself/My company"
+msgstr "我自己/我的公司"
+
+#: inc/includes/admin-page.php:735
+msgid "My client"
+msgstr "我的客户"
+
+#: inc/includes/admin-page.php:738
+msgid "I'm building website for:"
+msgstr "我正在构建网站："
+
+#: inc/includes/admin-page.php:747
+msgid "First name is required"
+msgstr "名字为必填项"
+
+#: inc/includes/admin-page.php:748
+msgid "Your First Name"
+msgstr "您的姓名"
+
+#: inc/includes/admin-page.php:752
+msgid "Email address is required"
+msgstr "邮箱地址是必填的"
+
+#: inc/includes/admin-page.php:753
+msgid "Your Work Email"
+msgstr "您的工作电子邮件"
+
+#: inc/includes/admin-page.php:774
+msgid ""
+"To get access to exclusive starter templates, themes and updates, enter your "
+"details below:"
+msgstr "要访问独家启动模板、主题和更新，请在下面输入您的详细信息："
+
+#: inc/includes/admin-page.php:778
+msgid "Submit and Start Importing"
+msgstr "提交并开始导入"
+
+#. translators: %1$s and %3$s are opening anchor tags, and %2$s and %4$s is
+#. closing anchor tags.
+#: inc/includes/admin-page.php:784
+msgid ""
+"By submitting, you agree to our %1$sTerms%2$s and %3$sPrivacy Policy%4$s."
+msgstr "通过提交，您同意我们的%1$s特姆斯%2$s和%3$s隐私政策%4$s。"
+
+#: inc/includes/admin-page.php:785
+msgid "Skip"
+msgstr "跳过"
+
+#: inc/includes/admin-page.php:805
+msgid ""
+"To serve more beautiful starter templates, we would like to know more about "
+"you:"
+msgstr "为了提供更漂亮的入门模板，我们想知道更多关于您："
+
+#: inc/includes/admin-page.php:810
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: inc/includes/admin-page.php:824
+msgid "Install & Activate Astra Theme"
+msgstr "安装和激活Astra主题"
+
+#: inc/includes/admin-page.php:825
+msgid ""
+"To import the site in the original format, you would need the Astra theme "
+"activated. You can import it with any other theme, but the site might lose "
+"some of the design settings and look a bit different."
+msgstr ""
+"要以原始格式导入网站，您需要激活 Astra 主题。您可以导入它与任何其他主题，但该"
+"网站可能会失去一些设计设置，看起来有点不同。"
+
+#: inc/includes/admin-page.php:833
+msgid "Import Customizer Settings"
+msgstr "导入定制器设置"
+
+#. translators: %s are white label strings.
+#: inc/includes/admin-page.php:837
+msgid ""
+"%1$s customizer serves global settings that give uniform design to the "
+"website. Choosing this option will override your current customizer settings."
+msgstr ""
+"%1$s 定制器服务于为网站提供统一设计的全局设置。选择此选项将覆盖当前的自定义设"
+"置。"
+
+#: inc/includes/admin-page.php:848
+msgid "Import Widgets"
+msgstr "导入小工具"
+
+#: inc/includes/admin-page.php:858
+msgid ""
+"Plugins needed to import this template are missing. Required plugins will be "
+"installed and activated automatically."
+msgstr "缺少导入此模板所需的插件。所需的插件将被安装并自动激活。"
+
+#: inc/includes/admin-page.php:867
+msgid "Import Content"
+msgstr "导入内容"
+
+#: inc/includes/admin-page.php:870
+msgid ""
+"Selecting this option will import dummy pages, posts, images, and menus. If "
+"you do not want to import dummy content, please uncheck this option."
+msgstr ""
+"选择此选项将导入虚拟页面、文章、图像和菜单。如果不想导入模板内容，请取消选中"
+"此选项。"
+
+#. translators: %s is the dynamic string.
+#: inc/includes/admin-page.php:888
+msgid ""
+"The import process can take a few minutes depending on the size of the %s "
+"and speed of the connection."
+msgstr "导入过程可能需要几分钟，具体取决于连接%s的大小和速度。"
+
+#. translators: %s is the dynamic string.
+#: inc/includes/admin-page.php:894
+msgid ""
+"Please do NOT close this browser window until the %s is imported completely."
+msgstr "在%s 完全导入之前，请不要关闭此浏览器窗口。"
+
+#: inc/includes/admin-page.php:911
+msgid "Next"
+msgstr "下一页"
+
+#: inc/includes/admin-page.php:913
+msgid "Import"
+msgstr "导入"
+
+#: inc/includes/admin-page.php:928
+msgid "Delete Previously Imported Site"
+msgstr "删除以前导入的网站"
+
+#: inc/includes/admin-page.php:929
+msgid ""
+"WARNING: Selecting this option will delete all data from the previous "
+"import. Choose this option only if this is intended."
+msgstr ""
+"警告：选择此选项将删除上一导入中的所有数据。仅在有意的情况下选择此选项。"
+
+#: inc/includes/admin-page.php:931
+msgid "You can find the backup to the current customizer settings at "
+msgstr "您可以在以下位置找到当前自定义器设置的备份 "
+
+#: inc/includes/admin-page.php:931
+msgid "/wp-content/uploads/astra-sites/"
+msgstr "/wp-content/uploads/astra-sites/"
+
+#: inc/includes/image-templates.php:88
+msgid "SafeSearch"
+msgstr "安全搜索"
+
+#: inc/includes/image-templates.php:92
+msgid "Powered by"
+msgstr "技术支持"
+
+#: inc/includes/image-templates.php:126
+msgid "Back to Images"
+msgstr "返回图像"
+
+#: inc/includes/image-templates.php:136
+msgid "Already Saved"
+msgstr "已保存"
+
+#: inc/includes/image-templates.php:138
+msgid "Save & Insert"
+msgstr "保存并插入"
+
+#: inc/includes/templates.php:45
+msgid "SEARCH"
+msgstr "搜索"
+
+#: inc/includes/templates.php:85
+msgid "Filter by Color"
+msgstr "按颜色过滤"
+
+#: inc/includes/templates.php:93
+msgid "Back to Pages"
+msgstr "返回页面"
+
+#: inc/includes/templates.php:115
+msgid "Back to Layout"
+msgstr "返回布局"
+
+#: inc/includes/templates.php:119
+msgid "Pages"
+msgstr "页面"
+
+#: inc/includes/templates.php:120
+msgid "Blocks"
+msgstr "区块"
+
+#: inc/includes/templates.php:225 inc/includes/templates.php:297
+msgid "INSERT"
+msgstr "插入"
+
+#: inc/includes/templates.php:428
+msgid "Insert"
+msgstr "插入"
+
+#: inc/includes/templates.php:446
+msgid ""
+"This starter site requires premium plugins. As these are third party premium "
+"plugins, you'll need to purchase, install and activate them first."
+msgstr ""
+"此初学者网站需要高级插件。由于这些是第三方高级插件，您需要先购买、安装和激活"
+"它们。"
+
+#: inc/includes/templates.php:530
+msgid "Import "
+msgstr "导入 "
+
+#: inc/includes/templates.php:531
+msgid "Save "
+msgstr "保存 "
+
+#: inc/includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr "插件名称："
+
+#: inc/includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr "插件描述："
+
+#: inc/lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "WordPress Nonce没有被验证。"
+
+#: inc/lib/bsf-quick-links/class-bsf-quick-links.php:105
+msgid "Quick Links"
+msgstr "快速链接"
+
+#: includes/license-form.php:31
+msgid ""
+"Congratulations! You've activated your Starter Templates License key "
+"successfully — A world of beautiful templates awaits."
+msgstr "祝贺！您已成功激活启动模板许可证密钥-一个美丽的模板世界等待着您。"
+
+#: includes/license-form.php:40
+msgid ""
+"Whoops! It seems like the entered license key is invalid/expired. If you "
+"feel this is an error, please reach out to our support team."
+msgstr ""
+"哎呦！似乎输入的许可证密钥无效/过期。如果您觉得这是一个错误，请联系我们的支持"
+"团队。"
+
+#: includes/license-form.php:49
+msgid ""
+"This is a premium template available with Essential Bundle and Growth Bundle."
+msgstr "这是一个高级模板，可与基本捆绑包和增长捆绑包。"
+
+#: includes/license-form.php:50
+msgid ""
+"If you already own one of these bundles, validate your license key to import "
+"the template."
+msgstr "如果您已经拥有其中一个捆绑包，请验证导入模板的许可证密钥。"
+
+#. translators: %1$s Memory Limit, %2$s Recommended memory limit.
+#: inc/classes/class-astra-sites-importer-log.php:290
+msgctxt "Recommended Memory Limit"
+msgid ""
+"Current memory limit %1$s. We recommend setting memory to at least %2$s."
+msgstr "当前内存限制 %1$s。我们建议将内存设置为至少 %2$s。"
+
+#: inc/classes/class-astra-sites-importer-log.php:371
+msgctxt "PHP Version"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "我们建议使用 PHP 5.4 或更新的版本"

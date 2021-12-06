@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooSwatches - Woocommerce Color or Image Variation "
+"Swatches\n"
+"POT-Creation-Date: 2021-12-01 22:21+0800\n"
+"PO-Revision-Date: 2021-12-01 23:57+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-colororimage-variation-select.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: classes/class_attribute_global_values.php:19
+#: classes/class_create_variations_metabox.php:29
+msgid "Choose an image"
+msgstr "选择一个图像"
+
+#: classes/class_attribute_global_values.php:20
+#: classes/class_create_variations_metabox.php:30
+msgid "Use Image"
+msgstr "使用图片"
+
+#: classes/class_attribute_global_values.php:56
+#: classes/class_attribute_global_values.php:129
+#: classes/forms/accordion/wcva_display_type_dropdown.php:3
+#: classes/forms/accordion/wcva_sub_accordion_content.php:4
+#: includes/admin/class_add_plugin_settings_field.php:381
+msgid "Display Type"
+msgstr "显示类型"
+
+#: classes/class_attribute_global_values.php:58
+#: classes/class_attribute_global_values.php:132
+#: classes/forms/accordion/wcva_sub_accordion_content.php:7
+msgid "Color"
+msgstr "颜色"
+
+#: classes/class_attribute_global_values.php:59
+#: classes/class_attribute_global_values.php:133
+#: classes/forms/accordion/wcva_sub_accordion_content.php:8
+msgid "Image"
+msgstr "图像"
+
+#: classes/class_attribute_global_values.php:60
+#: classes/class_attribute_global_values.php:134
+msgid "Text Block"
+msgstr "文本块"
+
+#: classes/class_attribute_global_values.php:65
+#: classes/class_attribute_global_values.php:140
+msgid "Chose Color"
+msgstr "选择颜色"
+
+#: classes/class_attribute_global_values.php:71
+#: classes/class_attribute_global_values.php:148
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: classes/class_attribute_global_values.php:75
+#: classes/class_attribute_global_values.php:86
+#: classes/class_attribute_global_values.php:153
+#: classes/class_attribute_global_values.php:180
+#: classes/forms/accordion/wcva_sub_accordion_content.php:29
+#: classes/forms/accordion/wcva_sub_accordion_content.php:52
+msgid "Upload/Add image"
+msgstr "上传/添加图片"
+
+#: classes/class_attribute_global_values.php:76
+#: classes/class_attribute_global_values.php:87
+#: classes/class_attribute_global_values.php:154
+#: classes/class_attribute_global_values.php:181
+#: classes/forms/accordion/wcva_sub_accordion_content.php:30
+#: classes/forms/accordion/wcva_sub_accordion_content.php:53
+msgid "Remove image"
+msgstr "删除图像"
+
+#: classes/class_attribute_global_values.php:82
+#: classes/class_attribute_global_values.php:175
+#: classes/class_attribute_global_values.php:223
+#: classes/forms/accordion/wcva_sub_accordion_content.php:46
+msgid "Hover Image"
+msgstr "悬停图像"
+
+#: classes/class_attribute_global_values.php:93
+#: classes/class_attribute_global_values.php:168
+#: classes/forms/accordion/wcva_sub_accordion_content.php:37
+msgid "Text"
+msgstr "文本"
+
+#: classes/class_attribute_global_values.php:222
+msgid "Preview"
+msgstr "预览"
+
+#: classes/class_create_variations_metabox.php:45
+#: includes/admin/class_add_plugin_settings_field.php:33
+msgid "WooSwatches"
+msgstr "变体属性色板"
+
+#: classes/forms/accordion/wcva_display_type_dropdown.php:7
+msgid "Default Dropdown Select"
+msgstr "默认下拉选择"
+
+#: classes/forms/accordion/wcva_display_type_dropdown.php:10
+#: classes/forms/wcva_accordion_header.php:19
+msgid "Global Values"
+msgstr "全局值"
+
+#: classes/forms/accordion/wcva_display_type_dropdown.php:13
+msgid "Custom Color or Image Swatches"
+msgstr "自定义类型"
+
+#: classes/forms/accordion/wcva_display_type_dropdown.php:16
+msgid "Use Variation Images"
+msgstr "使用变化图片"
+
+#: classes/forms/accordion/wcva_sub_accordion_content.php:9
+msgid "Text block"
+msgstr "文本块"
+
+#: classes/forms/accordion/wcva_sub_accordion_content.php:15
+msgid "Swatch Color"
+msgstr "色板颜色"
+
+#: classes/forms/accordion/wcva_sub_accordion_content.php:23
+msgid "Swatch Image"
+msgstr "色板图片"
+
+#: classes/forms/accordion/wcva_sub_accordion_content.php:46
+msgid ""
+"This image will replace the product image on swatch hover on shop/archive "
+"page."
+msgstr "该图像将替换商店/存档页面上的色板悬停中的产品图像。"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:5
+msgid "Display Size"
+msgstr "显示大小"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:9
+#: includes/admin/class_add_plugin_settings_field.php:406
+msgid "Small (32px * 32px)"
+msgstr "小(32*32)"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:10
+#: includes/admin/class_add_plugin_settings_field.php:408
+msgid "Extra Small (22px * 22px)"
+msgstr "超小(22*22)"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:11
+#: includes/admin/class_add_plugin_settings_field.php:410
+msgid "Middle (40px * 40px)"
+msgstr "中等(40*40)"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:12
+#: includes/admin/class_add_plugin_settings_field.php:412
+msgid "Big (60px * 60px)"
+msgstr "较大(60*60)"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:13
+#: includes/admin/class_add_plugin_settings_field.php:414
+msgid "Extra Big (90px * 90px)"
+msgstr "超大(90*90)"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:14
+#: includes/admin/class_add_plugin_settings_field.php:416
+msgid "Custom"
+msgstr "自定义"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:19
+#: includes/admin/class_add_plugin_settings_field.php:421
+msgid "Square"
+msgstr "方形"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:20
+#: includes/admin/class_add_plugin_settings_field.php:423
+msgid "Round"
+msgstr "圆形"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:24
+msgid ""
+"These fields does not apply to shop/archive swatches.To change swatch size "
+"on archive/shop pages visit WooCommerce/settings/WooSwatches tab."
+msgstr ""
+"这些字段不适用于商店/存档色板。要更改存档/商店页面上的色板大小，请访问 "
+"WooCommerce/设置/WooSwatches 选项卡。"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:29
+msgid "Custom Size"
+msgstr "自定义大小"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:32
+msgid "Height"
+msgstr "高度"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:35
+msgid "Width"
+msgstr "宽度"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:43
+msgid "Show Attribute Name"
+msgstr "显示属性名称"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:47
+#: includes/admin/class_add_plugin_settings_field.php:430
+msgid "No"
+msgstr "否"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:48
+#: includes/admin/class_add_plugin_settings_field.php:431
+msgid "Yes"
+msgstr "是"
+
+#: classes/forms/accordion/wcva_upper_meta_div.php:50
+msgid "This field does not apply to shop/archive swatches."
+msgstr "该栏位不适用于商店/档案色板。"
+
+#: classes/forms/wcva_accordion_header.php:23
+#: includes/admin/class_add_plugin_settings_field.php:399
+msgid "Dropdown Select"
+msgstr "下拉选择"
+
+#: classes/forms/wcva_accordion_header.php:27
+msgid "Custom Color/Image Swatches"
+msgstr "自定义变体"
+
+#: classes/forms/wcva_accordion_header.php:32
+msgid "Variation Images"
+msgstr "可变图像"
+
+#: classes/forms/wcva_configure_variation_message.php:5
+msgid "Please configure attributes and variations before configuring Swatches."
+msgstr "在配置色板之前，请先配置属性和变体。"
+
+#: classes/forms/wcva_upper_div_form.php:4
+msgid "Enable one attribute swatches On shop/archive pages"
+msgstr "用户一个属性色板在 商店/存档 页面上"
+
+#: classes/forms/wcva_upper_div_form.php:10
+msgid "Select atrribute for shop swatches"
+msgstr "选择商店色板的属性"
+
+#: classes/forms/wcva_upper_div_form.php:21
+msgid "Swatches of this attribute will be displayed on shop page."
+msgstr "此属性的色板将显示在商店页面上。"
+
+#: includes/admin/class_add_plugin_settings_field.php:48
+msgid "Color/image Swatches Settings"
+msgstr "颜色/图像色板设置"
+
+#: includes/admin/class_add_plugin_settings_field.php:56
+msgid "Clear selection text"
+msgstr "清除选择文本"
+
+#: includes/admin/class_add_plugin_settings_field.php:58
+msgid "This will replace the custom Clear selection text."
+msgstr "这将取代自定义清除选择文本。"
+
+#: includes/admin/class_add_plugin_settings_field.php:74
+msgid "Product page custom swatches height"
+msgstr "产品页面自定义色板高度"
+
+#: includes/admin/class_add_plugin_settings_field.php:76
+#: includes/admin/class_add_plugin_settings_field.php:92
+msgid ""
+"Custom swatch height on product page.you will need to chose custom as "
+"display type in variation select tab."
+msgstr ""
+"在产品页面上自定义样本高度。您需要在变体选择选项卡中选择自定义作为显示类型。"
+
+#: includes/admin/class_add_plugin_settings_field.php:90
+msgid "Product page custom swatches width"
+msgstr "产品页面自定义色板宽度"
+
+#: includes/admin/class_add_plugin_settings_field.php:106
+msgid "Enable tooltip on swatches"
+msgstr "在色板上启用工具提示"
+
+#: includes/admin/class_add_plugin_settings_field.php:117
+msgid "Disable tooltip on iOS devices"
+msgstr "禁用iOS设备上的工具提示"
+
+#: includes/admin/class_add_plugin_settings_field.php:127
+msgid "Show selected attribute name on single product page"
+msgstr "在单个产品页面上显示选定的属性名称"
+
+#: includes/admin/class_add_plugin_settings_field.php:137
+msgid "Enable shop swatches slider"
+msgstr "启用商店色板滑块"
+
+#: includes/admin/class_add_plugin_settings_field.php:148
+msgid "Number of swatches to show in shop slider"
+msgstr "在商店滑块中显示的色板数量"
+
+#: includes/admin/class_add_plugin_settings_field.php:161
+msgid "Limit display of number of swatches on single product page"
+msgstr "限制单个产品页面上的色板数量显示"
+
+#: includes/admin/class_add_plugin_settings_field.php:169
+msgid ""
+"Check this if you have lot of options for attribute and you only want to "
+"show some them while there will a show more link which shows all options."
+msgstr ""
+"检查这一点，如果你有很多属性的选项，你只想显示一些他们，而将有一个显示更多的"
+"链接，显示所有选项。"
+
+#: includes/admin/class_add_plugin_settings_field.php:174
+msgid "Number of swatches to show"
+msgstr "要显示的色板数量"
+
+#: includes/admin/class_add_plugin_settings_field.php:187
+msgid "Show more text"
+msgstr "显示更多文本"
+
+#: includes/admin/class_add_plugin_settings_field.php:197
+msgid ""
+"{remaining_count} - number of swatches that will show upon clicking show "
+"more button."
+msgstr "{remaining_count} - 点击后显示的色板数量显示显示更多按钮。"
+
+#: includes/admin/class_add_plugin_settings_field.php:206
+msgid "Shop swatches location"
+msgstr "商店色板位置"
+
+#: includes/admin/class_add_plugin_settings_field.php:207
+msgid "This controls location of shop swatches on shop/category/archive pages."
+msgstr "这控制了店铺/类别/存档页面上的商店色板的位置。"
+
+#: includes/admin/class_add_plugin_settings_field.php:214
+msgid "After item title and price"
+msgstr "项目标题和价格后"
+
+#: includes/admin/class_add_plugin_settings_field.php:215
+msgid "Before item title and price"
+msgstr "项目标题和价格之前"
+
+#: includes/admin/class_add_plugin_settings_field.php:216
+msgid "After select options button"
+msgstr "选择选项按钮后"
+
+#: includes/admin/class_add_plugin_settings_field.php:224
+msgid "Shop hover image size"
+msgstr "店铺悬停图片大小"
+
+#: includes/admin/class_add_plugin_settings_field.php:225
+msgid "This controls size of hover image on shop/category/archive pages."
+msgstr "这可以控制店铺/类别/存档页面上悬停图像的大小。"
+
+#: includes/admin/class_add_plugin_settings_field.php:232
+msgid "Shop catalog size"
+msgstr "购物目录大小"
+
+#: includes/admin/class_add_plugin_settings_field.php:233
+msgid "Thumbnail size"
+msgstr "缩略图大小"
+
+#: includes/admin/class_add_plugin_settings_field.php:234
+msgid "Medium Size"
+msgstr "中等大小"
+
+#: includes/admin/class_add_plugin_settings_field.php:235
+msgid "Full Size"
+msgstr "全尺寸"
+
+#: includes/admin/class_add_plugin_settings_field.php:243
+msgid "Unavailable options behavior"
+msgstr "不可用的选项行为"
+
+#: includes/admin/class_add_plugin_settings_field.php:250
+msgid "Default - do not disable or hide unavailable options"
+msgstr "默认 - 不禁用或隐藏不可用的选项"
+
+#: includes/admin/class_add_plugin_settings_field.php:251
+msgid "Disable unavailable options"
+msgstr "禁用不可用选项"
+
+#: includes/admin/class_add_plugin_settings_field.php:252
+msgid "Hide unavailable options"
+msgstr "隐藏不可用选项"
+
+#: includes/admin/class_add_plugin_settings_field.php:260
+msgid "Out of Stock options behavior"
+msgstr "缺货选项行为"
+
+#: includes/admin/class_add_plugin_settings_field.php:267
+msgid "Default - do not cross out outofstock options"
+msgstr "默认 - 不删除缺货选项"
+
+#: includes/admin/class_add_plugin_settings_field.php:268
+msgid "Crossout outofstock options"
+msgstr "删除缺货选项"
+
+#: includes/admin/class_add_plugin_settings_field.php:276
+msgid "Shop swatches height"
+msgstr "商店色板高度"
+
+#: includes/admin/class_add_plugin_settings_field.php:278
+msgid "Swatches height on shop page."
+msgstr "在商店页面上刷新高度。"
+
+#: includes/admin/class_add_plugin_settings_field.php:292
+msgid "Shop swatches width"
+msgstr "商店色板宽度"
+
+#: includes/admin/class_add_plugin_settings_field.php:294
+msgid "Swatches width on shop page."
+msgstr "在商店页面上色板宽度。"
+
+#: includes/admin/class_add_plugin_settings_field.php:308
+msgid "Replace hover with click on mobile devices"
+msgstr "将鼠标悬停在点击移动设备上"
+
+#: includes/admin/class_add_plugin_settings_field.php:318
+msgid "Enable direct variation link"
+msgstr "启用直接变体链接"
+
+#: includes/admin/class_add_plugin_settings_field.php:330
+msgid "Enable default attribute options"
+msgstr "启用默认属性选项"
+
+#: includes/admin/class_add_plugin_settings_field.php:375
+msgid "Default attribute options"
+msgstr "默认属性选项"
+
+#: includes/admin/class_add_plugin_settings_field.php:380
+#: includes/wcva_add_layered_navigation_widget.php:374
+msgid "Attribute"
+msgstr "属性"
+
+#: includes/admin/class_add_plugin_settings_field.php:382
+msgid "Size"
+msgstr "大小"
+
+#: includes/admin/class_add_plugin_settings_field.php:383
+msgid "Show Name"
+msgstr "显示名称"
+
+#: includes/admin/class_add_plugin_settings_field.php:400
+msgid "Color or Image"
+msgstr "颜色或图像"
+
+#: includes/admin/class_add_plugin_settings_field.php:435
+msgid "Set color/images"
+msgstr "设置颜色/图像"
+
+#: includes/wcva_add_layered_navigation_widget.php:19
+msgid "WooSwatches Filter"
+msgstr "商店色板过滤器"
+
+#: includes/wcva_add_layered_navigation_widget.php:20
+msgid "WooSwatches color/image swatches filter widget"
+msgstr "色板颜色/图像色板过滤器小部件"
+
+#: includes/wcva_add_layered_navigation_widget.php:369
+msgid "Title"
+msgstr "选项"
+
+#: includes/wcva_add_layered_navigation_widget.php:370
+msgid "Filter by"
+msgstr "过滤"
+
+#: includes/wcva_add_layered_navigation_widget.php:389
+msgid "Query type"
+msgstr "查询类型"
+
+#: includes/wcva_add_layered_navigation_widget.php:391
+msgid "AND"
+msgstr "和"
+
+#: includes/wcva_add_layered_navigation_widget.php:392
+msgid "OR"
+msgstr "或"
+
+#: includes/wcva_common_functions.php:144
+#: includes/wcva_common_functions.php:212
+msgid "Choose an option"
+msgstr "选择一个选项"
+
+#: woocommerce-colororimage-variation-select.php:78
+msgid "Woocommerce"
+msgstr "网店"
+
+#: woocommerce-colororimage-variation-select.php:134
+msgid "Thanks for purchasing WooSwatches.To enable dashboard updates "
+msgstr "感谢您购买WooSwatches。要启用仪表板更新 "
+
+#: woocommerce-colororimage-variation-select.php:134
+msgid "Follow this"
+msgstr "请关注"
+
+#: woocommerce-colororimage-variation-select.php:144
+msgid "Enable dashboad updates"
+msgstr "启用仪表板更新"
+
+#: woocommerce-colororimage-variation-select.php:159
+msgid "Docs"
+msgstr "文档"
+
+#: woocommerce-colororimage-variation-select.php:160
+msgid "Support"
+msgstr "服务与支持"
+
+#: woocommerce/single-product/add-to-cart/variable.php:47
+msgid "This product is currently out of stock and unavailable."
+msgstr "该产品目前缺货，不可用。"
+
+#. Plugin Name of the plugin/theme
+msgid "WooSwatches - Woocommerce Color or Image Variation Swatches"
+msgstr "变体属性色板"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://woomatrix.com"
+msgstr "http://woomatrix.com"
+
+#. Description of the plugin/theme
+msgid "Convert variable select box into color or image select."
+msgstr "将变量选择框转换为颜色或图像选择。"
+
+#. Author of the plugin/theme
+msgid "WooMatrix"
+msgstr "WooMatrix"

@@ -1,0 +1,2927 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Page Builder For Elementor\n"
+"POT-Creation-Date: 2021-12-01 23:10+0800\n"
+"PO-Revision-Date: 2021-12-01 23:54+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/admin-templates/new-template.php:15
+msgid "Templates Help You"
+msgstr "模板可帮助您"
+
+#: includes/admin/admin-templates/new-template.php:15
+msgid "Work Efficiently"
+msgstr "高效工作"
+
+#: includes/admin/admin-templates/new-template.php:16
+msgid ""
+"Use templates to create the different pieces of your site, and reuse them "
+"with one click whenever needed."
+msgstr "使用模板创建站点的不同部分，并在需要时单击一次即可重复使用它们。"
+
+#: includes/admin/admin-templates/new-template.php:22
+msgid "Choose Template Type"
+msgstr "选择模板类型"
+
+#: includes/admin/admin-templates/new-template.php:24
+msgid "Select the type of template you want to work on"
+msgstr "选择您想要处理的模板类型"
+
+#: includes/admin/admin-templates/new-template.php:27
+#: includes/widgets/checkout/form-billing.php:370
+#: includes/widgets/checkout/form-shipping.php:366
+msgid "Select"
+msgstr "选择"
+
+#: includes/admin/admin-templates/new-template.php:40
+msgid "Name your template"
+msgstr "命名您的模板"
+
+#: includes/admin/admin-templates/new-template.php:43
+msgid "Enter template name (optional)"
+msgstr "输入模板名称（可选）"
+
+#: includes/admin/admin-templates/new-template.php:46
+msgid "Create Template"
+msgstr "创建模板"
+
+#: includes/admin/admin.php:154 includes/admin/admin.php:155
+msgid "WooCommerce Builder"
+msgstr "店铺页面生成器"
+
+#: includes/admin/admin.php:200 includes/admin/admin.php:465
+#: includes/admin/admin.php:495 includes/admin/admin.php:544
+#: includes/admin/admin.php:593 includes/admin/admin.php:642
+#: includes/admin/admin.php:672 includes/admin/admin.php:721
+msgid "Edit with Elementor"
+msgstr "使用 Elementor 编辑"
+
+#: includes/admin/admin.php:337 includes/admin/admin.php:1671
+#: includes/admin/admin.php:1693
+msgid "All"
+msgstr "所有"
+
+#: includes/admin/admin.php:377
+#: includes/widgets/global/woo-output-all-notices.php:38
+msgid "WooCommerce Notices"
+msgstr "店铺通知"
+
+#: includes/admin/admin.php:383
+msgid "Default"
+msgstr "默认"
+
+#: includes/admin/admin.php:384
+msgid "Use Widget "
+msgstr "使用小工具 "
+
+#: includes/admin/admin.php:388
+msgid ""
+"Outputs all queued notices on WC pages. Default is display on the top of the "
+"WC pages by your theme. You can use widget \"WooCommerce Notices\" in WOO "
+"GENERAL to place the Notices in your templates."
+msgstr ""
+"输出WC页面上所有排队的通知。默认值是显示在你的主题WC页面的顶部。您可以使用"
+"WOO GENERAL中的小部件“WooCommerce notice”将通知放置到模板中。"
+
+#: includes/admin/admin.php:394 includes/admin/admin.php:502
+#: includes/admin/admin.php:551 includes/admin/admin.php:600
+#: includes/admin/admin.php:679 includes/admin/admin.php:728
+msgid "Save changes"
+msgstr "保存更改"
+
+#: includes/admin/admin.php:408
+msgid ""
+"Thank you for choosing WooCommerce Page Builder For Elementor! Your product "
+"is already registered, so you have access to the Demos, auto plugin updates."
+msgstr ""
+"感谢您选择WooCommerce网页建设者Elementor!您的产品已经注册，所以您可以访问演"
+"示，自动插件更新。"
+
+#: includes/admin/admin.php:410
+msgid ""
+"Thank you for choosing WooCommerce Page Builder For Elementor! Your product "
+"must be registered to receive the Demos, auto plugin updates. Please follow "
+"the instructions below to create a valid token."
+msgstr ""
+"感谢您选择WooCommerce网页建设者Elementor!您的产品必须注册才能接收演示、自动插"
+"件更新。请按照下面的说明创建有效的令牌。"
+
+#: includes/admin/admin.php:432 includes/admin/admin.php:511
+#: includes/admin/admin.php:560 includes/admin/admin.php:609
+#: includes/admin/admin.php:688
+msgid "Page setup"
+msgstr "页面设置"
+
+#: includes/admin/admin.php:441 includes/admin/admin.php:943
+msgid "My account page"
+msgstr "我的帐户页面"
+
+#: includes/admin/admin.php:455 includes/admin/admin.php:485
+#: includes/admin/admin.php:534 includes/admin/admin.php:583
+#: includes/admin/admin.php:632 includes/admin/admin.php:662
+#: includes/admin/admin.php:711
+msgid "Select a template&hellip;"
+msgstr "选择一个模板&hellip;"
+
+#: includes/admin/admin.php:456 includes/admin/admin.php:486
+#: includes/admin/admin.php:535 includes/admin/admin.php:584
+#: includes/admin/admin.php:633 includes/admin/admin.php:663
+#: includes/admin/admin.php:712
+msgid "-- None (Use theme layout) --"
+msgstr "-- 无（使用主题布局） --"
+
+#: includes/admin/admin.php:462
+msgid "Select a Template for My account page."
+msgstr "为\"我的帐户\"页面选择模板。"
+
+#: includes/admin/admin.php:471
+msgid "My account login"
+msgstr "帐户登录页"
+
+#: includes/admin/admin.php:492
+msgid "Select a Template for My account login page."
+msgstr "为\"我的帐户登录页面\"选择模板。"
+
+#: includes/admin/admin.php:520
+msgid "Thank You page"
+msgstr "感谢页面"
+
+#: includes/admin/admin.php:541
+msgid "Select a Template for Thank You page."
+msgstr "选择\"感谢页面\"模板。"
+
+#: includes/admin/admin.php:569 includes/admin/admin.php:929
+msgid "Checkout page"
+msgstr "结帐页面"
+
+#: includes/admin/admin.php:590
+msgid "Select a Template for Checkout page."
+msgstr "选择“结帐页面”模板。"
+
+#: includes/admin/admin.php:618 includes/admin/admin.php:918
+msgid "Cart page"
+msgstr "购物车页面"
+
+#: includes/admin/admin.php:639
+msgid "Select a Template for Cart page."
+msgstr "选择\"购物车页面\"模板。"
+
+#: includes/admin/admin.php:648
+msgid "Empty cart page"
+msgstr "空购物车页面"
+
+#: includes/admin/admin.php:669
+msgid "Select a Template for Empty Cart page."
+msgstr "选择\"空购物车页面\"模板。"
+
+#: includes/admin/admin.php:697 includes/admin/admin.php:879
+msgid "Shop page"
+msgstr "商店页"
+
+#: includes/admin/admin.php:718
+msgid "Select a Template for Shop page."
+msgstr "选择\"商店页面\"模板."
+
+#: includes/admin/admin.php:752
+msgid "Type"
+msgstr "类型"
+
+#: includes/admin/admin.php:759
+msgid "Instances"
+msgstr "实例"
+
+#: includes/admin/admin.php:839 includes/admin/admin.php:1614
+msgid "None"
+msgstr "无"
+
+#: includes/admin/admin.php:847 includes/admin/admin.php:1462
+msgid "All Products"
+msgstr "所有产品"
+
+#: includes/admin/admin.php:853 includes/admin/admin.php:885
+msgid "In Categories "
+msgstr "在类别中 "
+
+#: includes/admin/admin.php:863
+msgid "In Products "
+msgstr "产品中 "
+
+#: includes/admin/admin.php:889
+msgid "In All Categories "
+msgstr "所有分类 "
+
+#: includes/admin/admin.php:899
+msgid "In Tags "
+msgstr "在标签中 "
+
+#: includes/admin/admin.php:903
+msgid "In All Tags "
+msgstr "在所有标签中 "
+
+#: includes/admin/admin.php:922
+msgid "Empty Cart page"
+msgstr "空购物车页面"
+
+#: includes/admin/admin.php:936
+msgid "Thank You Page"
+msgstr "感谢页面"
+
+#: includes/admin/admin.php:947
+msgid "My Account Login"
+msgstr "帐户登录表单"
+
+#: includes/admin/admin.php:989 includes/widgets/cart/cart-table.php:313
+#: includes/widgets/thankyou/order_details.php:316
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:30
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:77
+msgid "Product"
+msgstr "产品"
+
+#: includes/admin/admin.php:990
+msgid "Product Archive"
+msgstr "产品归档"
+
+#: includes/admin/admin.php:991
+msgid "Cart"
+msgstr "购物车"
+
+#: includes/admin/admin.php:992
+msgid "Checkout"
+msgstr "查看"
+
+#: includes/admin/admin.php:993
+msgid "Thank you"
+msgstr "感谢页"
+
+#: includes/admin/admin.php:994 includes/widgets/thankyou/thankyou.php:277
+msgid "My account"
+msgstr "我的账户"
+
+#: includes/admin/admin.php:995 includes/admin/import-demo.php:124
+msgid "Registration"
+msgstr "注册"
+
+#: includes/admin/admin.php:996
+msgid "Demos"
+msgstr "演示"
+
+#: includes/admin/admin.php:997
+msgid "Settings"
+msgstr "设置"
+
+#: includes/admin/admin.php:1066
+msgid "Invalid post type."
+msgstr "文章类型无效。"
+
+#: includes/admin/admin.php:1070
+msgid "You need a higher level of permission."
+msgstr "你需要更高的权限。"
+
+#: includes/admin/admin.php:1071
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "很抱歉，您不能编辑这种类型的文章."
+
+#: includes/admin/admin.php:1184
+msgid "WooCommerce Elementor"
+msgstr "WooCommerce Elementor"
+
+#: includes/admin/admin.php:1188
+#, php-format
+msgid "WooCommerce Elementor %s"
+msgstr "WooCommerce Elementor %s"
+
+#: includes/admin/admin.php:1382
+#, php-format
+msgid "Create Your First %s"
+msgstr "创建您的第一个 %s"
+
+#: includes/admin/admin.php:1385
+msgid ""
+"Add templates and reuse them across your website. Easily export and import "
+"them to any other project, for an optimized workflow."
+msgstr ""
+"添加模板并在您的站点上重复使用它们。轻松地导出和导入到任何其他项目，以实现优"
+"化的工作流程。"
+
+#: includes/admin/admin.php:1389
+#, php-format
+msgid "Add New %s"
+msgstr "添加新的 %s"
+
+#: includes/admin/admin.php:1419 includes/admin/admin.php:1422
+msgid "Display Conditions"
+msgstr "显示条件"
+
+#: includes/admin/admin.php:1449
+msgid "Where Do You Want to Display Your Single Product?"
+msgstr "您希望在何处展示您的单一产品？"
+
+#: includes/admin/admin.php:1460
+msgid "Include"
+msgstr "包括"
+
+#: includes/admin/admin.php:1469
+msgid "In Categories"
+msgstr "没有类别"
+
+#: includes/admin/admin.php:1470
+#: includes/widgets/single-product/product-base.php:18
+msgid "Products"
+msgstr "产品"
+
+#: includes/admin/admin.php:1542 includes/admin/admin.php:1670
+msgid "Search for a category&hellip;"
+msgstr "搜索类别&hellip;"
+
+#: includes/admin/admin.php:1543
+msgid "-- Select --"
+msgstr "-- 选择 --"
+
+#: includes/admin/admin.php:1568
+msgid "Search for a product&hellip;"
+msgstr "搜索产品&hellip;"
+
+#: includes/admin/admin.php:1608
+msgid "Where Do You Want to Display Your Archive Product?"
+msgstr "您希望在何处显示存档产品？"
+
+#: includes/admin/admin.php:1615
+msgid "Product Categories"
+msgstr "产品分类"
+
+#: includes/admin/admin.php:1616
+msgid "Product Tags"
+msgstr "产品标签"
+
+#: includes/admin/admin.php:1692
+msgid "Search for a tag&hellip;"
+msgstr "搜索标签&hellip;"
+
+#: includes/admin/admin.php:1813
+msgid "View Documentation"
+msgstr "查看文档"
+
+#: includes/admin/admin.php:1813
+msgid "Documentation"
+msgstr "技术文档"
+
+#: includes/admin/admin.php:1814
+msgid "View Tutorial videos"
+msgstr "视频教程"
+
+#: includes/admin/admin.php:1814
+msgid "Tutorial videos"
+msgstr "视频教程"
+
+#: includes/admin/admin.php:1815
+msgid "Visit premium customer support"
+msgstr "访问专业版自助支持"
+
+#: includes/admin/admin.php:1815
+msgid "Support"
+msgstr "服务与支持"
+
+#: includes/admin/import-demo.php:25
+msgid "Choose the demo for import"
+msgstr "选择要导入的演示内容"
+
+#: includes/admin/import-demo.php:26
+msgid ""
+"The demo will give you the layout of the demo version. The style of the demo "
+"version is often affected by your theme and plugins."
+msgstr "演示将给出演示版本的布局。演示版本的样式通常会受到主题和插件的影响。"
+
+#: includes/admin/import-demo.php:33
+msgid "Click to choose"
+msgstr "点击选择"
+
+#: includes/admin/import-demo.php:35
+msgid "View this demo in a new tab"
+msgstr "在新窗口中查看演示"
+
+#: includes/admin/import-demo.php:35
+msgid "Preview"
+msgstr "预览"
+
+#: includes/admin/import-demo.php:43
+msgid "Import"
+msgstr "导入"
+
+#: includes/admin/import-demo.php:49
+msgid "Importing Demo Content..."
+msgstr "导入演示内容..."
+
+#: includes/admin/import-demo.php:50
+msgid "Don't close or refresh this page to not interrupt the import."
+msgstr "请勿关闭或刷新此页面以避免中断导入。"
+
+#: includes/admin/import-demo.php:54
+msgid "Import completed successfully!"
+msgstr "导入成功完成！"
+
+#: includes/admin/import-demo.php:55
+#, php-format
+msgid "Let's see the <a href=\"%s\">Templates</a>."
+msgstr "让我们看到 <a href=\"%s\">模板</a>."
+
+#: includes/admin/import-demo.php:103 includes/admin/import-demo.php:177
+msgid "Error has occured"
+msgstr "对不起，出现了一个错误"
+
+#: includes/admin/import-demo.php:122
+msgid "The Demos Can Only Be Imported With A Valid Token Registration"
+msgstr "演示只能通过有效的令牌注册来导入"
+
+#: includes/admin/import-demo.php:124
+#, php-format
+msgid ""
+"Please visit the %s page and enter a valid token to import the full Demos."
+msgstr "请访问 %s 页并输入有效的令牌以导入完整的演示."
+
+#: includes/admin/import-demo.php:135
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "发生错误。请重新加载页面，然后重试。"
+
+#: includes/admin/settings/class-admin-settings-product.php:19
+msgid "Single Product"
+msgstr "单产品"
+
+#: includes/admin/settings/class-admin-settings-templates.php:19
+msgid "All Templates"
+msgstr "所有模板"
+
+#: includes/admin/views/html-admin-settings.php:21
+#: includes/class-post-types.php:31 includes/class-post-types.php:32
+#: includes/class-post-types.php:33
+msgid "WooCommerce Builder Templates"
+msgstr "WooCommerce Builder模板"
+
+#: includes/class-post-types.php:34
+msgctxt "Admin menu name"
+msgid "WooCommerce Templates"
+msgstr "WooCommerce 模板"
+
+#: includes/class-post-types.php:35
+msgid "Add New"
+msgstr "新增"
+
+#: includes/class-post-types.php:36
+msgid "Add new product template"
+msgstr "添加新产品模板"
+
+#: includes/class-post-types.php:37
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/class-post-types.php:38
+msgid "Edit template"
+msgstr "编辑模板"
+
+#: includes/class-post-types.php:39
+msgid "New template"
+msgstr "新模板"
+
+#: includes/class-post-types.php:40
+msgid "View template"
+msgstr "查看模板"
+
+#: includes/class-post-types.php:41
+msgid "View templates"
+msgstr "查看模板"
+
+#: includes/class-post-types.php:42
+msgid "Search template"
+msgstr "搜索模板"
+
+#: includes/class-post-types.php:43
+msgid "No templates found"
+msgstr "找不到模板"
+
+#: includes/class-post-types.php:44
+msgid "No templates found in trash"
+msgstr "在回收站中找不到模板"
+
+#: includes/class-post-types.php:45
+msgid "Parent template"
+msgstr "父模板"
+
+#: includes/class-post-types.php:72
+msgctxt "Template Library"
+msgid "Type"
+msgstr "类型"
+
+#: includes/class-single-product-elementor.php:197
+#: includes/class-single-product-elementor.php:304
+msgid "Sale!"
+msgstr "销售！"
+
+#: includes/class-single-product-elementor.php:242
+#: includes/class-single-product-elementor.php:327
+msgid "Awaiting product image"
+msgstr "等待产品图片"
+
+#: includes/class-single-product-elementor.php:375
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s 用户评论"
+
+#: includes/class-single-product-elementor.php:426
+msgid "SKU:"
+msgstr "SKU:"
+
+#: includes/class-single-product-elementor.php:426
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class-single-product-elementor.php:430
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "类别："
+
+#: includes/class-single-product-elementor.php:432
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "标签："
+
+#: includes/class-woocommerce-builder-elementor.php:323
+msgid "Woo General"
+msgstr "Woo 常规设置"
+
+#: includes/class-woocommerce-builder-elementor.php:331
+msgid "Woo Product"
+msgstr "Woo产品列表"
+
+#: includes/class-woocommerce-builder-elementor.php:339
+msgid "Woo Product Archive"
+msgstr "Woo 产品类别"
+
+#: includes/class-woocommerce-builder-elementor.php:347
+msgid "Woo Cart"
+msgstr "购物车"
+
+#: includes/class-woocommerce-builder-elementor.php:355
+msgid "Woo Checkout"
+msgstr "Woo 结算"
+
+#: includes/class-woocommerce-builder-elementor.php:363
+msgid "Woo Thank You"
+msgstr "Woo 感谢"
+
+#: includes/class-woocommerce-builder-elementor.php:371
+msgid "Woo My Account"
+msgstr "我的帐户"
+
+#: includes/class-woocommerce-builder-elementor.php:378
+msgid "Woo Account Login"
+msgstr "Woo 账户登录"
+
+#: includes/class-woocommerce-builder-elementor.php:412
+msgid "Preview Settings"
+msgstr "预览设置"
+
+#: includes/class-woocommerce-builder-elementor.php:420
+#: includes/widgets/myaccount/orders.php:260
+#: includes/widgets/single-product/related.php:72
+#: includes/widgets/single-product/related.php:73
+#: includes/widgets/single-product/up-sells.php:61
+msgid "Date"
+msgstr "日期"
+
+#: includes/class-woocommerce-builder-elementor.php:442
+msgid ""
+"The <strong>WooCommerce Page Builder For Elementor For Elementor</strong> "
+"requires <strong><a href=\"https://woocommerce.com/\" target=\"_blank"
+"\">WooCommerce</a></strong> plugin to be installed and activated on your "
+"site."
+msgstr ""
+"这 <strong>为Elementor的WooCommerce页面建设者</strong> 需要 <strong><a href="
+"\"https://woocommerce.com/\" target=\"_blank\">WooCommerce</a></strong> 插件"
+"将在您的站点上安装和激活."
+
+#: includes/class-woocommerce-builder-elementor.php:452
+#, php-format
+msgid "The %1$s requires %2$s to be installed and activated on your site."
+msgstr "The %1$s requires %2$s在您的网站上安装和激活。"
+
+#: includes/class-woocommerce-builder-elementor.php:453
+msgid "WooCommerce Page Builder For Elementor For Elementor"
+msgstr "为Elementor的WooCommerce页面建设者"
+
+#: includes/class-woocommerce-builder-elementor.php:454
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/class-woocommerce-builder-envato-api.php:51
+#: includes/class-woocommerce-builder-envato-api.php:62
+msgid "Cheatin&#8217; huh?"
+msgstr "开玩笑，呵？"
+
+#: includes/class-woocommerce-builder-envato-api.php:96
+msgid "An API token is required."
+msgstr "需要API令牌。"
+
+#: includes/class-woocommerce-builder-envato-api.php:110
+#: includes/class-woocommerce-builder-envato-api.php:114
+msgid "An unknown API error occurred."
+msgstr "发生未知的API错误。"
+
+#: includes/class-woocommerce-builder-product-registration.php:228
+msgid "Token"
+msgstr "令牌"
+
+#: includes/class-woocommerce-builder-product-registration.php:388
+msgid "Congratulations! Your product is registered now."
+msgstr "恭喜！ 您的商品现已注册。"
+
+#: includes/class-woocommerce-builder-product-registration.php:390
+msgid "Please enter your Envato token to complete registration."
+msgstr "请输入您的Envato令牌以完成注册。"
+
+#: includes/class-woocommerce-builder-product-registration.php:418
+#: includes/lib/wordpress-importer/wordpress-importer.php:275
+msgid "Submit"
+msgstr "提交"
+
+#: includes/class-woocommerce-builder-product-registration.php:424
+msgid ""
+"Registration could not be completed because the value entered above is a "
+"purchase code. A token key is needed to register. Please read the directions "
+"below to find out how to create a token key to complete registration."
+msgstr ""
+"注册无法完成，因为上面输入的值是购买代码。 需要一个令牌密钥进行注册。 请阅读"
+"以下说明，了解如何创建令牌密钥以完成注册。"
+
+#: includes/class-woocommerce-builder-product-registration.php:427
+#, php-format
+msgid ""
+"Invalid token, or corresponding Envato account does not have %s purchased."
+msgstr "代币无效，或帐户未购买 %s 。"
+
+#: includes/class-woocommerce-builder-product-registration.php:441
+msgid ""
+"Token does not have the necessary permissions. Please create a new token and "
+"make sure the following permissions are enabled for it: View Your Envato "
+"Account Username, Download Your Purchased Items, List Purchases You've Made, "
+"Verify Purchases You've Made."
+msgstr ""
+"令牌没有必要的权限。请创建一个新的令牌，并确保为它启用了以下权限:查看您的"
+"Envato帐户用户名，下载您购买的物品，列出您所做的购买，验证您所做的购买。"
+
+#: includes/class-woocommerce-builder-product-registration.php:451
+msgid "Instructions For Generating A Token"
+msgstr "生成令牌的说明"
+
+#: includes/class-woocommerce-builder-product-registration.php:457
+#, php-format
+msgid ""
+"Click on this %1$s link. <strong>IMPORTANT:</strong> You must be logged into "
+"the same Codecanyon account that purchased <strong>%2$s</strong>. If you are "
+"logged in already, look in the top menu bar to ensure it is the right "
+"account. If you are not logged in, you will be directed to login then "
+"directed back to the Create A Token Page."
+msgstr ""
+"点击这个 %1$s 链接. <strong>重要的:</strong>您必须登录到购买的相同的"
+"Codecanyon帐户 <strong>%2$s</strong>. 如果您已经登录，查看顶部菜单栏，以确保"
+"它是正确的帐户.如果您没有登录,您将被定向到登录,然后定向回创建一个令牌页面."
+
+#: includes/class-woocommerce-builder-product-registration.php:458
+msgid "Generate A Personal Token"
+msgstr "生成个人令牌"
+
+#: includes/class-woocommerce-builder-product-registration.php:465
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View the "
+"user's Envato Account username, Download the user's purchased items, List "
+"purchases the user has made</strong> and <strong>Verify purchases the user "
+"has made</strong> from the permissions needed section. Check the box to "
+"agree to the terms and conditions, then click the <strong>Create Token "
+"button</strong>"
+msgstr ""
+"为您的令牌输入一个名称，然后勾选 <strong>查看用户的Envato帐户用户名, 下载用户"
+"购买的物品，列出用户购买的物品</strong> 和<strong>验证用户的购买行为</"
+"strong> 从权限需要部分。勾选同意条款及条件的方格，然后按 <strong>创建令牌按钮"
+"</strong>"
+
+#: includes/class-woocommerce-builder-product-registration.php:470
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"新页面将在框中加载令牌编号.复制令牌编号,然后返回此注册页面并将其粘贴到下面的"
+"字段中,然后单击<strong>提交</strong>按钮."
+
+#: includes/class-woocommerce-builder-product-registration.php:477
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+"您将看到成功的绿色复选标记，或者出现错误时的失败消息。 如果失败，请确保您正确"
+"执行了上述步骤。"
+
+#: includes/class-woocommerce-builder-product-registration.php:478
+msgid "documentation post"
+msgstr "文件发布"
+
+#: includes/lib/wordpress-importer/parsers.php:42
+#: includes/lib/wordpress-importer/parsers.php:72
+#: includes/lib/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "读取此WXR文件时出错"
+
+#: includes/lib/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "详情见上图。导入程序现在将再次尝试使用不同的解析器…"
+
+#: includes/lib/wordpress-importer/parsers.php:84
+#: includes/lib/wordpress-importer/parsers.php:89
+#: includes/lib/wordpress-importer/parsers.php:279
+#: includes/lib/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "这似乎不是一个WXR文件，失踪/无效WXR版本号"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:123
+#: includes/lib/wordpress-importer/wordpress-importer.php:132
+#: includes/lib/wordpress-importer/wordpress-importer.php:183
+#: includes/lib/wordpress-importer/wordpress-importer.php:187
+#: includes/lib/wordpress-importer/wordpress-importer.php:196
+msgid "Sorry, there has been an error."
+msgstr "对不起，出现了一个错误。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:124
+msgid "The file does not exist, please try again."
+msgstr "该文件不存在，请重试。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:167
+msgid "All done."
+msgstr "全部完成。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:167
+msgid "Have fun!"
+msgstr "玩的开心！"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:168
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "请记住更新导入用户的密码和角色。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:188
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"无法找到导出文件 <code>%s</code>. 上找不到导出文件。这可能是由权限问题引起"
+"的。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:204
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr "这WXR文件（版本%s）可能不支持这个版本的进口商。请考虑更新。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:229
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr "无法导入作者%s。 他们的帖子将归因于当前用户。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:255
+msgid "Assign Authors"
+msgstr "分配作者"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:256
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"为了使您更容易编辑和保存导入的内容，您可能需要将导入的作品的作者重新分配给此"
+"网站的现有用户。 例如，您可能需要将所有条目导入为<code> admin </code>条目。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:258
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"如果创建一个新用户的WordPress，新密码将随机生成的新用户和# 8217；的角色将被设"
+"置为%s手动更改新用户和# 8217的细节将是必要的。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:268
+msgid "Import Attachments"
+msgstr "导入附件"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:271
+msgid "Download and import file attachments"
+msgstr "下载并导入文件附件"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:288
+msgid "Import author:"
+msgstr "导入作者："
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:299
+msgid "or create new user with login name:"
+msgstr "或使用登录名创建新用户："
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:302
+msgid "as a new user:"
+msgstr "作为新用户："
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:310
+msgid "assign posts to an existing user:"
+msgstr "将帖子分配给现有用户："
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:312
+msgid "or assign posts to an existing user:"
+msgstr "或将帖子分配给现有用户："
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:313
+msgid "- Select -"
+msgstr "- 选择 -"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:363
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr "无法为%s创建新用户。 他们的帖子将归因于当前用户。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:414
+#, php-format
+msgid "Failed to import category %s"
+msgstr "无法导入类别%s"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:454
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "无法导入帖子标签%s"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:500
+#: includes/lib/wordpress-importer/wordpress-importer.php:641
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "无法导入 %s %s"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:526
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "无法导入 &#8220;%s&#8221;：无效的帖子类型%s"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; 已经存在。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:607
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "无法导入 %s &#8220;%s&#8221;"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:772
+msgid "Menu item skipped due to missing menu slug"
+msgstr "菜单项由于缺少菜单而被跳过"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:779
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "菜单项由于无效菜单节点跳过：%s"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:842
+msgid "Fetching attachments is not enabled"
+msgstr "未启用抓取附件"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:855
+msgid "Invalid file type"
+msgstr "无效的文件类型"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:899
+msgid "Remote server did not respond"
+msgstr "远程服务器没有响应"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:905
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "远程服务器返回错误响应 %1$d %2$s"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:912
+msgid "Remote file is incorrect size"
+msgstr "远程文件大小不正确"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:917
+msgid "Zero size file downloaded"
+msgstr "零大小的文件下载"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:923
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "远程文件太大，限制是%s"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:1021
+msgid "Import WordPress"
+msgstr "导入WordPress"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:1028
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr "此导入程序的新版本可用。请更新到版本%s，以确保与新的导出文件兼容。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:1043
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"你好！上传您的WordPress eXtended RSS（WXR）文件，我们# 8217；引进岗位、页面、"
+"评论、自定义字段、类别和标签到这个网站。"
+
+#: includes/lib/wordpress-importer/wordpress-importer.php:1044
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "选择要上传的WXR（.xml）文件，然后单击上传文件并导入。"
+
+#: includes/template-functions.php:14
+msgid "Back to Order list"
+msgstr "返回订单清单"
+
+#: includes/widgets/archive-product/archive-description.php:18
+msgid "Woo Archive Description"
+msgstr "Woo类别描述"
+
+#: includes/widgets/archive-product/archive-description.php:38
+msgid "Archive description"
+msgstr "存档描述"
+
+#: includes/widgets/archive-product/archive-description.php:46
+msgid "Description color"
+msgstr "描述颜色"
+
+#: includes/widgets/archive-product/archive-description.php:58
+#: includes/widgets/archive-product/archive-title.php:76
+#: includes/widgets/cart/cart-table.php:90
+#: includes/widgets/cart/cart-table.php:320
+#: includes/widgets/cart/cart-table.php:345
+#: includes/widgets/cart/cart-table.php:370
+#: includes/widgets/cart/cart-table.php:395
+#: includes/widgets/cart/cart-table.php:437
+#: includes/widgets/cart/cart-table.php:534
+#: includes/widgets/cart/cart-table.php:712
+#: includes/widgets/cart/cart-totals.php:91
+#: includes/widgets/cart/cart-totals.php:221
+#: includes/widgets/cart/cart-totals.php:246
+#: includes/widgets/cart/cart-totals.php:271
+#: includes/widgets/cart/cart-totals.php:304
+#: includes/widgets/cart/empty-cart-message.php:102
+#: includes/widgets/cart/return-to-shop.php:115
+#: includes/widgets/checkout/form-additional.php:90
+#: includes/widgets/checkout/form-additional.php:144
+#: includes/widgets/checkout/form-additional.php:198
+#: includes/widgets/checkout/form-billing.php:90
+#: includes/widgets/checkout/form-billing.php:144
+#: includes/widgets/checkout/form-billing.php:208
+#: includes/widgets/checkout/form-billing.php:378
+#: includes/widgets/checkout/form-shipping.php:90
+#: includes/widgets/checkout/form-shipping.php:144
+#: includes/widgets/checkout/form-shipping.php:208
+#: includes/widgets/checkout/form-shipping.php:374
+#: includes/widgets/checkout/payment.php:90
+#: includes/widgets/checkout/payment.php:118
+#: includes/widgets/checkout/review-order.php:90
+#: includes/widgets/checkout/review-order.php:358
+#: includes/widgets/checkout/review-order.php:386
+#: includes/widgets/myaccount/downloads.php:89
+#: includes/widgets/myaccount/downloads.php:241
+#: includes/widgets/myaccount/downloads.php:269
+#: includes/widgets/myaccount/downloads.php:297
+#: includes/widgets/myaccount/downloads.php:325
+#: includes/widgets/myaccount/form-edit-account.php:90
+#: includes/widgets/myaccount/form-edit-account.php:154
+#: includes/widgets/myaccount/form-edit-account.php:319
+#: includes/widgets/myaccount/form-edit-address.php:90
+#: includes/widgets/myaccount/form-edit-address.php:144
+#: includes/widgets/myaccount/form-edit-address.php:198
+#: includes/widgets/myaccount/form-login.php:89
+#: includes/widgets/myaccount/form-login.php:197
+#: includes/widgets/myaccount/form-login.php:261
+#: includes/widgets/myaccount/form-login.php:431
+#: includes/widgets/myaccount/form-login.php:587
+#: includes/widgets/myaccount/form-register.php:89
+#: includes/widgets/myaccount/form-register.php:197
+#: includes/widgets/myaccount/form-register.php:261
+#: includes/widgets/myaccount/form-register.php:430
+#: includes/widgets/myaccount/form-register.php:487
+#: includes/widgets/myaccount/logout.php:101
+#: includes/widgets/myaccount/orders.php:89
+#: includes/widgets/myaccount/orders.php:240
+#: includes/widgets/myaccount/orders.php:268
+#: includes/widgets/myaccount/orders.php:296
+#: includes/widgets/myaccount/orders.php:324
+#: includes/widgets/myaccount/orders.php:352
+#: includes/widgets/single-product/add-to-cart.php:80
+#: includes/widgets/single-product/content.php:46
+#: includes/widgets/single-product/price.php:58
+#: includes/widgets/single-product/rating.php:80
+#: includes/widgets/single-product/short-description.php:58
+#: includes/widgets/single-product/title.php:76
+#: includes/widgets/thankyou/customer_details.php:90
+#: includes/widgets/thankyou/customer_details.php:143
+#: includes/widgets/thankyou/order_details.php:90
+#: includes/widgets/thankyou/order_details.php:151
+#: includes/widgets/thankyou/order_details.php:186
+#: includes/widgets/thankyou/order_details.php:223
+#: includes/widgets/thankyou/order_details.php:248
+#: includes/widgets/thankyou/thankyou.php:97
+#: includes/widgets/thankyou/thankyou.php:150
+#: includes/widgets/thankyou/thankyou.php:201
+msgid "Typography"
+msgstr "排版"
+
+#: includes/widgets/archive-product/archive-description.php:66
+#: includes/widgets/archive-product/archive-title.php:84
+#: includes/widgets/cart/cart-table.php:150
+#: includes/widgets/cart/cart-table.php:230
+#: includes/widgets/cart/cart-totals.php:108
+#: includes/widgets/cart/cart-totals.php:186
+#: includes/widgets/cart/empty-cart-message.php:110
+#: includes/widgets/cart/return-to-shop.php:90
+#: includes/widgets/checkout/form-additional.php:107
+#: includes/widgets/checkout/form-additional.php:161
+#: includes/widgets/checkout/form-billing.php:107
+#: includes/widgets/checkout/form-billing.php:171
+#: includes/widgets/checkout/form-shipping.php:107
+#: includes/widgets/checkout/form-shipping.php:171
+#: includes/widgets/checkout/review-order.php:107
+#: includes/widgets/global/breadcrumb.php:119
+#: includes/widgets/myaccount/dashboard.php:119
+#: includes/widgets/myaccount/downloads.php:139
+#: includes/widgets/myaccount/downloads.php:204
+#: includes/widgets/myaccount/form-edit-account.php:117
+#: includes/widgets/myaccount/form-edit-address.php:107
+#: includes/widgets/myaccount/form-edit-address.php:161
+#: includes/widgets/myaccount/form-edit-address.php:215
+#: includes/widgets/myaccount/form-login.php:106
+#: includes/widgets/myaccount/form-login.php:224
+#: includes/widgets/myaccount/form-login.php:594
+#: includes/widgets/myaccount/form-register.php:106
+#: includes/widgets/myaccount/form-register.php:224
+#: includes/widgets/myaccount/form-register.php:447
+#: includes/widgets/myaccount/logout.php:109
+#: includes/widgets/myaccount/orders.php:139
+#: includes/widgets/myaccount/orders.php:203
+#: includes/widgets/single-product/add-to-cart.php:55
+#: includes/widgets/single-product/content.php:63
+#: includes/widgets/single-product/price.php:66
+#: includes/widgets/single-product/product-base.php:96
+#: includes/widgets/single-product/short-description.php:66
+#: includes/widgets/single-product/title.php:84
+#: includes/widgets/thankyou/customer_details.php:107
+#: includes/widgets/thankyou/customer_details.php:160
+#: includes/widgets/thankyou/order_details.php:107
+#: includes/widgets/thankyou/thankyou.php:114
+#: includes/widgets/thankyou/thankyou.php:167
+#: includes/widgets/thankyou/thankyou.php:218
+msgid "Alignment"
+msgstr "对齐"
+
+#: includes/widgets/archive-product/archive-description.php:70
+#: includes/widgets/archive-product/archive-title.php:88
+#: includes/widgets/cart/cart-table.php:154
+#: includes/widgets/cart/cart-table.php:234
+#: includes/widgets/cart/cart-totals.php:112
+#: includes/widgets/cart/cart-totals.php:190
+#: includes/widgets/cart/cross-sells.php:201
+#: includes/widgets/cart/empty-cart-message.php:114
+#: includes/widgets/cart/return-to-shop.php:94
+#: includes/widgets/checkout/form-additional.php:111
+#: includes/widgets/checkout/form-additional.php:165
+#: includes/widgets/checkout/form-billing.php:111
+#: includes/widgets/checkout/form-billing.php:175
+#: includes/widgets/checkout/form-shipping.php:111
+#: includes/widgets/checkout/form-shipping.php:175
+#: includes/widgets/checkout/review-order.php:111
+#: includes/widgets/global/breadcrumb.php:123
+#: includes/widgets/myaccount/dashboard.php:123
+#: includes/widgets/myaccount/downloads.php:143
+#: includes/widgets/myaccount/downloads.php:208
+#: includes/widgets/myaccount/form-edit-account.php:121
+#: includes/widgets/myaccount/form-edit-address.php:111
+#: includes/widgets/myaccount/form-edit-address.php:165
+#: includes/widgets/myaccount/form-edit-address.php:219
+#: includes/widgets/myaccount/form-login.php:110
+#: includes/widgets/myaccount/form-login.php:228
+#: includes/widgets/myaccount/form-login.php:598
+#: includes/widgets/myaccount/form-register.php:110
+#: includes/widgets/myaccount/form-register.php:228
+#: includes/widgets/myaccount/form-register.php:451
+#: includes/widgets/myaccount/logout.php:113
+#: includes/widgets/myaccount/orders.php:143
+#: includes/widgets/myaccount/orders.php:207
+#: includes/widgets/single-product/add-to-cart.php:59
+#: includes/widgets/single-product/content.php:67
+#: includes/widgets/single-product/price.php:70
+#: includes/widgets/single-product/product-base.php:100
+#: includes/widgets/single-product/product-base.php:973
+#: includes/widgets/single-product/product-images.php:129
+#: includes/widgets/single-product/product-images.php:184
+#: includes/widgets/single-product/rating.php:141
+#: includes/widgets/single-product/related.php:156
+#: includes/widgets/single-product/short-description.php:70
+#: includes/widgets/single-product/title.php:88
+#: includes/widgets/single-product/up-sells.php:145
+#: includes/widgets/thankyou/customer_details.php:111
+#: includes/widgets/thankyou/customer_details.php:164
+#: includes/widgets/thankyou/order_details.php:111
+#: includes/widgets/thankyou/thankyou.php:118
+#: includes/widgets/thankyou/thankyou.php:171
+#: includes/widgets/thankyou/thankyou.php:222
+msgid "Left"
+msgstr "离开"
+
+#: includes/widgets/archive-product/archive-description.php:74
+#: includes/widgets/archive-product/archive-title.php:92
+#: includes/widgets/cart/cart-table.php:158
+#: includes/widgets/cart/cart-table.php:238
+#: includes/widgets/cart/cart-totals.php:116
+#: includes/widgets/cart/cart-totals.php:194
+#: includes/widgets/cart/cross-sells.php:205
+#: includes/widgets/cart/empty-cart-message.php:118
+#: includes/widgets/cart/return-to-shop.php:98
+#: includes/widgets/checkout/form-additional.php:115
+#: includes/widgets/checkout/form-additional.php:169
+#: includes/widgets/checkout/form-billing.php:115
+#: includes/widgets/checkout/form-billing.php:179
+#: includes/widgets/checkout/form-shipping.php:115
+#: includes/widgets/checkout/form-shipping.php:179
+#: includes/widgets/checkout/review-order.php:115
+#: includes/widgets/global/breadcrumb.php:127
+#: includes/widgets/myaccount/dashboard.php:127
+#: includes/widgets/myaccount/downloads.php:147
+#: includes/widgets/myaccount/downloads.php:212
+#: includes/widgets/myaccount/form-edit-account.php:125
+#: includes/widgets/myaccount/form-edit-address.php:115
+#: includes/widgets/myaccount/form-edit-address.php:169
+#: includes/widgets/myaccount/form-edit-address.php:223
+#: includes/widgets/myaccount/form-login.php:114
+#: includes/widgets/myaccount/form-login.php:232
+#: includes/widgets/myaccount/form-login.php:602
+#: includes/widgets/myaccount/form-register.php:114
+#: includes/widgets/myaccount/form-register.php:232
+#: includes/widgets/myaccount/form-register.php:455
+#: includes/widgets/myaccount/logout.php:117
+#: includes/widgets/myaccount/orders.php:147
+#: includes/widgets/myaccount/orders.php:211
+#: includes/widgets/single-product/add-to-cart.php:63
+#: includes/widgets/single-product/content.php:71
+#: includes/widgets/single-product/price.php:74
+#: includes/widgets/single-product/product-base.php:104
+#: includes/widgets/single-product/rating.php:145
+#: includes/widgets/single-product/related.php:160
+#: includes/widgets/single-product/short-description.php:74
+#: includes/widgets/single-product/title.php:92
+#: includes/widgets/single-product/up-sells.php:149
+#: includes/widgets/thankyou/customer_details.php:115
+#: includes/widgets/thankyou/customer_details.php:168
+#: includes/widgets/thankyou/order_details.php:115
+#: includes/widgets/thankyou/thankyou.php:122
+#: includes/widgets/thankyou/thankyou.php:175
+#: includes/widgets/thankyou/thankyou.php:226
+msgid "Center"
+msgstr "居中"
+
+#: includes/widgets/archive-product/archive-description.php:78
+#: includes/widgets/archive-product/archive-title.php:96
+#: includes/widgets/cart/cart-table.php:162
+#: includes/widgets/cart/cart-table.php:242
+#: includes/widgets/cart/cart-totals.php:120
+#: includes/widgets/cart/cart-totals.php:198
+#: includes/widgets/cart/cross-sells.php:209
+#: includes/widgets/cart/empty-cart-message.php:122
+#: includes/widgets/cart/return-to-shop.php:102
+#: includes/widgets/checkout/form-additional.php:119
+#: includes/widgets/checkout/form-additional.php:173
+#: includes/widgets/checkout/form-billing.php:119
+#: includes/widgets/checkout/form-billing.php:183
+#: includes/widgets/checkout/form-shipping.php:119
+#: includes/widgets/checkout/form-shipping.php:183
+#: includes/widgets/checkout/review-order.php:119
+#: includes/widgets/global/breadcrumb.php:131
+#: includes/widgets/myaccount/dashboard.php:131
+#: includes/widgets/myaccount/downloads.php:151
+#: includes/widgets/myaccount/downloads.php:216
+#: includes/widgets/myaccount/form-edit-account.php:129
+#: includes/widgets/myaccount/form-edit-address.php:119
+#: includes/widgets/myaccount/form-edit-address.php:173
+#: includes/widgets/myaccount/form-edit-address.php:227
+#: includes/widgets/myaccount/form-login.php:118
+#: includes/widgets/myaccount/form-login.php:236
+#: includes/widgets/myaccount/form-login.php:606
+#: includes/widgets/myaccount/form-register.php:118
+#: includes/widgets/myaccount/form-register.php:236
+#: includes/widgets/myaccount/form-register.php:459
+#: includes/widgets/myaccount/logout.php:121
+#: includes/widgets/myaccount/orders.php:151
+#: includes/widgets/myaccount/orders.php:215
+#: includes/widgets/single-product/add-to-cart.php:67
+#: includes/widgets/single-product/content.php:75
+#: includes/widgets/single-product/price.php:78
+#: includes/widgets/single-product/product-base.php:108
+#: includes/widgets/single-product/product-base.php:977
+#: includes/widgets/single-product/product-images.php:185
+#: includes/widgets/single-product/rating.php:149
+#: includes/widgets/single-product/related.php:164
+#: includes/widgets/single-product/short-description.php:78
+#: includes/widgets/single-product/title.php:96
+#: includes/widgets/single-product/up-sells.php:153
+#: includes/widgets/thankyou/customer_details.php:119
+#: includes/widgets/thankyou/customer_details.php:172
+#: includes/widgets/thankyou/order_details.php:119
+#: includes/widgets/thankyou/thankyou.php:126
+#: includes/widgets/thankyou/thankyou.php:179
+#: includes/widgets/thankyou/thankyou.php:230
+msgid "Right"
+msgstr "正确的"
+
+#: includes/widgets/archive-product/archive-products.php:18
+msgid "Woo Archive Products"
+msgstr "Woo类别产品"
+
+#: includes/widgets/archive-product/archive-products.php:38
+msgid "Content"
+msgstr "内容"
+
+#: includes/widgets/archive-product/archive-products.php:46
+#: includes/widgets/cart/cross-sells.php:101
+#: includes/widgets/single-product/related.php:56
+#: includes/widgets/single-product/up-sells.php:45
+msgid "Columns"
+msgstr "列"
+
+#: includes/widgets/archive-product/archive-products.php:58
+msgid "Rows"
+msgstr "行"
+
+#: includes/widgets/archive-product/archive-products.php:73
+#: includes/widgets/single-product/product-base.php:687
+msgid "Pagination"
+msgstr "分页"
+
+#: includes/widgets/archive-product/archive-products.php:82
+msgid "Allow Order"
+msgstr "允许订单"
+
+#: includes/widgets/archive-product/archive-products.php:94
+msgid "Show Result Count"
+msgstr "显示结果计数"
+
+#: includes/widgets/archive-product/archive-products.php:107
+#: includes/widgets/archive-product/archive-products.php:129
+msgid "Nothing Found Message"
+msgstr "什么都找不到消息"
+
+#: includes/widgets/archive-product/archive-products.php:109
+msgid "No products were found matching your selection."
+msgstr "没有符合您所选择的商品。"
+
+#: includes/widgets/archive-product/archive-products.php:139
+#: includes/widgets/archive-product/archive-title.php:64
+#: includes/widgets/cart/cart-table.php:107
+#: includes/widgets/cart/cart-totals.php:98
+#: includes/widgets/cart/cross-sells.php:167
+#: includes/widgets/cart/empty-cart-message.php:90
+#: includes/widgets/checkout/form-additional.php:97
+#: includes/widgets/checkout/form-billing.php:97
+#: includes/widgets/checkout/form-shipping.php:97
+#: includes/widgets/checkout/payment.php:97
+#: includes/widgets/checkout/review-order.php:97
+#: includes/widgets/checkout/review-order.php:365
+#: includes/widgets/myaccount/downloads.php:96
+#: includes/widgets/myaccount/downloads.php:248
+#: includes/widgets/myaccount/downloads.php:276
+#: includes/widgets/myaccount/downloads.php:304
+#: includes/widgets/myaccount/form-edit-address.php:97
+#: includes/widgets/myaccount/form-edit-address.php:151
+#: includes/widgets/myaccount/form-edit-address.php:205
+#: includes/widgets/myaccount/form-login.php:96
+#: includes/widgets/myaccount/form-login.php:626
+#: includes/widgets/myaccount/form-login.php:642
+#: includes/widgets/myaccount/form-register.php:96
+#: includes/widgets/myaccount/form-register.php:437
+#: includes/widgets/myaccount/logout.php:89
+#: includes/widgets/myaccount/orders.php:96
+#: includes/widgets/myaccount/orders.php:247
+#: includes/widgets/myaccount/orders.php:275
+#: includes/widgets/myaccount/orders.php:303
+#: includes/widgets/myaccount/orders.php:331
+#: includes/widgets/single-product/add-to-cart.php:436
+#: includes/widgets/single-product/add-to-cart.php:464
+#: includes/widgets/single-product/content.php:53
+#: includes/widgets/single-product/meta.php:79
+#: includes/widgets/single-product/meta.php:107
+#: includes/widgets/single-product/price.php:46
+#: includes/widgets/single-product/product-base.php:172
+#: includes/widgets/single-product/product-base.php:299
+#: includes/widgets/single-product/product-base.php:334
+#: includes/widgets/single-product/product-base.php:521
+#: includes/widgets/single-product/product-base.php:772
+#: includes/widgets/single-product/product-base.php:802
+#: includes/widgets/single-product/product-base.php:832
+#: includes/widgets/single-product/related.php:122
+#: includes/widgets/single-product/short-description.php:46
+#: includes/widgets/single-product/title.php:64
+#: includes/widgets/single-product/up-sells.php:111
+#: includes/widgets/thankyou/customer_details.php:97
+#: includes/widgets/thankyou/customer_details.php:150
+#: includes/widgets/thankyou/order_details.php:97
+#: includes/widgets/thankyou/order_details.php:230
+#: includes/widgets/thankyou/order_details.php:255
+#: includes/widgets/thankyou/thankyou.php:104
+#: includes/widgets/thankyou/thankyou.php:157
+#: includes/widgets/thankyou/thankyou.php:208
+msgid "Color"
+msgstr "颜色"
+
+#: includes/widgets/archive-product/archive-title.php:18
+msgid "Woo Archive Title"
+msgstr "Woo 类别标题"
+
+#: includes/widgets/archive-product/archive-title.php:38
+msgid "Archive Title"
+msgstr "归档标题"
+
+#: includes/widgets/archive-product/archive-title.php:46
+#: includes/widgets/single-product/title.php:46
+msgid "HTML Tag"
+msgstr "HTML标签"
+
+#: includes/widgets/cart/cart-table.php:38
+#: includes/widgets/cart/cart-table.php:179
+msgid "Cart Table"
+msgstr "购物车表格"
+
+#: includes/widgets/cart/cart-table.php:82
+msgid "Cart Headings"
+msgstr "购物车标题"
+
+#: includes/widgets/cart/cart-table.php:97
+#: includes/widgets/cart/cart-table.php:187
+#: includes/widgets/cart/cart-table.php:580
+#: includes/widgets/cart/cart-table.php:638
+#: includes/widgets/cart/cart-table.php:758
+#: includes/widgets/cart/cart-table.php:816
+#: includes/widgets/cart/cart-totals.php:144
+#: includes/widgets/cart/cart-totals.php:350
+#: includes/widgets/cart/cart-totals.php:409
+#: includes/widgets/cart/return-to-shop.php:174
+#: includes/widgets/cart/return-to-shop.php:215
+#: includes/widgets/checkout/form-additional.php:274
+#: includes/widgets/checkout/form-additional.php:343
+#: includes/widgets/checkout/form-billing.php:265
+#: includes/widgets/checkout/form-billing.php:334
+#: includes/widgets/checkout/form-billing.php:436
+#: includes/widgets/checkout/form-billing.php:505
+#: includes/widgets/checkout/form-shipping.php:265
+#: includes/widgets/checkout/form-shipping.php:331
+#: includes/widgets/checkout/form-shipping.php:431
+#: includes/widgets/checkout/form-shipping.php:497
+#: includes/widgets/checkout/payment.php:164
+#: includes/widgets/checkout/payment.php:225
+#: includes/widgets/checkout/review-order.php:432
+#: includes/widgets/checkout/review-order.php:480
+#: includes/widgets/myaccount/downloads.php:371
+#: includes/widgets/myaccount/downloads.php:424
+#: includes/widgets/myaccount/form-edit-account.php:209
+#: includes/widgets/myaccount/form-edit-account.php:276
+#: includes/widgets/myaccount/form-edit-account.php:365
+#: includes/widgets/myaccount/form-edit-account.php:406
+#: includes/widgets/myaccount/form-login.php:166
+#: includes/widgets/myaccount/form-login.php:318
+#: includes/widgets/myaccount/form-login.php:387
+#: includes/widgets/myaccount/form-login.php:477
+#: includes/widgets/myaccount/form-login.php:525
+#: includes/widgets/myaccount/form-register.php:166
+#: includes/widgets/myaccount/form-register.php:318
+#: includes/widgets/myaccount/form-register.php:387
+#: includes/widgets/myaccount/form-register.php:533
+#: includes/widgets/myaccount/form-register.php:581
+#: includes/widgets/myaccount/orders.php:398
+#: includes/widgets/myaccount/orders.php:450
+#: includes/widgets/single-product/add-to-cart.php:139
+#: includes/widgets/single-product/add-to-cart.php:180
+#: includes/widgets/single-product/add-to-cart.php:308
+#: includes/widgets/single-product/add-to-cart.php:349
+#: includes/widgets/single-product/add-to-cart.php:475
+#: includes/widgets/single-product/product-base.php:390
+#: includes/widgets/single-product/product-base.php:441
+#: includes/widgets/single-product/product-base.php:621
+#: includes/widgets/single-product/product-base.php:659
+#: includes/widgets/single-product/product-base.php:783
+#: includes/widgets/single-product/product-base.php:813
+#: includes/widgets/single-product/product-base.php:843
+#: includes/widgets/single-product/product-base.php:898
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: includes/widgets/cart/cart-table.php:127
+#: includes/widgets/cart/cart-table.php:207
+#: includes/widgets/cart/cart-table.php:477
+#: includes/widgets/cart/cart-table.php:591
+#: includes/widgets/cart/cart-table.php:649
+#: includes/widgets/cart/cart-table.php:769
+#: includes/widgets/cart/cart-table.php:827
+#: includes/widgets/cart/cart-totals.php:163
+#: includes/widgets/cart/cart-totals.php:361
+#: includes/widgets/cart/cart-totals.php:420
+#: includes/widgets/cart/return-to-shop.php:185
+#: includes/widgets/cart/return-to-shop.php:226
+#: includes/widgets/checkout/form-additional.php:263
+#: includes/widgets/checkout/form-additional.php:332
+#: includes/widgets/checkout/form-billing.php:254
+#: includes/widgets/checkout/form-billing.php:323
+#: includes/widgets/checkout/form-billing.php:425
+#: includes/widgets/checkout/form-billing.php:494
+#: includes/widgets/checkout/form-shipping.php:254
+#: includes/widgets/checkout/form-shipping.php:320
+#: includes/widgets/checkout/form-shipping.php:420
+#: includes/widgets/checkout/form-shipping.php:486
+#: includes/widgets/checkout/payment.php:175
+#: includes/widgets/checkout/payment.php:236
+#: includes/widgets/checkout/review-order.php:443
+#: includes/widgets/checkout/review-order.php:491
+#: includes/widgets/myaccount/downloads.php:116
+#: includes/widgets/myaccount/downloads.php:183
+#: includes/widgets/myaccount/downloads.php:382
+#: includes/widgets/myaccount/downloads.php:435
+#: includes/widgets/myaccount/form-edit-account.php:198
+#: includes/widgets/myaccount/form-edit-account.php:265
+#: includes/widgets/myaccount/form-edit-account.php:376
+#: includes/widgets/myaccount/form-edit-account.php:417
+#: includes/widgets/myaccount/form-login.php:149
+#: includes/widgets/myaccount/form-login.php:307
+#: includes/widgets/myaccount/form-login.php:376
+#: includes/widgets/myaccount/form-login.php:488
+#: includes/widgets/myaccount/form-login.php:536
+#: includes/widgets/myaccount/form-register.php:149
+#: includes/widgets/myaccount/form-register.php:307
+#: includes/widgets/myaccount/form-register.php:376
+#: includes/widgets/myaccount/form-register.php:544
+#: includes/widgets/myaccount/form-register.php:592
+#: includes/widgets/myaccount/orders.php:116
+#: includes/widgets/myaccount/orders.php:182
+#: includes/widgets/myaccount/orders.php:409
+#: includes/widgets/myaccount/orders.php:461
+#: includes/widgets/single-product/add-to-cart.php:150
+#: includes/widgets/single-product/add-to-cart.php:191
+#: includes/widgets/single-product/add-to-cart.php:319
+#: includes/widgets/single-product/add-to-cart.php:360
+#: includes/widgets/single-product/add-to-cart.php:486
+#: includes/widgets/single-product/product-base.php:401
+#: includes/widgets/single-product/product-base.php:452
+#: includes/widgets/single-product/product-base.php:632
+#: includes/widgets/single-product/product-base.php:670
+#: includes/widgets/single-product/product-base.php:722
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: includes/widgets/cart/cart-table.php:138
+#: includes/widgets/cart/cart-table.php:218
+#: includes/widgets/cart/cart-table.php:456
+#: includes/widgets/cart/cart-table.php:549
+#: includes/widgets/cart/cart-table.php:727
+#: includes/widgets/cart/cart-totals.php:174
+#: includes/widgets/cart/cart-totals.php:319
+#: includes/widgets/cart/return-to-shop.php:143
+#: includes/widgets/checkout/form-additional.php:222
+#: includes/widgets/checkout/form-billing.php:215
+#: includes/widgets/checkout/form-billing.php:385
+#: includes/widgets/checkout/form-shipping.php:215
+#: includes/widgets/checkout/form-shipping.php:381
+#: includes/widgets/checkout/payment.php:133
+#: includes/widgets/checkout/review-order.php:401
+#: includes/widgets/myaccount/downloads.php:127
+#: includes/widgets/myaccount/downloads.php:193
+#: includes/widgets/myaccount/downloads.php:340
+#: includes/widgets/myaccount/form-edit-account.php:161
+#: includes/widgets/myaccount/form-edit-account.php:334
+#: includes/widgets/myaccount/form-login.php:176
+#: includes/widgets/myaccount/form-login.php:268
+#: includes/widgets/myaccount/form-login.php:446
+#: includes/widgets/myaccount/form-register.php:176
+#: includes/widgets/myaccount/form-register.php:268
+#: includes/widgets/myaccount/form-register.php:502
+#: includes/widgets/myaccount/orders.php:127
+#: includes/widgets/myaccount/orders.php:192
+#: includes/widgets/myaccount/orders.php:367
+#: includes/widgets/single-product/add-to-cart.php:108
+#: includes/widgets/single-product/add-to-cart.php:277
+#: includes/widgets/single-product/product-base.php:587
+#: includes/widgets/single-product/product-base.php:737
+msgid "Padding"
+msgstr "内边距"
+
+#: includes/widgets/cart/cart-table.php:257
+msgid "Product Thumbnail"
+msgstr "产品缩略图"
+
+#: includes/widgets/cart/cart-table.php:274
+#: includes/widgets/cart/cart-table.php:487
+#: includes/widgets/cart/cart-table.php:601
+#: includes/widgets/cart/cart-table.php:659
+#: includes/widgets/cart/cart-table.php:779
+#: includes/widgets/cart/cart-table.php:838
+#: includes/widgets/cart/cart-totals.php:371
+#: includes/widgets/cart/cart-totals.php:430
+#: includes/widgets/cart/return-to-shop.php:132
+#: includes/widgets/checkout/form-additional.php:284
+#: includes/widgets/checkout/form-additional.php:353
+#: includes/widgets/checkout/form-billing.php:276
+#: includes/widgets/checkout/form-billing.php:345
+#: includes/widgets/checkout/form-billing.php:447
+#: includes/widgets/checkout/form-billing.php:516
+#: includes/widgets/checkout/form-shipping.php:275
+#: includes/widgets/checkout/form-shipping.php:341
+#: includes/widgets/checkout/form-shipping.php:441
+#: includes/widgets/checkout/form-shipping.php:508
+#: includes/widgets/checkout/payment.php:186
+#: includes/widgets/checkout/payment.php:247
+#: includes/widgets/myaccount/downloads.php:393
+#: includes/widgets/myaccount/downloads.php:446
+#: includes/widgets/myaccount/form-edit-account.php:219
+#: includes/widgets/myaccount/form-edit-account.php:287
+#: includes/widgets/myaccount/form-login.php:329
+#: includes/widgets/myaccount/form-login.php:398
+#: includes/widgets/myaccount/form-register.php:329
+#: includes/widgets/myaccount/form-register.php:398
+#: includes/widgets/myaccount/orders.php:419
+#: includes/widgets/myaccount/orders.php:472
+#: includes/widgets/single-product/add-to-cart.php:97
+#: includes/widgets/single-product/add-to-cart.php:266
+#: includes/widgets/single-product/add-to-cart.php:505
+#: includes/widgets/single-product/product-base.php:139
+#: includes/widgets/single-product/product-base.php:476
+#: includes/widgets/single-product/product-base.php:569
+#: includes/widgets/single-product/product-base.php:923
+#: includes/widgets/single-product/product-images.php:229
+#: includes/widgets/single-product/product-images.php:259
+msgid "Border Radius"
+msgstr "边框半径"
+
+#: includes/widgets/cart/cart-table.php:286
+msgid "Thumbnail size"
+msgstr "缩略图大小"
+
+#: includes/widgets/cart/cart-table.php:327
+msgid "Product Name Color"
+msgstr "产品名称颜色"
+
+#: includes/widgets/cart/cart-table.php:338
+#: includes/widgets/cart/cross-sells.php:123
+#: includes/widgets/single-product/product-base.php:290
+#: includes/widgets/single-product/related.php:74
+#: includes/widgets/single-product/up-sells.php:63
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:31
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:97
+msgid "Price"
+msgstr "价格"
+
+#: includes/widgets/cart/cart-table.php:352
+msgid "Product Price Color"
+msgstr "产品价格颜色"
+
+#: includes/widgets/cart/cart-table.php:363
+#: includes/widgets/single-product/add-to-cart.php:228
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:32
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:103
+msgid "Quantity"
+msgstr "数量"
+
+#: includes/widgets/cart/cart-table.php:377
+msgid "Product Quantity Color"
+msgstr "商品数量颜色"
+
+#: includes/widgets/cart/cart-table.php:388
+#: includes/widgets/cart/cart-totals.php:264
+#: includes/widgets/myaccount/orders.php:316
+#: includes/widgets/thankyou/order_details.php:208
+#: includes/widgets/thankyou/order_details.php:241
+#: includes/widgets/thankyou/order_details.php:317
+msgid "Total"
+msgstr "总计"
+
+#: includes/widgets/cart/cart-table.php:402
+#: includes/widgets/cart/cart-totals.php:278
+msgid "Total Color"
+msgstr "总计颜色"
+
+#: includes/widgets/cart/cart-table.php:420
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:167
+msgid "Apply coupon"
+msgstr "使用优惠券"
+
+#: includes/widgets/cart/cart-table.php:427
+msgid "Coupon Field"
+msgstr "显示优惠券字段"
+
+#: includes/widgets/cart/cart-table.php:445
+#: includes/widgets/cart/cart-table.php:569
+#: includes/widgets/cart/cart-table.php:627
+#: includes/widgets/cart/cart-table.php:747
+#: includes/widgets/cart/cart-table.php:805
+#: includes/widgets/cart/cart-totals.php:339
+#: includes/widgets/cart/cart-totals.php:398
+#: includes/widgets/cart/return-to-shop.php:163
+#: includes/widgets/cart/return-to-shop.php:204
+#: includes/widgets/checkout/form-additional.php:243
+#: includes/widgets/checkout/form-additional.php:312
+#: includes/widgets/checkout/form-billing.php:235
+#: includes/widgets/checkout/form-billing.php:304
+#: includes/widgets/checkout/form-billing.php:406
+#: includes/widgets/checkout/form-billing.php:475
+#: includes/widgets/checkout/form-shipping.php:235
+#: includes/widgets/checkout/form-shipping.php:301
+#: includes/widgets/checkout/form-shipping.php:401
+#: includes/widgets/checkout/form-shipping.php:467
+#: includes/widgets/checkout/payment.php:153
+#: includes/widgets/checkout/payment.php:214
+#: includes/widgets/checkout/review-order.php:421
+#: includes/widgets/checkout/review-order.php:469
+#: includes/widgets/global/breadcrumb.php:89
+#: includes/widgets/myaccount/dashboard.php:89
+#: includes/widgets/myaccount/downloads.php:360
+#: includes/widgets/myaccount/downloads.php:413
+#: includes/widgets/myaccount/form-edit-account.php:179
+#: includes/widgets/myaccount/form-edit-account.php:246
+#: includes/widgets/myaccount/form-edit-account.php:354
+#: includes/widgets/myaccount/form-edit-account.php:395
+#: includes/widgets/myaccount/form-login.php:288
+#: includes/widgets/myaccount/form-login.php:357
+#: includes/widgets/myaccount/form-login.php:466
+#: includes/widgets/myaccount/form-login.php:514
+#: includes/widgets/myaccount/form-register.php:288
+#: includes/widgets/myaccount/form-register.php:357
+#: includes/widgets/myaccount/form-register.php:522
+#: includes/widgets/myaccount/form-register.php:570
+#: includes/widgets/myaccount/orders.php:387
+#: includes/widgets/myaccount/orders.php:439
+#: includes/widgets/single-product/add-to-cart.php:128
+#: includes/widgets/single-product/add-to-cart.php:169
+#: includes/widgets/single-product/add-to-cart.php:297
+#: includes/widgets/single-product/add-to-cart.php:338
+#: includes/widgets/single-product/product-base.php:378
+#: includes/widgets/single-product/product-base.php:430
+#: includes/widgets/single-product/product-base.php:884
+#: includes/widgets/thankyou/order_details.php:158
+#: includes/widgets/thankyou/order_details.php:193
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: includes/widgets/cart/cart-table.php:508
+msgid "Width (auto)"
+msgstr "宽度（自动）"
+
+#: includes/widgets/cart/cart-table.php:525
+msgid "Coupon Button"
+msgstr "优惠券按钮"
+
+#: includes/widgets/cart/cart-table.php:562
+#: includes/widgets/cart/cart-table.php:740
+#: includes/widgets/cart/cart-totals.php:332
+#: includes/widgets/cart/return-to-shop.php:156
+#: includes/widgets/checkout/form-additional.php:236
+#: includes/widgets/checkout/form-billing.php:229
+#: includes/widgets/checkout/form-billing.php:400
+#: includes/widgets/checkout/form-shipping.php:229
+#: includes/widgets/checkout/form-shipping.php:395
+#: includes/widgets/checkout/payment.php:146
+#: includes/widgets/checkout/review-order.php:414
+#: includes/widgets/myaccount/downloads.php:353
+#: includes/widgets/myaccount/form-edit-account.php:173
+#: includes/widgets/myaccount/form-edit-account.php:347
+#: includes/widgets/myaccount/form-login.php:282
+#: includes/widgets/myaccount/form-login.php:459
+#: includes/widgets/myaccount/form-login.php:620
+#: includes/widgets/myaccount/form-register.php:282
+#: includes/widgets/myaccount/form-register.php:515
+#: includes/widgets/myaccount/orders.php:380
+#: includes/widgets/single-product/add-to-cart.php:121
+#: includes/widgets/single-product/add-to-cart.php:290
+#: includes/widgets/single-product/product-base.php:371
+#: includes/widgets/single-product/product-base.php:606
+#: includes/widgets/single-product/product-base.php:765
+msgid "Normal"
+msgstr "正常"
+
+#: includes/widgets/cart/cart-table.php:620
+#: includes/widgets/cart/cart-table.php:798
+#: includes/widgets/cart/cart-totals.php:391
+#: includes/widgets/cart/return-to-shop.php:197
+#: includes/widgets/checkout/payment.php:207
+#: includes/widgets/checkout/review-order.php:462
+#: includes/widgets/myaccount/downloads.php:406
+#: includes/widgets/myaccount/form-edit-account.php:388
+#: includes/widgets/myaccount/form-login.php:507
+#: includes/widgets/myaccount/form-login.php:636
+#: includes/widgets/myaccount/form-register.php:563
+#: includes/widgets/myaccount/orders.php:432
+#: includes/widgets/single-product/add-to-cart.php:162
+#: includes/widgets/single-product/product-base.php:423
+#: includes/widgets/single-product/product-base.php:644
+#: includes/widgets/single-product/product-base.php:795
+msgid "Hover"
+msgstr "悬停"
+
+#: includes/widgets/cart/cart-table.php:677
+#: includes/widgets/cart/cart-table.php:856
+#: includes/widgets/cart/cart-totals.php:448
+#: includes/widgets/cart/return-to-shop.php:237
+#: includes/widgets/checkout/payment.php:267
+#: includes/widgets/checkout/review-order.php:510
+#: includes/widgets/myaccount/downloads.php:458
+#: includes/widgets/myaccount/form-edit-account.php:428
+#: includes/widgets/myaccount/form-login.php:553
+#: includes/widgets/myaccount/form-login.php:652
+#: includes/widgets/myaccount/form-register.php:609
+#: includes/widgets/myaccount/orders.php:484
+#: includes/widgets/single-product/add-to-cart.php:202
+#: includes/widgets/single-product/add-to-cart.php:371
+msgid "Transition Duration"
+msgstr "过渡时间"
+
+#: includes/widgets/cart/cart-table.php:704
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:172
+msgid "Update cart"
+msgstr "更新购物车"
+
+#: includes/widgets/cart/cart-totals.php:38
+msgid "Cart totals"
+msgstr "购物车总计"
+
+#: includes/widgets/cart/cart-totals.php:83
+#: includes/widgets/cart/cart-totals.php:214
+#: includes/widgets/cart/cross-sells.php:146
+#: includes/widgets/cart/cross-sells.php:154
+#: includes/widgets/checkout/form-additional.php:82
+#: includes/widgets/checkout/form-billing.php:82
+#: includes/widgets/checkout/form-shipping.php:82
+#: includes/widgets/checkout/review-order.php:82
+#: includes/widgets/single-product/related.php:101
+#: includes/widgets/single-product/related.php:109
+#: includes/widgets/single-product/up-sells.php:90
+#: includes/widgets/single-product/up-sells.php:98
+#: includes/widgets/thankyou/customer_details.php:82
+#: includes/widgets/thankyou/order_details.php:82
+msgid "Heading"
+msgstr "标题"
+
+#: includes/widgets/cart/cart-totals.php:137
+msgid "Cart Totals Table"
+msgstr "购物车总计表"
+
+#: includes/widgets/cart/cart-totals.php:228
+msgid "Heading Color"
+msgstr "标题颜色"
+
+#: includes/widgets/cart/cart-totals.php:239
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:33
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:125
+msgid "Subtotal"
+msgstr "小计"
+
+#: includes/widgets/cart/cart-totals.php:253
+msgid "Subtotal Color"
+msgstr "小计颜色"
+
+#: includes/widgets/cart/cart-totals.php:296
+msgid "Checkout Button"
+msgstr "结账按钮"
+
+#: includes/widgets/cart/cross-sells.php:38
+#: includes/widgets/cart/cross-sells.php:82
+msgid "Cross Sells"
+msgstr "交叉销售"
+
+#: includes/widgets/cart/cross-sells.php:90
+msgid "Limit"
+msgstr "限制"
+
+#: includes/widgets/cart/cross-sells.php:113
+#: includes/widgets/single-product/related.php:68
+#: includes/widgets/single-product/up-sells.php:57
+msgid "Order by"
+msgstr "排序"
+
+#: includes/widgets/cart/cross-sells.php:117
+#: includes/widgets/single-product/related.php:77
+#: includes/widgets/single-product/up-sells.php:66
+msgid "Random"
+msgstr "随机"
+
+#: includes/widgets/cart/cross-sells.php:118
+msgid "Publish Date"
+msgstr "发布日期"
+
+#: includes/widgets/cart/cross-sells.php:119
+msgid "Modified Date"
+msgstr "修改日期"
+
+#: includes/widgets/cart/cross-sells.php:120
+msgid "Alphabetic"
+msgstr "字母"
+
+#: includes/widgets/cart/cross-sells.php:121
+#: includes/widgets/single-product/related.php:75
+#: includes/widgets/single-product/up-sells.php:64
+msgid "Popularity"
+msgstr "人气"
+
+#: includes/widgets/cart/cross-sells.php:122
+msgid "Rate"
+msgstr "率"
+
+#: includes/widgets/cart/cross-sells.php:131
+msgctxt "Sorting order"
+msgid "Order"
+msgstr "排序"
+
+#: includes/widgets/cart/cross-sells.php:135
+#: includes/widgets/single-product/related.php:90
+#: includes/widgets/single-product/up-sells.php:79
+msgid "DESC"
+msgstr "降序"
+
+#: includes/widgets/cart/cross-sells.php:136
+#: includes/widgets/single-product/related.php:91
+#: includes/widgets/single-product/up-sells.php:80
+msgid "ASC"
+msgstr "升序"
+
+#: includes/widgets/cart/cross-sells.php:156
+#: includes/widgets/single-product/product-base.php:711
+#: includes/widgets/single-product/product-base.php:870
+#: includes/widgets/single-product/product-images.php:105
+#: includes/widgets/single-product/related.php:111
+#: includes/widgets/single-product/up-sells.php:100
+msgid "Hide"
+msgstr "隐藏"
+
+#: includes/widgets/cart/cross-sells.php:157
+#: includes/widgets/single-product/product-base.php:712
+#: includes/widgets/single-product/product-base.php:871
+#: includes/widgets/single-product/product-images.php:104
+#: includes/widgets/single-product/related.php:112
+#: includes/widgets/single-product/up-sells.php:101
+msgid "Show"
+msgstr "显示"
+
+#: includes/widgets/cart/cross-sells.php:197
+#: includes/widgets/single-product/related.php:152
+#: includes/widgets/single-product/up-sells.php:141
+msgid "Text Align"
+msgstr "文本对齐"
+
+#: includes/widgets/cart/cross-sells.php:225
+#: includes/widgets/single-product/add-to-cart.php:236
+#: includes/widgets/single-product/add-to-cart.php:405
+#: includes/widgets/single-product/product-base.php:151
+#: includes/widgets/single-product/product-base.php:199
+#: includes/widgets/single-product/product-base.php:271
+#: includes/widgets/single-product/product-base.php:500
+#: includes/widgets/single-product/product-base.php:698
+#: includes/widgets/single-product/related.php:180
+#: includes/widgets/single-product/up-sells.php:169
+msgid "Spacing"
+msgstr "间距"
+
+#: includes/widgets/cart/empty-cart-message.php:38
+msgid "Empty Cart Message"
+msgstr "空购物车信息"
+
+#: includes/widgets/cart/empty-cart-message.php:82
+#: includes/widgets/cart/return-to-shop.php:82
+#: includes/widgets/global/breadcrumb.php:81
+#: includes/widgets/myaccount/dashboard.php:81
+#: includes/widgets/myaccount/logout.php:81
+#: includes/widgets/single-product/content.php:38
+#: includes/widgets/single-product/iconic-woo-product-configurator/iconic-woo-product-configurator.php:37
+#: includes/widgets/single-product/meta.php:38
+#: includes/widgets/single-product/product-images.php:86
+#: includes/widgets/single-product/short-description.php:38
+msgid "Style"
+msgstr "样式"
+
+#: includes/widgets/cart/return-to-shop.php:38
+#: includes/widgets/cart/return-to-shop.php:274
+msgid "Return to shop"
+msgstr "返回商店"
+
+#: includes/widgets/checkout/checkout_coupon_form.php:38
+msgid "Checkout Coupon Form"
+msgstr "结帐优惠券表单"
+
+#: includes/widgets/checkout/form-additional.php:38
+msgid "Checkout Form Additional"
+msgstr "结帐表附加"
+
+#: includes/widgets/checkout/form-additional.php:136
+#: includes/widgets/checkout/form-billing.php:136
+#: includes/widgets/checkout/form-shipping.php:136
+#: includes/widgets/myaccount/form-edit-account.php:82
+#: includes/widgets/myaccount/form-login.php:189
+#: includes/widgets/myaccount/form-register.php:189
+#: includes/widgets/single-product/add-to-cart.php:427
+#: includes/widgets/thankyou/order_details.php:216
+#: includes/widgets/thankyou/thankyou.php:142
+msgid "Label"
+msgstr "标签"
+
+#: includes/widgets/checkout/form-additional.php:151
+#: includes/widgets/checkout/form-billing.php:151
+#: includes/widgets/checkout/form-shipping.php:151
+#: includes/widgets/myaccount/form-edit-account.php:97
+#: includes/widgets/myaccount/form-login.php:204
+#: includes/widgets/myaccount/form-register.php:204
+msgid "Label Color"
+msgstr "标签颜色"
+
+#: includes/widgets/checkout/form-additional.php:190
+msgid "Input Fields"
+msgstr "输入字段"
+
+#: includes/widgets/checkout/form-additional.php:205
+msgid "Field Placeholder Input Color"
+msgstr "字段占位符输入颜色"
+
+#: includes/widgets/checkout/form-additional.php:306
+#: includes/widgets/checkout/form-billing.php:298
+#: includes/widgets/checkout/form-billing.php:469
+#: includes/widgets/checkout/form-shipping.php:295
+#: includes/widgets/checkout/form-shipping.php:461
+#: includes/widgets/myaccount/form-edit-account.php:240
+#: includes/widgets/myaccount/form-login.php:351
+#: includes/widgets/myaccount/form-register.php:351
+#: includes/widgets/single-product/add-to-cart.php:331
+msgid "Focus"
+msgstr "焦点"
+
+#: includes/widgets/checkout/form-additional.php:393
+#: includes/widgets/checkout/form-additional.php:417
+msgid "Additional information"
+msgstr "附加信息"
+
+#: includes/widgets/checkout/form-billing.php:38
+msgid "Checkout Form Billing"
+msgstr "结帐表格账单"
+
+#: includes/widgets/checkout/form-billing.php:161
+#: includes/widgets/checkout/form-shipping.php:161
+#: includes/widgets/myaccount/form-edit-account.php:107
+#: includes/widgets/myaccount/form-login.php:214
+#: includes/widgets/myaccount/form-register.php:214
+msgid "Required Color"
+msgstr "必填的颜色"
+
+#: includes/widgets/checkout/form-billing.php:200
+#: includes/widgets/checkout/form-shipping.php:200
+#: includes/widgets/myaccount/form-edit-account.php:146
+#: includes/widgets/myaccount/form-login.php:253
+#: includes/widgets/myaccount/form-register.php:253
+msgid "Input"
+msgstr "输入"
+
+#: includes/widgets/checkout/form-login.php:38
+msgid "Checkout Form Login"
+msgstr "结帐表格登录"
+
+#: includes/widgets/checkout/form-shipping.php:38
+msgid "Checkout Form Shipping"
+msgstr "结帐表格送货"
+
+#: includes/widgets/checkout/form-shipping.php:546
+#: includes/widgets/checkout/form-shipping.php:581
+msgid "Ship to a different address?"
+msgstr "运送到不同的地址？"
+
+#: includes/widgets/checkout/payment.php:38
+msgid "Checkout Payment"
+msgstr "结帐付款"
+
+#: includes/widgets/checkout/payment.php:82
+#: includes/widgets/checkout/review-order.php:350
+msgid "Payment"
+msgstr "付款"
+
+#: includes/widgets/checkout/payment.php:110
+#: includes/widgets/checkout/review-order.php:378
+#: includes/widgets/myaccount/form-edit-account.php:311
+#: includes/widgets/myaccount/form-login.php:423
+#: includes/widgets/myaccount/form-register.php:479
+#: includes/widgets/single-product/add-to-cart.php:38
+#: includes/widgets/single-product/product-base.php:360
+msgid "Button"
+msgstr "按钮"
+
+#: includes/widgets/checkout/review-order.php:38
+msgid "Checkout Review Order"
+msgstr "签出审核订单"
+
+#: includes/widgets/checkout/review-order.php:135
+msgid "Table Head"
+msgstr "桌面"
+
+#: includes/widgets/checkout/review-order.php:142
+msgid "Head Color"
+msgstr "标题颜色"
+
+#: includes/widgets/checkout/review-order.php:154
+msgid "Head Typography"
+msgstr "顶部排版"
+
+#: includes/widgets/checkout/review-order.php:161
+msgid "Head Background Color"
+msgstr "头部背景颜色"
+
+#: includes/widgets/checkout/review-order.php:182
+msgid "Head Padding"
+msgstr "顶部填充"
+
+#: includes/widgets/checkout/review-order.php:196
+msgid "Table Body"
+msgstr "表格正文"
+
+#: includes/widgets/checkout/review-order.php:204
+msgid "Table Body Item Padding"
+msgstr "表正文项目填充"
+
+#: includes/widgets/checkout/review-order.php:216
+msgid "Body Text Color"
+msgstr "正文文本颜色"
+
+#: includes/widgets/checkout/review-order.php:229
+msgid "Table Body Typography"
+msgstr "表主体排版"
+
+#: includes/widgets/checkout/review-order.php:236
+msgid "Table Odd Rows Background Color"
+msgstr "表奇行背景颜色"
+
+#: includes/widgets/checkout/review-order.php:246
+msgid "Table Even Rows Background Color"
+msgstr "表甚至行背景颜色"
+
+#: includes/widgets/checkout/review-order.php:268
+msgid "Table Footer"
+msgstr "表页脚"
+
+#: includes/widgets/checkout/review-order.php:275
+msgid "Table Footer Item Padding"
+msgstr "表页脚项目填充"
+
+#: includes/widgets/checkout/review-order.php:287
+msgid "Table Footer Text Color"
+msgstr "表页脚文本颜色"
+
+#: includes/widgets/checkout/review-order.php:300
+msgid "Table Footer Typography"
+msgstr "表页脚排版"
+
+#: includes/widgets/checkout/review-order.php:308
+msgid "Table Footer Header Cell Typography"
+msgstr "表页脚标题单元格排版"
+
+#: includes/widgets/checkout/review-order.php:315
+msgid "Table Footer Column Background Color"
+msgstr "表页脚列背景颜色"
+
+#: includes/widgets/checkout/review-order.php:325
+msgid "Table Footer Header Column Background Color"
+msgstr "表页脚标题栏背景颜色"
+
+#: includes/widgets/checkout/review-order.php:549
+msgid "Payment Method"
+msgstr "支付方式"
+
+#: includes/widgets/checkout/review-order.php:551
+#: includes/widgets/checkout/review-order.php:558
+#: includes/widgets/checkout/review-order.php:566
+msgid "Your order"
+msgstr "您的订单"
+
+#: includes/widgets/checkout/shipping-methods.php:38
+msgid "Shipping Methods"
+msgstr "发货方式"
+
+#: includes/widgets/global/breadcrumb.php:38
+msgid "WooCommerce breadcrumbs"
+msgstr "WooCommerce面包屑"
+
+#: includes/widgets/global/breadcrumb.php:100
+#: includes/widgets/myaccount/dashboard.php:100
+#: includes/widgets/single-product/rating.php:68
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: includes/widgets/global/woo-customhook.php:38
+msgid "Woo Custom Hook"
+msgstr "Woo Custom自定义钩"
+
+#: includes/widgets/global/woo-customhook.php:81
+#: includes/widgets/global/woo-customhook.php:96
+msgid "Custom Hook"
+msgstr "自定义钩子"
+
+#: includes/widgets/global/woo-customhook.php:89
+msgid ""
+"Add a custom_hook for your action hook, the plugin or theme action hook. e."
+"g. your_woocommerce_custom_hook. It will be used for "
+"do_action( \"your_woocommerce_custom_hook\" )"
+msgstr ""
+"为你的动作钩子，插件或主题动作钩子添加一个custom_hook。例如"
+"your_woocommerce_custom_hook。它将用于"
+"do_action(\"your_woocommerce_custom_hook\")"
+
+#: includes/widgets/global/woo-output-all-notices.php:81
+msgid "Print Notices"
+msgstr "打印公告"
+
+#: includes/widgets/global/woo-output-all-notices.php:90
+msgid ""
+"To use this widget, you have to enable the \"WooCommerce Notices\" setting "
+"in WooCommerce Builder > Settings > WooCommerce Notices."
+msgstr ""
+"要使用此小部件，您必须在WooCommerce Builder >设置> WooCommerce通知中启"
+"用“WooCommerce通知”设置。"
+
+#: includes/widgets/myaccount/dashboard.php:38
+msgid "My account dashboard"
+msgstr "我的帐户仪表板"
+
+#: includes/widgets/myaccount/downloads.php:38
+msgid "My Account Downloads"
+msgstr "我的帐户下载"
+
+#: includes/widgets/myaccount/downloads.php:81
+#: includes/widgets/myaccount/form-login.php:81
+#: includes/widgets/myaccount/form-register.php:81
+#: includes/widgets/myaccount/orders.php:81
+msgid "Headings"
+msgstr "标题"
+
+#: includes/widgets/myaccount/downloads.php:168
+msgid "Table Style"
+msgstr "表格样式"
+
+#: includes/widgets/myaccount/downloads.php:233
+#: includes/widgets/thankyou/order_details.php:144
+msgid "Product Name"
+msgstr "产品名称"
+
+#: includes/widgets/myaccount/downloads.php:261
+msgid "Downloads remaining"
+msgstr "下载剩余"
+
+#: includes/widgets/myaccount/downloads.php:289
+msgid "Expires"
+msgstr "到期"
+
+#: includes/widgets/myaccount/downloads.php:317
+msgid "Download"
+msgstr "下载"
+
+#: includes/widgets/myaccount/extra-endpoint.php:38
+msgid "MyAccount Extra Endpoint"
+msgstr "MyAccount额外端点"
+
+#: includes/widgets/myaccount/extra-endpoint.php:82
+msgid "Extra Key"
+msgstr "额外的钥匙"
+
+#: includes/widgets/myaccount/extra-endpoint.php:90
+msgid ""
+"Enter only the extra key. e.g. bookings . It will be used for "
+"\"woocommerce_account_bookings_endpoint\" "
+msgstr ""
+"只输入额外的键。如预订。它将用于“woocommerce_account_bookings_endpoint” "
+
+#: includes/widgets/myaccount/extra-endpoint.php:97
+msgid "Extra key"
+msgstr "额外的钥匙"
+
+#: includes/widgets/myaccount/extra-endpoint.php:120
+#: includes/widgets/myaccount/form-edit-account.php:462
+#: includes/widgets/myaccount/form-edit-address.php:251
+#: includes/widgets/myaccount/orders.php:518
+msgid "You need first to be logged in"
+msgstr "您首先需要登录"
+
+#: includes/widgets/myaccount/form-edit-account.php:38
+msgid "My account details"
+msgstr "我的帐户详细信息"
+
+#: includes/widgets/myaccount/form-edit-address.php:38
+msgid "My Account Address"
+msgstr "我的帐户地址"
+
+#: includes/widgets/myaccount/form-edit-address.php:82
+msgid "Message"
+msgstr "信息"
+
+#: includes/widgets/myaccount/form-edit-address.php:136
+msgid "Header"
+msgstr "页眉"
+
+#: includes/widgets/myaccount/form-edit-address.php:190
+#: includes/widgets/thankyou/customer_details.php:135
+msgid "Address"
+msgstr "地址"
+
+#: includes/widgets/myaccount/form-login.php:38
+msgid "My Account Form Login"
+msgstr "我的账户表格登录"
+
+#: includes/widgets/myaccount/form-login.php:134
+#: includes/widgets/myaccount/form-register.php:134
+msgid "Form Style"
+msgstr "表单样式"
+
+#: includes/widgets/myaccount/form-login.php:579
+msgid "Lost Password"
+msgstr "忘记密码"
+
+#: includes/widgets/myaccount/form-login.php:688
+msgid "Login"
+msgstr "登录"
+
+#: includes/widgets/myaccount/form-login.php:695
+msgid "Username or email address"
+msgstr "用户名或邮箱地址"
+
+#: includes/widgets/myaccount/form-login.php:699
+#: includes/widgets/myaccount/form-register.php:671
+msgid "Password"
+msgstr "密码"
+
+#: includes/widgets/myaccount/form-login.php:707
+msgid "Remember me"
+msgstr "记住我"
+
+#: includes/widgets/myaccount/form-login.php:710
+msgid "Log in"
+msgstr "登录"
+
+#: includes/widgets/myaccount/form-login.php:713
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: includes/widgets/myaccount/form-register.php:38
+msgid "My Account Form Register"
+msgstr "我的账户表格注册"
+
+#: includes/widgets/myaccount/form-register.php:422
+msgid "Policy Text"
+msgstr "政策文本"
+
+#: includes/widgets/myaccount/form-register.php:463
+#: includes/widgets/single-product/content.php:79
+msgid "Justified"
+msgstr "两端对齐"
+
+#: includes/widgets/myaccount/form-register.php:648
+#: includes/widgets/myaccount/form-register.php:685
+msgid "Register"
+msgstr "注册"
+
+#: includes/widgets/myaccount/form-register.php:657
+msgid "Username"
+msgstr "用户名"
+
+#: includes/widgets/myaccount/form-register.php:664
+msgid "Email address"
+msgstr "电子邮件地址"
+
+#: includes/widgets/myaccount/form-register.php:677
+msgid "A password will be sent to your email address."
+msgstr "密码将发送到您的电子邮件地址."
+
+#: includes/widgets/myaccount/logout.php:38
+msgid "My Account Logout"
+msgstr "我的帐户退出"
+
+#: includes/widgets/myaccount/orders.php:38
+msgid "My account orders"
+msgstr "我的帐户订单"
+
+#: includes/widgets/myaccount/orders.php:167
+msgid "Row Style"
+msgstr "行样式"
+
+#: includes/widgets/myaccount/orders.php:232
+#: includes/widgets/single-product/related.php:86
+#: includes/widgets/single-product/up-sells.php:75
+msgid "Order"
+msgstr "排序"
+
+#: includes/widgets/myaccount/orders.php:288
+msgid "Status"
+msgstr "状态"
+
+#: includes/widgets/myaccount/orders.php:344
+msgid "Actions"
+msgstr "操作"
+
+#: includes/widgets/myaccount/woocommerce-bookings/bookings.php:18
+msgid "My Account WC Bookings"
+msgstr "我的账户WC预订"
+
+#: includes/widgets/myaccount/woocommerce-memberships/memberships.php:18
+msgid "WC Memberships: My Account Memberships"
+msgstr "WC会员资格：我的帐户会员资格"
+
+#: includes/widgets/myaccount/woocommerce-points-and-rewards/woocommerce-points-and-rewards.php:18
+msgid "My Account WC Points and Rewards"
+msgstr "我的账户有积分和奖励"
+
+#: includes/widgets/myaccount/woocommerce-subscriptions/subscriptions.php:18
+msgid "My Account WC Subscriptions"
+msgstr "我的账户WC订阅"
+
+#: includes/widgets/myaccount/woocommerce-subscriptions/subscriptions.php:47
+msgid "Back to Subscriptions list"
+msgstr "返回订阅列表"
+
+#: includes/widgets/single-product/add-to-cart.php:18
+msgid "Woo Add To Cart"
+msgstr "Woo加入购物车"
+
+#: includes/widgets/single-product/add-to-cart.php:47
+#: includes/widgets/single-product/product-base.php:27
+#: includes/widgets/single-product/product-images.php:95
+msgid ""
+"The style of this widget is often affected by your theme and plugins. If you "
+"experience any such issue, try to switch to a basic theme and deactivate "
+"related plugins."
+msgstr ""
+"此小工具的样式通常受主题和插件的影响.如果您遇到任何此类问题,请尝试切换到基本"
+"主题并停用相关插件."
+
+#: includes/widgets/single-product/add-to-cart.php:397
+msgid "Variations"
+msgstr "变化"
+
+#: includes/widgets/single-product/add-to-cart.php:416
+#: includes/widgets/single-product/rating.php:109
+msgid "Space Between"
+msgstr "间距"
+
+#: includes/widgets/single-product/add-to-cart.php:455
+msgid "Select field"
+msgstr "选择字段"
+
+#: includes/widgets/single-product/add-to-cart.php:529
+msgid "Add to cart"
+msgstr "添加到购物车"
+
+#: includes/widgets/single-product/additional-information.php:18
+msgid "Woo Product Additional Information"
+msgstr "Woo产品附加信息"
+
+#: includes/widgets/single-product/additional-information.php:48
+msgid "Product additional information"
+msgstr "附加信息"
+
+#: includes/widgets/single-product/content.php:18
+msgid "Woo Product Content"
+msgstr "Woo产品内容"
+
+#: includes/widgets/single-product/content.php:106
+msgid "Product Content"
+msgstr "产品内容"
+
+#: includes/widgets/single-product/custom-key.php:18
+msgid "Woo Product Custom_Key"
+msgstr "Woo产品定制密钥"
+
+#: includes/widgets/single-product/custom-key.php:37
+msgid "custom_key"
+msgstr "自定义键"
+
+#: includes/widgets/single-product/custom-key.php:45
+#: includes/widgets/single-product/custom-key.php:47
+msgid "Custom key lable"
+msgstr "自定义键标签"
+
+#: includes/widgets/single-product/custom-key.php:55
+msgid "Custom key"
+msgstr "自定义键"
+
+#: includes/widgets/single-product/custom-key.php:57
+msgid ""
+"Enter only the custom_key in Product > Custom Fields name. e.g. "
+"total_sales . Default value \"0\" will be shown"
+msgstr ""
+"仅在“产品”>“自定义字段”名称中输入custom_key。 例如 总销售额 。 将显示默认"
+"值“0”"
+
+#: includes/widgets/single-product/custom-key.php:65
+#: includes/widgets/single-product/meta.php:46
+msgid "View"
+msgstr "图标风格"
+
+#: includes/widgets/single-product/custom-key.php:70
+#: includes/widgets/single-product/meta.php:51
+msgid "Table"
+msgstr "表格"
+
+#: includes/widgets/single-product/custom-key.php:71
+#: includes/widgets/single-product/meta.php:53
+msgid "Inline"
+msgstr "内联"
+
+#: includes/widgets/single-product/iconic-woo-product-configurator/iconic-woo-product-configurator.php:18
+msgid "Iconic Product Configurator Image"
+msgstr "标志性的产品配置图像"
+
+#: includes/widgets/single-product/iconic-woo-product-configurator/iconic-woo-product-configurator.php:44
+msgid "Hover Zoom effect"
+msgstr "悬停缩放效果"
+
+#: includes/widgets/single-product/iconic-woo-product-configurator/iconic-woo-product-configurator.php:46
+msgid "Yes"
+msgstr "是"
+
+#: includes/widgets/single-product/iconic-woo-product-configurator/iconic-woo-product-configurator.php:47
+msgid "No"
+msgstr "否"
+
+#: includes/widgets/single-product/iconic-woothumbs/iconic-woothumbs.php:18
+#: includes/widgets/single-product/woocommerce-simple-auctions/auction-bid.php:18
+#: includes/widgets/single-product/woocommerce-simple-auctions/auction-pay.php:18
+msgid "Iconic WooThumbs - Awesome Product Imagery"
+msgstr "标志性的WooThumbs -令人敬畏的产品图像"
+
+#: includes/widgets/single-product/meta.php:18
+msgid "Woo Product Meta"
+msgstr "Woo产品元"
+
+#: includes/widgets/single-product/meta.php:52
+msgid "Stacked"
+msgstr "叠放"
+
+#: includes/widgets/single-product/meta.php:62
+msgid "Text"
+msgstr "文本"
+
+#: includes/widgets/single-product/meta.php:90
+msgid "Link"
+msgstr "链接"
+
+#: includes/widgets/single-product/meta.php:129
+msgid "Product meta"
+msgstr "产品Meta"
+
+#: includes/widgets/single-product/price.php:18
+msgid "Woo Product Price"
+msgstr "Woo产品价格"
+
+#: includes/widgets/single-product/price.php:38
+msgid "Product Price"
+msgstr "产品价格"
+
+#: includes/widgets/single-product/price.php:113
+msgid "Product price"
+msgstr "产品价格"
+
+#: includes/widgets/single-product/product-base.php:44
+msgid "Columns Gap"
+msgstr "列间距"
+
+#: includes/widgets/single-product/product-base.php:70
+msgid "Rows Gap"
+msgstr "行差距"
+
+#: includes/widgets/single-product/product-base.php:122
+#: includes/widgets/single-product/product-images.php:210
+msgid "Image"
+msgstr "图像"
+
+#: includes/widgets/single-product/product-base.php:163
+#: includes/widgets/single-product/up-sells.php:62
+msgid "Title"
+msgstr "选项"
+
+#: includes/widgets/single-product/product-base.php:219
+#: includes/widgets/single-product/related.php:76
+#: includes/widgets/single-product/up-sells.php:65
+msgid "Rating"
+msgstr "评分"
+
+#: includes/widgets/single-product/product-base.php:228
+#: includes/widgets/single-product/rating.php:46
+msgid "Star Color"
+msgstr "星色"
+
+#: includes/widgets/single-product/product-base.php:239
+#: includes/widgets/single-product/rating.php:57
+msgid "Empty Star Color"
+msgstr "空星色"
+
+#: includes/widgets/single-product/product-base.php:250
+#: includes/widgets/single-product/rating.php:88
+msgid "Star Size"
+msgstr "星号"
+
+#: includes/widgets/single-product/product-base.php:325
+msgid "Regular Price"
+msgstr "正常价格"
+
+#: includes/widgets/single-product/product-base.php:488
+msgid "Text Padding"
+msgstr "文本内边距"
+
+#: includes/widgets/single-product/product-base.php:512
+msgid "View Cart"
+msgstr "查看购物车"
+
+#: includes/widgets/single-product/product-base.php:543
+msgid "Box"
+msgstr "盒子"
+
+#: includes/widgets/single-product/product-base.php:551
+msgid "Border Width"
+msgstr "边框宽度"
+
+#: includes/widgets/single-product/product-base.php:709
+msgid "Border"
+msgstr "边框"
+
+#: includes/widgets/single-product/product-base.php:825
+msgid "Active"
+msgstr "启用"
+
+#: includes/widgets/single-product/product-base.php:860
+#: includes/widgets/single-product/product-base.php:868
+#: includes/widgets/single-product/product-images.php:102
+msgid "Sale Flash"
+msgstr "销售闪光"
+
+#: includes/widgets/single-product/product-base.php:938
+msgid "Width"
+msgstr "宽度"
+
+#: includes/widgets/single-product/product-base.php:953
+msgid "Height"
+msgstr "高度"
+
+#: includes/widgets/single-product/product-base.php:968
+msgid "Position"
+msgstr "职务"
+
+#: includes/widgets/single-product/product-base.php:997
+msgid "Distance"
+msgstr "距离"
+
+#: includes/widgets/single-product/product-images.php:38
+msgid "Woo Product Images"
+msgstr "Woo商品图像"
+
+#: includes/widgets/single-product/product-images.php:115
+msgid "Top"
+msgstr "顶部"
+
+#: includes/widgets/single-product/product-images.php:144
+msgid "Gallery"
+msgstr "画廊"
+
+#: includes/widgets/single-product/product-images.php:152
+msgid "Gallery Style"
+msgstr "画廊风格"
+
+#: includes/widgets/single-product/product-images.php:155
+msgid "Theme default"
+msgstr "主题默认"
+
+#: includes/widgets/single-product/product-images.php:156
+msgid "Gallery Slider"
+msgstr "画廊滑块"
+
+#: includes/widgets/single-product/product-images.php:165
+msgid "Gallery Slider Style"
+msgstr "画廊滑块样式"
+
+#: includes/widgets/single-product/product-images.php:168
+msgid "Horizontal"
+msgstr "横向"
+
+#: includes/widgets/single-product/product-images.php:169
+msgid "Vertical"
+msgstr "垂直"
+
+#: includes/widgets/single-product/product-images.php:181
+msgid "Gallery Thumbnails Style"
+msgstr "画廊缩略图样式"
+
+#: includes/widgets/single-product/product-images.php:198
+msgid "Thumbnails to show"
+msgstr "显示缩略图"
+
+#: includes/widgets/single-product/product-images.php:242
+msgid "Thumbnails"
+msgstr "缩略图"
+
+#: includes/widgets/single-product/rating.php:18
+msgid "Woo Product Rating"
+msgstr "Woo产品评级"
+
+#: includes/widgets/single-product/rating.php:38
+msgid "Product Rating"
+msgstr "产品评级"
+
+#: includes/widgets/single-product/rating.php:137
+msgid "AlignmentAlignment"
+msgstr "对齐"
+
+#: includes/widgets/single-product/rating.php:184
+msgid "Product rating"
+msgstr "商品评价"
+
+#: includes/widgets/single-product/related.php:18
+msgid "Woo Product Related"
+msgstr "Woo产品相关"
+
+#: includes/widgets/single-product/related.php:37
+msgid "Related products"
+msgstr "相关产品"
+
+#: includes/widgets/single-product/related.php:45
+msgid "Products Per Page"
+msgstr "每页产品"
+
+#: includes/widgets/single-product/related.php:78
+#: includes/widgets/single-product/up-sells.php:67
+msgid "Menu Order"
+msgstr "菜单顺序"
+
+#: includes/widgets/single-product/reviews.php:18
+msgid "Woo Product Reviews"
+msgstr "Woo产品评论"
+
+#: includes/widgets/single-product/reviews.php:48
+msgid "Product reviews"
+msgstr "产品评价"
+
+#: includes/widgets/single-product/share.php:18
+msgid "Woo Product Share"
+msgstr "Woo产品分享"
+
+#: includes/widgets/single-product/share.php:48
+msgid "Product share"
+msgstr "启用产品共享"
+
+#: includes/widgets/single-product/short-description.php:18
+msgid "Woo Product Short Description"
+msgstr "Woo产品简短说明"
+
+#: includes/widgets/single-product/short-description.php:113
+msgid "Product short description"
+msgstr "产品简短描述"
+
+#: includes/widgets/single-product/tabs.php:18
+msgid "Woo Product Tabs"
+msgstr "Woo产品标签"
+
+#: includes/widgets/single-product/tabs.php:48
+msgid "Product Tabs"
+msgstr "产品选项卡"
+
+#: includes/widgets/single-product/thegem-product-content.php:18
+msgid "TheGem Product Content"
+msgstr "TheGem产品内容"
+
+#: includes/widgets/single-product/thegem-product-description.php:18
+msgid "TheGem Product Description"
+msgstr "TheGem产品描述"
+
+#: includes/widgets/single-product/thegem-product-navigation.php:18
+msgid "TheGem Product Navigation"
+msgstr "TheGem产品导航"
+
+#: includes/widgets/single-product/title.php:18
+msgid "Woo Product Title"
+msgstr "Woo产品标题"
+
+#: includes/widgets/single-product/title.php:38
+#: includes/widgets/single-product/title.php:122
+msgid "Product Title"
+msgstr "产品名称"
+
+#: includes/widgets/single-product/up-sells.php:18
+msgid "Woo Product Upsells"
+msgstr "Woo产品加售"
+
+#: includes/widgets/single-product/up-sells.php:37
+msgid "Upsells"
+msgstr "加售"
+
+#: includes/widgets/single-product/wc-frontend-manager/wcfm-enquiry-button.php:18
+msgid "WC Frontend Manager Enquiry Button"
+msgstr "前台经理查询按钮"
+
+#: includes/widgets/single-product/wc-frontend-manager/wcfm-enquiry-button.php:63
+msgid "Ask a Question"
+msgstr "问一个问题"
+
+#: includes/widgets/single-product/wc-multivendor-marketplace/wcfmmp-sold-by.php:18
+msgid "WC Multivendor Marketplace Show Sold by"
+msgstr "WC多厂商市场展示销售by"
+
+#: includes/widgets/single-product/woocommerce-german-market/woocommerce_de_price_with_tax_hint_single.php:18
+msgid "German Market: print tax hint"
+msgstr "德国市场：印刷税提示"
+
+#: includes/widgets/single-product/woocommerce-germanized/delivery-time-info.php:18
+msgid "Woo Germanized Delivery Time Info"
+msgstr "Woo德国化交货时间信息"
+
+#: includes/widgets/single-product/woocommerce-germanized/legal-info.php:18
+msgid "Woo Germanized Legal Info"
+msgstr "Woo德国化法律信息"
+
+#: includes/widgets/single-product/woocommerce-germanized/price-unit.php:18
+msgid "Woo Germanized Price Unit"
+msgstr "Woo德国化价格单位"
+
+#: includes/widgets/single-product/woocommerce-memberships/purchasing-discount-message.php:18
+msgid "Woo Memberships: Product Purchasing Discount"
+msgstr "Woo会员资格：产品购买折扣"
+
+#: includes/widgets/single-product/woocommerce-memberships/purchasing-restricted-message.php:18
+msgid "Woo Memberships: Product Purchasing Restricted"
+msgstr "Woo会员资格：产品采购受限制"
+
+#: includes/widgets/single-product/yith/compare.php:18
+msgid "YITH Add Compare"
+msgstr "YITH添加比较"
+
+#: includes/widgets/single-product/yith/wishlist.php:18
+msgid "YITH Add To Wishlist"
+msgstr "YITH加入愿望清单"
+
+#: includes/widgets/thankyou/customer_details.php:38
+msgid "Order Customer Details"
+msgstr "订购客户详情"
+
+#: includes/widgets/thankyou/order_details.php:38
+msgid "Order Details"
+msgstr "订单详情"
+
+#: includes/widgets/thankyou/order_details.php:136
+msgid "Order Item"
+msgstr "订单项目"
+
+#: includes/widgets/thankyou/order_details.php:168
+msgid "Quantity Color"
+msgstr "数量颜色"
+
+#: includes/widgets/thankyou/order_details.php:179
+msgid "Product Total"
+msgstr "产品总数"
+
+#: includes/widgets/thankyou/order_details.php:310
+msgid "Order details"
+msgstr "订单详情"
+
+#: includes/widgets/thankyou/order_details.php:358
+msgid "Note:"
+msgstr "注意："
+
+#: includes/widgets/thankyou/thankyou.php:38
+msgid "Thank You Order"
+msgstr "谢谢您的订单"
+
+#: includes/widgets/thankyou/thankyou.php:81
+msgid "Order Received"
+msgstr "收到订单"
+
+#: includes/widgets/thankyou/thankyou.php:88
+msgid "Order Received Text"
+msgstr "订单接收文本"
+
+#: includes/widgets/thankyou/thankyou.php:90
+#: includes/widgets/thankyou/thankyou.php:283
+#: includes/widgets/thankyou/thankyou.php:324
+msgid "Thank you. Your order has been received."
+msgstr "谢谢。 您的订单已收到。"
+
+#: includes/widgets/thankyou/thankyou.php:193
+msgid "Details"
+msgstr "详情"
+
+#: includes/widgets/thankyou/thankyou.php:272
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"不幸的是，您的订单无法处理，因为原始银行/商家已拒绝您的交易。 请尝试再次购"
+"买。"
+
+#: includes/widgets/thankyou/thankyou.php:275
+msgid "Pay"
+msgstr "支付"
+
+#: includes/widgets/thankyou/thankyou.php:288
+msgid "Order number:"
+msgstr "订单号："
+
+#: includes/widgets/thankyou/thankyou.php:293
+msgid "Date:"
+msgstr "日期："
+
+#: includes/widgets/thankyou/thankyou.php:299
+msgid "Email:"
+msgstr "邮箱："
+
+#: includes/widgets/thankyou/thankyou.php:305
+msgid "Total:"
+msgstr "总计："
+
+#: includes/widgets/thankyou/thankyou.php:311
+msgid "Payment method:"
+msgstr "付款方式："
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:56
+msgid "Remove this item"
+msgstr "删除此项目"
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:92
+msgid "Available on backorder"
+msgstr "可以推迟订单"
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:134
+msgid "VAT"
+msgstr "增值税"
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:167
+msgid "Coupon:"
+msgstr "优惠券："
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:167
+msgid "Coupon code"
+msgstr "优惠券代码"
+
+#: woocommerce-builder-elementor-templates/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "您必须登录才能结帐。"
+
+#: woocommerce-builder-elementor-templates/myaccount/partials/dropdown.php:13
+msgid "Choose value"
+msgstr "选择值"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Page Builder For Elementor"
+msgstr "店铺页面生成器"
+
+#. Plugin URI of the plugin/theme
+msgid "https://1.envato.market/NJNQK"
+msgstr "https://1.envato.market/NJNQK"
+
+#. Description of the plugin/theme
+msgid ""
+"is the ideal Elementor add-on to effortlessly layout for WooCommerce and "
+"more."
+msgstr "是理想的Elementor插件，可以毫不费力地为WooCommerce布局等等。"
+
+#. Author of the plugin/theme
+msgid "DawnThemes"
+msgstr "Dawn主题"
+
+#. Author URI of the plugin/theme
+msgid "https://codecanyon.net/user/dawnthemes"
+msgstr "https://codecanyon.net/user/dawnthemes"
+
+#~ msgid "Shop Page"
+#~ msgstr "商店页面"
+
+#~ msgid "http://dawnthemes.com/"
+#~ msgstr "http://dawnthemes.com/"

@@ -1,0 +1,3084 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Photo Reviews Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-21 09:32+0000\n"
+"PO-Revision-Date: 2021-10-16 20:40+0800\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1719
+msgid " Grid(masonry)."
+msgstr "网格/瀑布流"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2633
+msgid ""
+" must be enabled in your shipping zone and be set to require \"a valid free "
+"shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+"必须在您的送货区域中启用，并设置为要求“有效的免费送货优惠券”（请参阅“需要免费"
+"送货”设置）。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1441
+msgid " Newest first"
+msgstr " 最新优先"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1727
+msgid " Normal."
+msgstr " 正常."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1452
+msgid " Oldest first"
+msgstr " 最早优先"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1001
+msgid " Upload max filesize."
+msgstr " 最大允许上传文件大小."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4723
+msgid " View & Edit"
+msgstr " 查看和编辑"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:143
+msgid "\">Hide</a>"
+msgstr "\">Hide</a>"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3410
+msgid ""
+"\"Label\" is used for review form. If \"Label\" is empty, \"Name\" will be "
+"used instead."
+msgstr "\"标签\"用于审核表单。如果\"标签\"为空，则将改为使用\"名称\"。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3407
+msgid "\"Name\" can not be empty."
+msgstr "名称不能为空！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3413
+msgid ""
+"\"Value set\" and \"Units\": if you want customers to enter them by "
+"themselves, leave them empty; if you want your customers to select from a "
+"set of options, enter those options by \"|\" separating values."
+msgstr ""
+"\"值集\"和\"单位\"：如果您希望客户自己输入它们，请将它们留空;如果希望您的客户"
+"从一组选项中进行选择，请按\"+\"分隔值输入这些选项。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:169
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s 用户评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-filters-html.php:50
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-filters-html.php:85
+#, php-format
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] "%s 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3511
+msgid ""
+"*This feature is also used for reviews imported from AliExpress, Amazon "
+"using chrome extension"
+msgstr "*此功能还用于使用Chrome扩展名从亚马逊速卖通导入的评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1284
+msgid "."
+msgstr "."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-template-masonry-html.php:250
+msgid "...More"
+msgstr "...更多"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2100
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4832
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:99
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:142
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:351
+msgid "1 Star"
+msgstr "1 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5134
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:136
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:271
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:459
+msgid "1 star"
+msgstr "1星级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2101
+msgid "2 Star"
+msgstr "2 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4831
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:100
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:141
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:352
+msgid "2 Stars"
+msgstr "2 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5135
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:138
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:272
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:460
+msgid "2 stars"
+msgstr "2 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2102
+msgid "3 Star"
+msgstr "3 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4830
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:103
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:140
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:355
+msgid "3 Stars"
+msgstr "3 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5136
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:140
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:273
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:461
+msgid "3 stars"
+msgstr "3 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2103
+msgid "4 Star"
+msgstr "4 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4829
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:102
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:139
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:354
+msgid "4 Stars"
+msgstr "4 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5137
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:142
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:274
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:462
+msgid "4 stars"
+msgstr "4 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2104
+msgid "5 Star"
+msgstr "5 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4828
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:101
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:138
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:353
+msgid "5 Stars"
+msgstr "5 星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5138
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:144
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:275
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:463
+msgid "5 stars"
+msgstr "5星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1168
+msgid ""
+"<strong>{product_id}</strong> can be used in folder name to refer to ID of "
+"product that a review belongs to"
+msgstr ""
+"<strong>{product_id}</strong>可用于文件夹名称，以引用审核所属的产品的 ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1037
+msgid ""
+"?page=wc-settings&tab=email#woocommerce_email_base_color\">WooCommerce "
+"Emails Settings</a>."
+msgstr ""
+"?page=wc-settings&tab=email#woocommerce_email_base_color”>WooCommerce 邮箱设"
+"置</a>。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1034
+msgid "?page=wc-settings&tab=products\">WooCommerce Settings</a>"
+msgstr "?page=wc-settings&tab=products”>WooCommerce Settings</a>"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1036
+msgid "?post_type=product\">Products</a>."
+msgstr "?post_type=product”>Products</a>。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1035
+msgid "?post_type=shop_order\">Orders</a>."
+msgstr "?post_type=shop_order”>Orders</a>。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1161
+msgid ""
+"A Sub folder will be created in your root upload folder to store photos of "
+"reviews imported from AliExpress or imported with CSV"
+msgstr ""
+"将在根上传文件夹中创建一个子文件夹，用于存储从 AliExpress 导入或使用 CSV 导入"
+"的评论的照片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1145
+msgid ""
+"A Sub folder will be created in your root upload folder to store photos "
+"uploaded by customers"
+msgstr "将在您的根上传文件夹中创建一个Sub文件夹，以存储客户上传的照片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3740
+msgid "Actions"
+msgstr "操作"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3576
+msgid "Add"
+msgstr "添加"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4430
+msgid "Add A Review"
+msgstr "添加评价"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3504
+msgid "Add field"
+msgstr "添加字段"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4282
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4862
+msgid "Add Image"
+msgstr "添加图片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3386
+msgid ""
+"Add optional input fields in review form and display in customers reviews"
+msgstr "在审核表单中添加可选输入字段，并在客户审核中显示"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4753
+msgid "Add product review"
+msgstr "添加产品评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4871
+msgid "Add review"
+msgstr "添加评价"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4806
+msgid "Add review title"
+msgstr "输入评论标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:24
+msgid "Add your review"
+msgstr "添加你的评价"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:373
+#, php-format
+msgid "Added to %s product"
+msgid_plural "Added to %s products"
+msgstr[0] "已添加到%s产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1770
+msgid "Ajax Pagination & Filter"
+msgstr "Ajax 分页和过滤器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:235
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:423
+msgid "AliExpress Product ID"
+msgstr "AliExpress产品ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1080
+msgid "AliExpress Reviews"
+msgstr "AliExpress评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2099
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5133
+msgid "All ratings"
+msgstr "所有评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:350
+msgid "All Stars"
+msgstr "所有星级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-filters-html.php:54
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-filters-html.php:69
+msgid "All stars"
+msgstr "所有星级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1217
+msgid "Allow customers to attach photos in their review."
+msgstr "允许客户在审核中附加照片。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1249
+msgid ""
+"Allow customers to post reviews with empty content, only rating is required"
+msgstr "允许客户发布内容空的评论，只需要评级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1242
+msgid "Allow empty comment"
+msgstr "允许空评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2625
+msgid "Allow Free Shipping"
+msgstr "允许包邮"
+
+#. Description of the plugin
+msgid ""
+"Allow you to automatically send email to your customers to request reviews. "
+"Customers can include photos in their reviews."
+msgstr ""
+"允许您自动向客户发送电子邮件以请求评论。 客户可以在他们的评论中包括照片。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5248
+#, php-format
+msgid "Applied Phrases filter to %s review"
+msgid_plural "Applied Phrases filter to %s reviews"
+msgstr[0] "应用词组过滤器对%s条评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4303
+msgid "Apply Phrases Filter"
+msgstr "应用短语筛选器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2829
+msgid "Apply To All Qualifying Items In Cart"
+msgstr "应用于购物车中的所有合格物品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3679
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:156
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:387
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:575
+msgid "Approved"
+msgstr "批准"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:182
+msgid "Ascending"
+msgstr "升序"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:169
+msgid "Author"
+msgstr "作者"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4794
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4798
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:286
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:100
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1040
+msgid "Author email"
+msgstr "作者电子邮件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:299
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:113
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1053
+msgid "Author IP"
+msgstr "作者 IP"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4786
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:285
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:99
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1039
+msgid "Author name"
+msgstr "作者姓名"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4782
+msgid "Author name(*required)"
+msgstr "作者姓名（*为必填项）"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:287
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:101
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1041
+msgid "Author URL"
+msgstr "作者网址"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3267
+msgid "Auto login"
+msgstr "自动登录"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3799
+msgid "Auto Update Key"
+msgstr "自动更新"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3274
+msgid ""
+"Automatically log customers into their accounts when clicking on button "
+"\"Review Now\" in their review reminder emails. The link is onetime-use and "
+"will expire after 30 days if not used."
+msgstr ""
+"单击审核提醒电子邮件中的按钮\"现在查看\"时，自动将客户登录到其帐户。该链接是"
+"一次性使用的，如果不使用，将在 30 天后过期。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:84
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:228
+msgid "Average"
+msgstr "平均"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:585
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1544
+msgid "Badge"
+msgstr "徽章"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-overall-rating-html.php:39
+#, php-format
+msgid "Based on %s review"
+msgid_plural "Based on %s reviews"
+msgstr[0] "根据%s的评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/plugins/woocommerce-email-template-customizer.php:60
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/plugins/woocommerce-email-template-customizer.php:66
+msgid "Basic"
+msgstr "基本"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3602
+msgid ""
+"Below options are used for importing reviews using <a href=\"http://"
+"downloads.villatheme.com/?download=woo-photo-reviews-extension\" target="
+"\"_blank\">chrome extension</a>"
+msgstr ""
+"以下是使用 <a href=\"http://downloads.villatheme.com/?download=woo-photo-"
+"reviews-extension\" target=\"_blank\">chrome extension</a> 导入评论时使用的选"
+"项"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:538
+msgid "Below Thumb"
+msgstr "拇指以下"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1759
+msgid "Below thumbnails"
+msgstr "缩略图下方"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:76
+msgid "Both"
+msgstr "Both"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5141
+msgid "Both with & without image"
+msgstr "带有和不带有图像"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2902
+msgid ""
+"Bulk send review reminder only applies to orders whose statuses are among "
+"these values."
+msgstr "批量发送审核提醒仅适用于其状态属于这些值的订单。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1800
+msgid ""
+"Button \"More\" will show if a review content length is greater than this "
+"value so that customers can click the button to load full review content"
+msgstr ""
+"按钮\"更多\"将显示审核内容长度是否大于此值，以便客户可以单击该按钮加载完整审"
+"核内容"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3200
+msgid "Button \"Review now\""
+msgstr "按钮“立即查看”"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3236
+msgid "Button \"Review now\" background color"
+msgstr "按钮“立即查看”背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3225
+msgid "Button \"Review now\" text color"
+msgstr "按钮\"现在查看\"文本颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3351
+msgid "Button Review on My account/orders"
+msgstr "我的账户/订单上的审查按钮"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:87
+msgid "Button Review Position"
+msgstr "按钮查看位置"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1235
+msgid "By number of times the customer bought that product"
+msgstr "按客户购买该产品的次数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:880
+msgid "Can not open file"
+msgstr "无法打开文件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:436
+msgid "Cancel"
+msgstr "取消"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:451
+msgid "Cancel Review Reminder"
+msgstr "取消审核提醒"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:37
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:80
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:803
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:880
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:370
+msgid "Caption for this image"
+msgstr "此图片的标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3518
+msgid "Case Sensitive"
+msgstr "区分大小写"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:122
+msgid "Categories"
+msgstr "类别"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:92
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:285
+msgid "Center"
+msgstr "居中"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:378
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:565
+msgid "Change phrases filter settings"
+msgstr "更改词组过滤器设置"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2681
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr "如果该优惠券不能与其他优惠券一起使用，检查此框。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2631
+msgid "Check this box if the coupon grants free shipping. A "
+msgstr "如果优惠券允许免费送货，请选中此框。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2691
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are items in the cart that are not on sale."
+msgstr ""
+"检查本产品的优惠券不适用于销售的商品。如果项目不在销售，每项目的优惠券将只工"
+"作。每车券只会工作，如果有没有销售项目的购物车。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2573
+msgid "Choose to send an existing coupon or generate unique coupons."
+msgstr "选择发送现有的优惠券或生成独特的优惠券."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1082
+msgid "Chrome Extension"
+msgstr "Chrome扩展程序"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2292
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2322
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2719
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2749
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2952
+msgid "Clear all"
+msgstr "清除所有"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-template-masonry-html.php:37
+msgid "Click to view full screen"
+msgstr "单击以查看全屏"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:399
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:587
+msgid "Close"
+msgstr "关闭"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:568
+msgid "Column Gap(PX)"
+msgstr "列间隙（PX）"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1025
+msgid "Column name"
+msgstr "列名称"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:300
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:114
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1054
+msgid "Comment agent"
+msgstr "评论代理"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:301
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:115
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1055
+msgid "Comment date"
+msgstr "评论日期"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:302
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:116
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1056
+msgid "Comment date gmt"
+msgstr "评论日期"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:283
+msgid "Comment ID"
+msgstr "评论 ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:297
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:111
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1051
+msgid "Comment parent"
+msgstr "评论父级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:150
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:289
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:104
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1044
+msgid "Comment status"
+msgstr "评论状态"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1125
+msgid "Compatible with WPML and Polylang"
+msgstr "与WPML和Polylang兼容"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:191
+msgid "Conditional Tag"
+msgstr "条件标签"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:288
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:103
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1043
+msgid "Content"
+msgstr "内容"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4810
+msgid "Content(*required)"
+msgstr "内容（*为必填项）"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1182
+msgid "Continue"
+msgstr "继续"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3621
+msgid "Copy Secret key"
+msgstr "复制秘钥"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:244
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:432
+msgid "Countries"
+msgstr "国家"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1074
+msgid "Coupon"
+msgstr "优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2615
+msgid "Coupon Amount"
+msgstr "优惠券金额"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2851
+msgid "Coupon Code Prefix"
+msgstr "优惠券代码前缀"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2171
+msgid "Coupon for reviews"
+msgstr "评论获优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2648
+msgid ""
+"Coupon will expire after x day(s) since it's generated and sent. Set 0 or "
+"blank to make it never expire."
+msgstr "优惠券将在生成和发送后的X天后过期. 设置为0或空白可以使其永不过期."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2451
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3101
+msgid "Create a new email template"
+msgstr "创建新的电子邮件模板"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3398
+msgid "Create optional fields from all variations of current products"
+msgstr "从当前产品的所有变体创建可选字段"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2385
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3033
+msgid "Custom \"from\" address"
+msgstr "自定义“发件人”地址"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1963
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:731
+msgid "Custom CSS"
+msgstr "自定义 CSS"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1912
+msgid "Custom review date format"
+msgstr "自定义审核日期格式"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1135
+msgid "Customer review photos folder"
+msgstr "客户评论照片文件夹"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1178
+msgid "Customer review photos prefix"
+msgstr "客户查看照片前缀"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-overall-rating-html.php:21
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-overall-rating-html.php:23
+msgid "Customer reviews"
+msgstr "用户评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:166
+msgid "Date"
+msgstr "日期"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:980
+msgid "Date format"
+msgstr "日期格式"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2646
+msgid "Day(s)"
+msgstr "天"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3013
+msgid "Days"
+msgstr "天"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1542
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:78
+msgid "Default"
+msgstr "默认"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:183
+msgid "Descending"
+msgstr "降序"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:499
+msgid "Design"
+msgstr "设计"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1841
+msgid "Desktop"
+msgstr "桌面"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:524
+msgid "Disable"
+msgstr "禁用"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3279
+msgid "Disable auto login if users have roles:"
+msgstr "如果用户具有角色，请禁用自动登录："
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2598
+msgid "Discount Type"
+msgstr "折扣类型"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:39
+msgid "Display On Mobile"
+msgstr "在手机上显示"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:37
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:62
+msgid "Display overall rating of which products?"
+msgstr "显示哪些产品的总体评价？"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1805
+msgid "Display popup in fullscreen on mobile"
+msgstr "在移动设备上全屏显示弹出窗口"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1818
+msgid "Display product summary on masonry popup"
+msgstr "在砌体弹出窗口上显示产品摘要"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:108
+msgid "Display reviews of products from which categories?"
+msgstr "显示哪些类别的产品的评论？"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:65
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:90
+msgid "Display reviews of which products?"
+msgstr "显示哪些产品的评论？"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:72
+msgid "Display Type"
+msgstr "显示类型"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1079
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1107
+msgid "Do not import"
+msgstr "不导入"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1777
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:235
+msgid ""
+"Do not reload page when customers select other reviews page or select a "
+"filter"
+msgstr "当客户选择其他评论页面或选择筛选器时，不要重新加载页面"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2055
+msgid "Do not show Filter if a product does not have any reviews"
+msgstr "如果产品没有任何评论，请勿显示过滤器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1996
+msgid ""
+"Do not show Rating count & Overall rating if a product does not have any "
+"reviews"
+msgstr "如果产品没有任何评论，请不显示评级计数和总体评级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3296
+msgid "Do not use auto login function if users have roles in this group"
+msgstr "如果用户在此组中具有角色，请勿使用自动登录功能"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1920
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:994
+msgid "Documentation on date and time formatting."
+msgstr "有关日期和时间格式的文档。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:296
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:110
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1050
+msgid "Down-vote count"
+msgstr "减少票数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:325
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:512
+msgid "Download images"
+msgstr "下载图片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:127
+msgid "Download reviews images"
+msgstr "下载评论图片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:931
+msgid "Downloaded"
+msgstr "已下载"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:47
+#, php-format
+msgid "Downloaded images of %s review."
+msgid_plural "Downloaded images of %s reviews."
+msgstr[0] "已下载%s条评论的图片。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:941
+msgid "Downloading"
+msgstr "下载中"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:123
+msgid "Draft"
+msgstr "草稿"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:65
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:209
+msgid "Email"
+msgstr "邮箱"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2514
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3164
+msgid "Email content"
+msgstr "邮件内容"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2489
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3139
+msgid "Email heading"
+msgstr "邮件标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2464
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3114
+msgid "Email subject"
+msgstr "电子邮件主题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2398
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3047
+msgid "Email template"
+msgstr "邮件模板"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1093
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2073
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2085
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3380
+msgid "Enable"
+msgstr "启用"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:701
+msgid "Enable Box Shadow"
+msgstr "启用盒阴影"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1927
+msgid "Enable box shadow"
+msgstr "启用框阴影"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:305
+msgid "Enable Filter"
+msgstr "启动过滤"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1782
+msgid "Enable load-more button"
+msgstr "启用加载更多按钮"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1118
+msgid "Enable Multilingual"
+msgstr "启用多语言"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:472
+msgid "Enable Overall Rating"
+msgstr "启用总体评级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:211
+msgid "Enable Pagination"
+msgstr "启用分页"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:461
+msgid "Enable Rating Count"
+msgstr "启用评级计数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1322
+msgid "Enable review title"
+msgstr "启用审查标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2991
+msgid "Enable this if you mean to offer coupon for reviews in review reminder."
+msgstr "如果您要在评论提醒中提供评论优惠券，请启用此功能。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1011
+msgid "Enable this if you're about to import reviews from Shopify"
+msgstr "如果您要从 Shopify 导入评论，请启用此功能"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:105
+msgid "End date"
+msgstr "结束日期"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3759
+msgid "Enter product title to search"
+msgstr "输入产品标题进行搜索"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1550
+msgid "Enter text here"
+msgstr "在这里输入文本"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2782
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2958
+msgid "Exclude categories"
+msgstr "排除类别"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2357
+msgid "Exclude categories to give coupon"
+msgstr "排除类别以提供优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2907
+msgid "Exclude Email addresses"
+msgstr "排除电子邮件地址"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2983
+msgid "Exclude non-coupon given products"
+msgstr "不包括非优惠券给定的产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2726
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2931
+msgid "Exclude products"
+msgstr "不包括商品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2299
+msgid "Exclude products to give coupon"
+msgstr "排除产品以提供优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2685
+msgid "Exclude Sale Items"
+msgstr "排除出售項目"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:167
+msgid "Export"
+msgstr "导出"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:77
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:87
+msgid "Export Reviews"
+msgstr "导出评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:680
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:870
+msgid "Failed"
+msgstr "失败"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:155
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size "
+"being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"文件为空。请上传一些更充实的东西。此错误也可能是由于 php 中的上载被禁用, 或者"
+"由 post_max_size 定义为小于 upload_max_filesize 的 php. ini。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:158
+msgid "File is error."
+msgstr "文件错误。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:887
+msgid "File not exists"
+msgstr "文件不存在"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:958
+msgid "File upload:"
+msgstr "上传文件："
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:298
+msgid "Filter"
+msgstr "筛选"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2121
+msgid "Filter area backgroud color"
+msgstr "过滤器区域背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:385
+msgid "Filter Area Background Color"
+msgstr "筛选区域背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:368
+msgid "Filter Area Border Color"
+msgstr "筛选区域边框颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2110
+msgid "Filter area border color"
+msgstr "筛选区域边框颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:419
+msgid "Filter Button Background Color"
+msgstr "菜单按钮背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2155
+msgid "Filter button background color"
+msgstr "菜单按钮背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:436
+msgid "Filter Button Border Color"
+msgstr "按钮描边颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:402
+msgid "Filter Button Color"
+msgstr "筛选按钮颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2144
+msgid "Filter button color"
+msgstr "滤镜按钮颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2133
+msgid "Filter buttons border color"
+msgstr "按钮边框颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2034
+msgid "Filters"
+msgstr "过滤器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2605
+msgid "Fixed cart discount"
+msgstr "固定额度优惠"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2607
+msgid "Fixed product discount"
+msgstr "固定产品折扣(%)"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:50
+msgid "For Single Product"
+msgstr "对于单个产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2633
+msgid "free shipping method"
+msgstr "配送方式"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1711
+msgid "Front-end style"
+msgstr "前端样式"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:715
+msgid "Full Screen On Mobile"
+msgstr "全屏移动"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1474
+msgid "GDPR checkbox"
+msgstr "添加 GDPR 复选框"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1487
+msgid "GDPR message"
+msgstr "GDPR 消息"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1068
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:26
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:31
+msgid "General"
+msgstr "常规"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3625
+msgid "Generate new key"
+msgstr "生成新密钥"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2568
+msgid "Generate unique coupon"
+msgstr "生成唯一优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3811
+msgid "Get Key"
+msgstr "获取密钥"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:83
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:227
+msgid "Good"
+msgstr "好"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1857
+msgid "Grid background color"
+msgstr "网格背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1868
+msgid "Grid item background color"
+msgstr "电网项目的背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1879
+msgid "Grid item border color"
+msgstr "网格项目边框颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3738
+msgid "Group no"
+msgstr "分组编号"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1029
+msgid "Helper"
+msgstr "帮助"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1664
+msgid "Helpful buttons"
+msgstr "有用的按钮"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1676
+msgid "Helpful buttons title"
+msgstr "有用的按钮标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1989
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2049
+msgid "Hide if empty"
+msgstr "如果空白隐藏"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1521
+msgid "Hide name"
+msgstr "隐藏名称"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:106
+msgid "Hide Product Details"
+msgstr "商品详情"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:158
+msgid "Hold"
+msgstr "保持"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3012
+msgid "Hours"
+msgstr "小时"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2816
+msgid "How many times this coupon can be used before it is void."
+msgstr "优惠券使用多少次后失效"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2846
+msgid "How many times this coupon can be used by an individual user."
+msgstr "单个用户可以使用此优惠券的次数。"
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-photo-reviews/"
+msgstr "https://villatheme.com/extensions/woocommerce-photo-reviews/"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1170
+#, php-format
+msgid ""
+"If \"Organize my uploads into month- and year-based folders\" option in <a "
+"target=\"_blank\" href=\"%s\">Media Settings</a> is checked, month- and year-"
+"based folders will be created inside your upload folders"
+msgstr ""
+"如果选中\"将上传到基于月和年的文件夹\"<a target=\"_blank\" href=\"%s\">媒体设"
+"置</a>\"媒体设置\"选项，则将在上传文件夹中创建基于月和年的文件夹"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:333
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:520
+msgid "If a review has images, download them to your server"
+msgstr "如果评论有图像，请将它们下载到您的服务器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3715
+msgid ""
+"If a review has images, upload them to your server instead of using the "
+"original image url"
+msgstr "如果评论有图片，请将它们上传到您的服务器，而不是使用原始图片网址"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2390
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3039
+msgid "If blank, \"From\" address of WooCommerce will be used"
+msgstr "如果为空白，将使用 WooCommerce 的\"从\"地址"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2875
+msgid ""
+"If checked, an email will be automatically sent when a customer completes an "
+"order to request for a review."
+msgstr "如果选中，当客户完成订单时将自动发送一封电子邮件以请求审核."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2558
+msgid "If enabled, coupon will be used for received emails only."
+msgstr "如果启用，优惠券将仅用于接收的电子邮件。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:53
+msgid ""
+"If enabled, shortcode will show reviews of main product on single product "
+"page."
+msgstr "如果启用，短代码将在单个产品页面上显示主要产品的评论。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1944
+msgid ""
+"If nothing happens when you click on button load more, product review "
+"template have been customized on your site. Just find the specific class or "
+"id of the closest container-the closest element(usually an \"ul\" or \"ol\" "
+"element) that wraps all reviews. Use dot(.) if it's a class name and use "
+"hash(#) if it's an id."
+msgstr ""
+"如果在单击按钮加载更多时没有任何反应，则产品审核模板已在网站上进行自定义。只"
+"需查找最近容器的特定类或 ID - 最近的元素（通常是包装所有评论的\"ul\"或\"ol"
+"\"元素）。如果是类名称，请使用 dot（.），如果是 ID，请使用 hash（#）。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3669
+msgid ""
+"If set, reviews imported with chrome extension will be added only to "
+"selected product(s). The \"Look up for product ID by\" option above will not "
+"be used."
+msgstr ""
+"如果设置，则仅将带有chrome 扩展导入的评论添加到选定的产品中。以上\"通过查找产"
+"品 ID\"选项将不使用。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1169
+msgid ""
+"If you want to create sub folders inside an other same sub folder, use it "
+"like <strong>woocommerce-photo-review/users-upload</strong> for Customer "
+"review photos folder and <strong>woocommerce-photo-review/import</strong> "
+"for Import review photos folder"
+msgstr ""
+"如果要在另一个相同的子文件夹中创建子文件夹，请使用<strong> woocommerce-photo-"
+"review/users-upload </strong>作为“客户评论图片”文件夹和<strong> woocommerce-"
+"photo-review/import </strong>用于导入评论图片文件夹"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1637
+msgid "Image caption background color"
+msgstr "图片标题背景色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1649
+msgid "Image caption font size(px)"
+msgstr "图片标题字体大小（px）"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1626
+msgid "Image caption text color"
+msgstr "图片标题文字颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:534
+msgid "Image Popup"
+msgstr "图像弹出"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1754
+msgid "Image popup"
+msgstr "图片弹出"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:190
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:397
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:398
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:586
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:632
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:861
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1136
+msgid "Import"
+msgstr "导入"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1003
+msgid "Import from Shopify"
+msgstr "从Shopify导入"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3721
+msgid "Import order info"
+msgstr "导入订单信息"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:823
+msgid "Import Product From CSV file"
+msgstr "从CSV文件导入产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1150
+msgid "Import review photos folder"
+msgstr "导入审核照片文件夹"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1189
+msgid "Import review photos prefix"
+msgstr "导入审核照片前缀"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:223
+msgid "Import review successfully"
+msgstr "导入评论成功"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3727
+msgid ""
+"Import reviewer' order info(except for logistics info) such as Color, "
+"Size... to Optional fields"
+msgstr "将审阅者的订单信息（物流信息除外）如颜色、尺寸...导入到可选字段"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:51
+msgid "Import Reviews"
+msgstr "导入评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:598
+msgid "Import reviews"
+msgstr "导入评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:135
+msgid "Import reviews from AliExpress <em>(optional)</em>"
+msgstr "从 AliExpress 导入评论<em>（可选）</em>"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3650
+msgid "Import reviews to"
+msgstr "评论导入到"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3703
+msgid "Import vote up/down count of reviews"
+msgstr "导入评论的上/下投票计数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1200
+msgid ""
+"In photos prefix, you can use <strong>{comment_id}</strong> for ID of review "
+"that a photo belongs to and <strong>{product_id}</strong> for ID of product "
+"that a review belongs to"
+msgstr ""
+"在照片前缀中，您可以使用<strong>{comment_id}</strong>表示照片所属的评论的ID，"
+"并使用<strong>{product}</strong>作为评论所属产品的ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1211
+msgid "Include photos"
+msgstr "包括照片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2696
+msgid "Include products"
+msgstr "包括的产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2756
+msgid "Included categories"
+msgstr "仅显示这些分类"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2675
+msgid "Individual Use Only"
+msgstr "仅供个人使用"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:75
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:79
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:83
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:692
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:700
+msgid "Invalid file."
+msgstr "无效文件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:232
+msgid "Invalid product"
+msgstr "无效商品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:236
+msgid "Invalid review data"
+msgstr "无效审查数据"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1267
+#, php-format
+msgid "KB (Max %s KB)."
+msgstr "KB（最大%sKB）。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3425
+msgid "Label"
+msgstr "标签"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3432
+msgid "Language"
+msgstr "语言"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:172
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:650
+msgid "Last: "
+msgstr "持续："
+
+#. %s is product title
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回复给 %s"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3556
+msgid "Leave blank to delete matches"
+msgstr "保留空白，以删除匹配的内容"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1943
+msgid "Leave this field blank if ajax load more reviews works properly."
+msgstr "如果 ajax 加载更多审核正常工作，请将此字段留空。"
+
+#. %s is product title
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:202
+#, php-format
+msgid "Leave your Reply to %s"
+msgstr "请将您的回复发送给%s"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:91
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:284
+msgid "Left"
+msgstr "左侧"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1620
+msgid ""
+"Let your customer add caption for their review images and show it in reviews"
+msgstr "让您的客户为其评论图片添加标题并在评论中显示"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1760
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:539
+msgid "Lightbox"
+msgstr "灯箱"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2821
+msgid "Limit Usage To X Items"
+msgstr "将使用限制为X个项目"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:784
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:861
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:347
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-pagination-loadmore-html.php:9
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-pagination-loadmore-html.php:18
+msgid "Load more"
+msgstr "加载更多"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:785
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:862
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:348
+msgid "Loading..."
+msgstr "加载中..."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:244
+msgid "Loadmore Button"
+msgstr "加载更多按钮"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3639
+msgid "Look up for product ID by"
+msgstr "查找产品 ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1026
+msgid "Map to field"
+msgstr "映射到字段"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:347
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:534
+msgid "Mark imported reviews as Verified owner"
+msgstr "标记导入评论作为已验证所有者"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:510
+msgid "Masonry"
+msgstr "瀑布流"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1793
+msgid "Max content length"
+msgstr "内容长度"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1000
+msgid "Max file upload"
+msgstr "文件上传"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:980
+msgid "Max file uploads:"
+msgstr "最多允许上传文件:"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1276
+msgid "Maximum photo quantity"
+msgstr "最大照片数量"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1258
+msgid "Maximum photo size"
+msgstr "最大照片大小"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2665
+msgid "Maximum Spend"
+msgstr "最大花费"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2216
+msgid "Minimum required rating"
+msgstr "最低要求评级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2653
+msgid "Minimum Spend"
+msgstr "最小花费"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3011
+msgid "Minutes"
+msgstr "分钟"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1105
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1849
+msgid "Mobile"
+msgstr "手机"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3424
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:63
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:207
+msgid "Name"
+msgstr "名称"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:162
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:186
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:622
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:649
+msgid "Never"
+msgstr "从不"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/frontend.php:679
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/frontend.php:688
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/frontend.php:700
+msgid "never expires"
+msgstr "永不过期"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:80
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:110
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:43
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:55
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:155
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:215
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:237
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:248
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:309
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:320
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:335
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:465
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:476
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:690
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:705
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:719
+msgid "No"
+msgstr "否"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2670
+msgid "No maximum"
+msgstr "没有最大值"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2659
+msgid "No minimum"
+msgstr "没有最低限度"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:849
+msgid "No more reviews to import"
+msgstr "无需导入更多评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1232
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2407
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2427
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3056
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3077
+msgid "None"
+msgstr "无"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:511
+msgid "Normal"
+msgstr "正常"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:85
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:229
+msgid "Not that bad"
+msgstr "一般"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1832
+msgid "Number of columns"
+msgstr "列数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:364
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:551
+msgid "Number of reviews"
+msgstr "评论数量"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:187
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:652
+msgid "Number: "
+msgstr "数量 "
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1745
+msgid "Off"
+msgstr "关闭"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1234
+msgid ""
+"One review and verified owner required(the customer must have bought that "
+"product)"
+msgstr "需要经过审核和验证的所有者（客户必须购买该产品）"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1233
+msgid "One review no matter the customer bought that product or not"
+msgstr "无论客户是否购买该产品，均应进行一次评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1528
+msgid ""
+"Only display first letter of each word in author'name. Eg: \"Woo Photo "
+"Reviews\" becomes \"W** P**** R******\""
+msgstr ""
+"仅在作者姓名中显示每个单词的第一个字母。例如：\"哇照片评论\"变成"
+"\"W**P***************"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:523
+msgid "Only Image"
+msgstr "仅图像"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1744
+msgid "Only image"
+msgstr "仅图像"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:946
+msgid "Only import products from this line on."
+msgstr "仅从这条线上导入产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:320
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:507
+msgid "Only import reviews with images"
+msgstr "只导入有图片的评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:97
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:241
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "只有已购买此产品的客户才可以进行审核。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:77
+msgid "Only Overall Rating"
+msgstr "仅综合评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:78
+msgid "Only Rating Count"
+msgstr "仅评分计数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2352
+msgid "Only reviews on products in these categories can receive coupon"
+msgstr "只有这些类别中的产品评论才能获得优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2293
+msgid ""
+"Only reviews on selected products can receive coupons. Leave blank to apply "
+"for all products"
+msgstr "只有对所选产品的评论才能获得优惠券。留空以申请所有产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:151
+msgid "Only Reviews With Images"
+msgstr "仅具有图像的评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2239
+msgid "Only send coupon for reviews from purchased customers."
+msgstr "只对已购客户的评论发送优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2227
+msgid ""
+"Only send coupons for reviews if rating is equal or greater than this value"
+msgstr "仅在评分等于或大于此值时发送评论优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2210
+msgid "Only send coupons for reviews including photos"
+msgstr "只对评论中带图片的发送优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2196
+msgid "Only send coupons if author's email is registered an account"
+msgstr "仅发送优惠券，如果作者的电子邮件已注册帐户"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1078
+msgid "Optional Fields"
+msgstr "可选字段"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:108
+msgid "Optional fields/Variation"
+msgstr "可选字段/变体"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:293
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1048
+msgid "Optional fields/Variations"
+msgstr "可选字段/变体"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:30
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:30
+msgid "Options"
+msgstr "页面设置"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2449
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3099
+msgid "or"
+msgstr "或"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:178
+msgid "Order"
+msgstr "排序"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:162
+msgid "Order By"
+msgstr "排序方式"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2881
+msgid "Order statuses trigger"
+msgstr "订单状态触发器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:11
+msgid "Overall Rating"
+msgstr "综合评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2003
+msgid "Overall rating"
+msgstr "综合评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1048
+msgid ""
+"Overall rating shortcode <strong>[wc_photo_reviews_overall_rating_html "
+"product_id=\"\" overall_rating_enable=\"on\" rating_count_enable=\"on\"]</"
+"strong> is used to display overall rating"
+msgstr ""
+"综合评分简码 <strong>[wc_photo_reviews_overall_rating_html product_id=\"\" "
+"overall_rating_enable=\"on\" rating_count_enable=\"on\"]</strong> 用于显示综"
+"合评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:204
+msgid "Pagination"
+msgstr "分页"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:258
+msgid "Pagination Next"
+msgstr "下一页"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:280
+msgid "Pagination Position"
+msgstr "分页位置"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:269
+msgid "Pagination Pre"
+msgstr "分页 前"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:434
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3678
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:388
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:576
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:124
+msgid "Pending"
+msgstr "待定"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2603
+msgid "Percentage discount"
+msgstr "折扣的百分比"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:82
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:226
+msgid "Perfect"
+msgstr "完美"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2203
+msgid "Photo is required"
+msgstr "需要照片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1413
+msgid "Photo required"
+msgstr "照片必需"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4423
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:15
+msgid "Photo Reviews"
+msgstr "产品评论采集"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4191
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4294
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:292
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:107
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1047
+msgid "Photos"
+msgstr "照片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:374
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:561
+msgid "Phrases filter"
+msgstr "短语过滤器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3426
+msgid "Placeholder"
+msgstr "占位符"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:42
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:85
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:790
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:867
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:353
+msgid "Please agree with our term and policy."
+msgstr "请同意我们的条款和政策。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4789
+msgid "Please enter author name"
+msgstr "请输入作者姓名"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4634
+msgid "Please enter Author name!"
+msgstr "请输入作者名字!"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2334
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2362
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2761
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2787
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2963
+msgid "Please enter category title"
+msgstr "请输入类别标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3634
+msgid "Please enter this key in the chrome extension to import reviews"
+msgstr "请在 Chrome扩展程序中输入此密钥以导入评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:34
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:77
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:787
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:864
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:350
+msgid "Please enter your comment"
+msgstr "请输入您的评论。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:36
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:79
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:789
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:866
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:352
+msgid "Please enter your email"
+msgstr "请输入您的电子邮件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:35
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:78
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:788
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:865
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:351
+msgid "Please enter your name"
+msgstr "请输入你的名字"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2583
+msgid "Please Fill In Your Coupon Code"
+msgstr "请填写优惠券代码"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2273
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2303
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2702
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2732
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2936
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3654
+msgid "Please Fill In Your Product Title"
+msgstr "请填写您的产品标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3816
+msgid ""
+"Please fill the key you get from <a target=\"_blank\" href=\"https://"
+"villatheme.com/my-download\">https://villatheme.com/my-download</a> to be "
+"able to automatically update WooCommerce Photo Reviews plugin. Please read "
+"<a target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-use-"
+"auto-update-feature/\">guide</a>"
+msgstr ""
+"请填写您从<a target=\"_blank\" href=\"https://villatheme.com/my-download\">您"
+"https://villatheme.com/my-download，</a>以便能够自动更新 WooCommerce 照片评论"
+"插件。请阅读<a target=\"_blank\" href=\"https://villatheme.com/knowledge-"
+"base/how-to-use-auto-update-feature/\">指南</a>"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/woocommerce-photo-reviews.php:61
+msgid ""
+"Please install and activate WooCommerce to use WooCommerce Photo Reviews."
+msgstr "请安装并激活 WooCommerce 使用 WooCommerce 照片评论。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3948
+msgid "Please select a coupon then save settings!"
+msgstr "请选择优惠券，然后保存设置！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3316
+msgid ""
+"Please select a page that you use shortcode "
+"<strong>[woocommerce_photo_reviews_form]</strong>. If empty, customers will "
+"be redirected to single product page when click on button \"Review Now\""
+msgstr ""
+"请选择使用短代码 [woocommerce_photo_reviews_form]<strong>的页面</strong>。如"
+"果为空，则单击按钮\"立即查看\"时，客户将被重定向到单个产品页面"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4624
+msgid "Please select a product!"
+msgstr "请选择一个产品！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4836
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:33
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:76
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:786
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:863
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:349
+msgid "Please select a rating"
+msgstr "请选择评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4656
+msgid "Please select a rating!"
+msgstr "请选择一个评分！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4777
+msgid "Please select product that you want to add review"
+msgstr "请选择要添加评论的产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:874
+msgid "Please set mapping for all required fields"
+msgstr "请为所有必需字段设置映射"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:41
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:84
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:807
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:884
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:357
+msgid "Please upload at least one image for your review!"
+msgstr "请上传至少一张图片供您评论！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4555
+msgid "Please wait..."
+msgstr "请稍候..."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4645
+msgid "Please write your review!"
+msgstr "请写您的评论！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1000
+msgid "plus"
+msgstr "加"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:79
+msgid "Popup"
+msgstr "弹窗"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:518
+msgid "Popup Type"
+msgstr "弹出类型"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1738
+msgid "Popup type"
+msgstr "弹出类型"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:999
+msgid "Post maxsize"
+msgstr "发布最大尺寸"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:989
+msgid "Post maxsize:"
+msgstr "发布最大尺寸："
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1195
+msgid "Prefix for photos of reviews imported from AliExpress or CSV"
+msgstr "从 AliExpress 或 CSV 导入的评论照片的前缀"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1184
+msgid "Prefix for photos of reviews uploaded by customers"
+msgstr "客户上传的评论照片的前缀"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:278
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:292
+msgid "Preview email"
+msgstr "预览电子邮件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:122
+msgid "Private"
+msgstr "私有"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:39
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:63
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:39
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:63
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:167
+msgid "Product"
+msgstr "产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:106
+msgid "Product Categories"
+msgstr "产品分类"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2776
+msgid ""
+"Product categories that the coupon will be applied to, or that need to be in "
+"the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+"优惠券将应用于的产品类别，或需要在购物车中才能应用“固定购物车折扣”的产品类"
+"别。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2802
+msgid ""
+"Product categories that the coupon will not be applied to, or that cannot be "
+"in the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr "优惠券不适用的产品类别，或者不适用于“固定购物车折扣”的产品类别。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:284
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:98
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1038
+msgid "Product ID"
+msgstr "产品ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3247
+msgid "Product image width"
+msgstr "产品图片的宽度"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:252
+msgid "Product not exists"
+msgstr "不存在产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1049
+msgid ""
+"Product rating shortcode <strong>[wc_photo_reviews_rating_html product_id="
+"\"\" rating=\"\" review_count=\"on\"]</strong> is used to display rating of "
+"a product"
+msgstr ""
+"产品评级短代码 <strong>[wc_photo_reviews_rating_html product_id=\"\" rating="
+"\"\" review_count=\"on\"]</strong> 用于显示产品的评级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:75
+msgid "Product Review Count"
+msgstr "产品评论数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:117
+msgid "Product Status"
+msgstr "产品状态"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/plugins/woocommerce-email-template-customizer.php:137
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/plugins/woocommerce-email-template-customizer.php:159
+msgid "Product title"
+msgstr "产品名称"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4757
+msgid "Product(*required)"
+msgstr "产品（*必需）"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3739
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:113
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:35
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/overall-rating-widget.php:60
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:63
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:88
+msgid "Products"
+msgstr "产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2978
+msgid "Products in these categories will not appear in review reminder email."
+msgstr "这些类别中的产品不会出现在评论提醒电子邮件中."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2721
+msgid ""
+"Products that the coupon will be applied to, or that need to be in the cart "
+"in order for the \"Fixed cart discount\" to be applied"
+msgstr ""
+"优惠券将被应用到的产品，或需要在购物车中才能应用“固定购物车折扣”的产品。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2750
+msgid ""
+"Products that the coupon will not be applied to, or that cannot be in the "
+"cart in order for the \"Fixed cart discount\" to be applied."
+msgstr "优惠券将不适用的产品, 或不能在购物车中, 以 \"固定购物车折扣\" 的应用。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/plugins/woocommerce-email-template-customizer.php:114
+msgid "Products to Review"
+msgstr "需要审核的产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:121
+msgid "Publish"
+msgstr "发布"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3257
+msgid "px"
+msgstr "px"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/orders.php:75
+msgid "Rate"
+msgstr "比率"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/orders.php:67
+#, php-format
+msgid "Rate %s"
+msgstr "评分%s"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:81
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:225
+msgid "Rate&hellip;"
+msgstr "评分&hellip;"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4295
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:290
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:105
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1045
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:15
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:94
+msgid "Rating"
+msgstr "评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:454
+msgid "Rating count"
+msgstr "评分数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:483
+msgid "Rating Count Bar Color"
+msgstr "评级计数条颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1072
+msgid "Rating Counts & Filters"
+msgstr "评分计数和过滤器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1510
+msgid "Rating stars color"
+msgstr "评论星级颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4825
+msgid "Rating(*required)"
+msgstr "等级（*为必填项）"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:131
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:265
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:453
+msgid "Ratings"
+msgstr "评级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1977
+msgid "Ratings count"
+msgstr "评分计数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2016
+msgid "Ratings count bar color"
+msgstr "评级计数条形颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-template-masonry-html.php:250
+msgid "Read more"
+msgstr "阅读更多"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2186
+msgid "Registered-account email is required"
+msgstr "注册账户的电子邮件是必需的"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2926
+msgid "Reminder will not be sent if email is among these"
+msgstr "如果电子邮件在其中，则不会发送提醒"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3495
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3520
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4547
+msgid "Remove"
+msgstr "删除"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3519
+msgid "Replace"
+msgstr "替换"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/frontend.php:1736
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/frontend.php:1768
+msgid "Reply"
+msgstr "回复"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-template-masonry-html.php:266
+msgid "Reply from "
+msgstr "来自的回复"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:194
+#, php-format
+msgid "Require WooCommerce Photo Reviews plugin version %s"
+msgstr "要求WooCommerce 照片评论插件版本%s"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2329
+msgid "Required categories"
+msgstr "必填类别"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2269
+msgid "Required products"
+msgstr "必填产品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1223
+msgid "Restrict number of reviews"
+msgstr "限制评论数量"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:602
+msgid "Review Background Color"
+msgstr "查看背景颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:619
+msgid "Review Border Color"
+msgstr "评价边框颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4820
+msgid "Review content cannot be empty"
+msgstr "内容不能为空"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4850
+msgid "Review Date"
+msgstr "评论日期"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:376
+msgid "Review exists"
+msgstr "评论已存在"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:15
+msgid "Review Form"
+msgstr "评价表单"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2245
+msgid "Review form description"
+msgstr "查看表单说明"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1050
+msgid ""
+"Review form shortcode <strong>[woocommerce_photo_reviews_form product_id="
+"\"\" hide_product_details=\"\" hide_product_price=\"\" type=\"popup\" "
+"button_position=\"center\"]</strong> can be used for single product page or "
+"review page of reminder email."
+msgstr ""
+"评论表单短代码 <strong>[woocommerce_photo_reviews_form product_id=\"\" "
+"hide_product_details=\"\" hide_product_price=\"\" type=\"popup\" "
+"button_position=\"center\"]</strong> 可用于单个产品页面或提醒电子邮件的评论页"
+"面."
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:168
+msgid "Review ID"
+msgstr "评价 ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4857
+msgid "Review Images"
+msgstr "查看图片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3300
+msgid "Review page"
+msgstr "审核页面"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:422
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1076
+msgid "Review Reminder"
+msgstr "评论提醒"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2867
+msgid "Review reminder"
+msgstr "评论提醒"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3674
+msgid "Review status"
+msgstr "评价状态"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:636
+msgid "Review Text Color"
+msgstr "查看文本颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1890
+msgid "Review text color"
+msgstr "查看文本颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4182
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4293
+msgid "Review Title"
+msgstr "评论标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4802
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:294
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:102
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1042
+msgid "Review title"
+msgstr "评论标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1335
+msgid "Review title Placeholder"
+msgstr "评论标题占位符:"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3697
+msgid "Review vote"
+msgstr "评论投票"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1070
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/orders.php:33
+msgid "Reviews"
+msgstr "评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1953
+msgid "Reviews anchor link"
+msgstr "评论锚链接"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1938
+msgid "Reviews container"
+msgstr "评论容器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1423
+msgid "Reviews must include photo to be uploaded."
+msgstr "评论必须包括要上传的照片。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2380
+msgid "Reviews on products in these categories will not receive coupon"
+msgstr "这些类别中的产品评论将不获得优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2323
+msgid "Reviews on these products will not receive coupon"
+msgstr "对这些产品的评论将不收到优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:222
+msgid "Reviews Per Page"
+msgstr "评论每页"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:924
+msgid "Reviews per step"
+msgstr "每个步骤的审核"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1051
+msgid ""
+"Reviews shortcode is used to display all reviews or specific reviews of some "
+"products or categories. Usage with all available arguments: "
+"<strong>[wc_photo_reviews_shortcode comments_per_page=\"12\" cols=\"3\" "
+"cols_mobile=\"1\" use_single_product=\"on\" cols_gap=\"\" products=\"\" "
+"grid_bg_color=\"\" grid_item_bg_color=\"\" grid_item_border_color=\"\" "
+"text_color=\"\" star_color=\"\" product_cat=\"\" order=\"\" orderby="
+"\"comment_date_gmt\" show_product=\"on\" filter=\"on\" pagination=\"on\" "
+"pagination_ajax=\"on\" pagination_pre=\"\" pagination_next=\"\" "
+"loadmore_button=\"off\" filter_default_image=\"off\" filter_default_verified="
+"\"off\" filter_default_rating=\"\" pagination_position=\"\" conditional_tag="
+"\"\" custom_css=\"\" ratings=\"\" mobile=\"on\" style=\"masonry\" "
+"masonry_popup=\"review\" enable_box_shadow=\"on\" full_screen_mobile=\"on\" "
+"overall_rating=\"off\" rating_count=\"off\" only_images=\"off\" image_popup="
+"\"below_thumb\"]</strong>"
+msgstr ""
+"评论短代码用于显示某些产品或类别的所有评论或特定评论。 使用所有可用参数："
+"<strong>[wc_photo_reviews_shortcode comments_per_page=\"12\" cols=\"3\" "
+"cols_mobile=\"1\" use_single_product=\"on\" cols_gap=\"\" products=\"\" "
+"grid_bg_color=\"\" grid_item_bg_color=\"\" grid_item_border_color=\"\" "
+"text_color=\"\" star_color=\"\" product_cat=\"\" order=\"\" orderby="
+"\"comment_date_gmt\" show_product=\"on\" filter=\"on\" pagination=\"on\" "
+"pagination_ajax=\"on\" pagination_pre=\"\" pagination_next=\"\" "
+"loadmore_button=\"off\" filter_default_image=\"off\" filter_default_verified="
+"\"off\" filter_default_rating=\"\" pagination_position=\"\" conditional_tag="
+"\"\" custom_css=\"\" ratings=\"\" mobile=\"on\" style=\"masonry\" "
+"masonry_popup=\"review\" enable_box_shadow=\"on\" full_screen_mobile=\"on\" "
+"overall_rating=\"off\" rating_count=\"off\" only_images=\"off\" image_popup="
+"\"below_thumb\"]</strong>"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:93
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:286
+msgid "Right"
+msgstr "右侧"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-template-basic-html.php:91
+msgid "Rotate left 90 degrees"
+msgstr "向左旋转 90 度"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-template-basic-html.php:92
+msgid "Rotate right 90 degrees"
+msgstr "向右旋转 90 度"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3828
+msgid "Save & Check Key"
+msgstr "保存并检查密钥"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3824
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3028
+msgid ""
+"Schedule a time to send request email order status changes to the one you "
+"selected."
+msgstr "安排时间将请求电子邮件订单状态更改发送到您选择的时间。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2997
+msgid "Schedule time"
+msgstr "计划时间"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3517
+msgid "Search"
+msgstr "搜索"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3509
+msgid ""
+"Search and replace strings in review author and review content when "
+"importing reviews from AliExpress"
+msgstr "从 AliExpress 导入评论时搜索和替换审阅作者中的字符串和审阅内容"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3010
+msgid "Seconds"
+msgstr "秒"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3614
+msgid "Secret key"
+msgstr "密钥"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:184
+msgid "Secret key does not match"
+msgstr "秘钥不匹配"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-comment-field-html.php:74
+#, php-format
+msgid "Select %s"
+msgstr "选择 %s"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2291
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2321
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2718
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2748
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2951
+msgid "Select all"
+msgstr "全选"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2570
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2578
+msgid "Select an existing coupon"
+msgstr "选择现有优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2564
+msgid "Select coupon kind"
+msgstr "选择优惠券种类"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1171
+msgid "Select csv file to import"
+msgstr "选择要导入的文件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:849
+msgid "Select file"
+msgstr "选择文件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2067
+msgid "Select Image filter by default"
+msgstr "默认选择图像过滤器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:316
+msgid "Select Images Filter By Default"
+msgstr "默认情况下选择图像筛选器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3371
+msgid ""
+"Select order statuses that you want button Review to be shown on My account/"
+"orders"
+msgstr "选择您希望按钮查看显示在我的帐户/订单上的订单状态"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:65
+msgid "Select product that you want to display the star rating for."
+msgstr "选择要显示其星级的产品。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2094
+msgid "Select Rating by default"
+msgstr "默认情况下选择评级"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:346
+msgid "Select Rating Filter By Default"
+msgstr "默认情况下选择评级筛选器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:331
+msgid "Select Verified Filter By Default"
+msgstr "默认情况下选择已验证的筛选器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2079
+msgid "Select Verified filter by default"
+msgstr "默认情况下选择已验证筛选器"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2180
+msgid "Send coupon to customers when their reviews are approved"
+msgstr "在客户审核获得批准时向其发送优惠券"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2901
+msgid "Send reminder when an order status changes to one of these values."
+msgstr "当订单状态更改为这些值之一时发送提醒。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:450
+msgid "Send Review Reminder"
+msgstr "评论提醒"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:435
+msgid "Sent"
+msgstr "发送"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5240
+#, php-format
+msgid "Set %s review as verified."
+msgid_plural "Set %s reviews as verified."
+msgstr[0] "将 %s 审核设置为已验证。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2551
+msgid "Set email restriction"
+msgstr "设置电子邮件限制"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:383
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:570
+msgid "Set review status"
+msgstr "审阅状态"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3685
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4302
+msgid "Set review verified"
+msgstr "已设置审核已验证"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3691
+msgid "Set reviews imported with chrome extension to verified reviews"
+msgstr "设置评论导入与chrome扩展验证的评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:82
+msgid "Settings"
+msgstr "设置"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:855
+msgid "Settings & Mapping"
+msgstr "设置和映射"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2593
+msgid "Settings For Unique Coupon"
+msgstr "独特的优惠券设置"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1084
+msgid "Share reviews"
+msgstr "分享评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1043
+msgid "Shortcode"
+msgstr "简码"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:999
+msgid "should be greater than"
+msgstr "应该大于"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1614
+msgid "Show image caption"
+msgstr "显示图像标题"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:78
+msgid "Show number of reviews of product"
+msgstr "显示产品评论次数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3392
+msgid "Show optional fields from product variations"
+msgstr "显示产品变体中的可选字段"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:686
+msgid "Show Product"
+msgstr "显示商品"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:133
+msgid "Show Ratings"
+msgstr "显示评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3587
+msgid "Show review country"
+msgstr "显示评论国家/地区"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1901
+msgid "Show review date"
+msgstr "在帖子外显示评论分数"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1461
+msgid "Show review tab first"
+msgstr "首先显示审阅选项卡"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1368
+msgid "Show this message after a customer leaves a review"
+msgstr "客户离开审核后显示此消息"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1395
+msgid ""
+"Show this message after a customer leaves a review and receives a coupon"
+msgstr "客户离开审核并收到优惠券后显示此消息"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1670
+msgid "Show up-vote/down-vote buttons in customer reviews"
+msgstr "在客户评论中显示上投票/下投票按钮"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1428
+msgid "Sort reviews by"
+msgstr "排序评论依据"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:159
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:389
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:577
+msgid "Spam"
+msgstr "垃圾邮件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:168
+msgid "SSL is required"
+msgstr "需要 SSL"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:653
+msgid "Star Color"
+msgstr "星色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2225
+msgid "Star(s)"
+msgstr "星"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:97
+msgid "Start date"
+msgstr "开始日期"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:937
+msgid "Start line"
+msgstr "起始线"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4414
+msgid "Status"
+msgstr "状态"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:175
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:638
+msgid "Status: "
+msgstr "状态："
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:506
+msgid "Style"
+msgstr "样式"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:68
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:212
+msgid "Submit"
+msgstr "提交"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:839
+msgid "Successful"
+msgstr "成功"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4414
+msgid "System Status"
+msgstr "系统状态"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:953
+msgid "System status"
+msgstr "系统状态"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1543
+msgid "Text"
+msgstr "文本"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/frontend.php:701
+msgid "Thank You For Your Review!"
+msgstr "谢谢你的评论！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1359
+msgid "Thank you message"
+msgstr "谢谢你的留言"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1386
+msgid "Thank you message if Coupon"
+msgstr "如果您优惠券，请发送感谢信息"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3165
+msgid "The content of email sending to customers to ask for reviews."
+msgstr "电子邮件发送到客户要求评论的内容。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2515
+msgid ""
+"The content of email sending to customers to inform them the coupon code "
+"they get for leaving reviews."
+msgstr "电子邮件发送到客户的内容，通知他们离开评论时得到的优惠券代码。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3147
+msgid "The heading of emails sending to customers to request for reviews."
+msgstr "发送到客户以请求审核的电子邮件标题。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2497
+msgid ""
+"The heading of emails sending to customers which include discount coupon "
+"code."
+msgstr "发送给客户的电子邮件标题，其中包括折扣优惠券代码。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2831
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discount."
+msgstr "使用产品折扣时，此优惠券可以适用于的单个项目的最大数量。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1286
+msgid "The maximum quantity of photos can be uploaded with a review."
+msgstr "照片的最大数量可以上传与评论。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1269
+msgid "The maximum size of a single picture can be uploaded."
+msgstr "可以上传单张图片的最大尺寸。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2671
+msgid "The maximum spend to use the coupon."
+msgstr "使用优惠券的最大花费。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2660
+msgid "The minimum spend to use the coupon."
+msgstr "使用该优惠券的最低消费"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1918
+msgid ""
+"The review use the same date format of your WP settings. If you want to use "
+"a different format for it, enter it here."
+msgstr ""
+"审核使用 WP 设置的相同日期格式。如果要对它使用不同的格式，请在此处输入。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3122
+msgid "The subject of emails sending to customers to request for reviews."
+msgstr "电子邮件的主题，发送到客户请求评论。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2472
+msgid ""
+"The subject of emails sending to customers which include discount coupon "
+"code."
+msgstr "向客户发送电子邮件的主题，包括折扣优惠券代码。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2953
+msgid "These products will not appear in review reminder email."
+msgstr "这些产品不会显示在审核提醒电子邮件中。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2460
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3110
+msgid "This email is used when no Email template is selected"
+msgstr "当没有选择电子邮件模板时使用此电子邮件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1958
+msgid ""
+"This is the anchor link to your reviews form. Enter without a hash(#). This "
+"will be linked after product links in reviews reminder or when customers "
+"click on a filter on frontend."
+msgstr ""
+"这是您的评论表单的锚点链接。输入时没有哈希 （#）。这将在评论提醒中的产品链接"
+"或客户单击前端的筛选器后链接。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:96
+msgid ""
+"This option is used if you just only want to display the rating html of "
+"specific rating star(s)"
+msgstr "如果您只想显示特定评级星的评级 html，则使用此选项"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3593
+msgid "This option only works for reviews imported since version 1.1.4"
+msgstr "此选项仅适用于自版本 1.1.4 以来导入的评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2639
+msgid "Time To Live"
+msgstr "存留时间"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1052
+msgid ""
+"To learn more about How to use these shortcodes, please read <a target="
+"\"_blank\" href=\"https://docs.villatheme.com/woocommerce-photo-reviews/"
+"#page_section_menu_3142\">Docs</a>"
+msgstr ""
+"要了解有关如何使用这些短代码的更多内容，请阅读 <a target=\"_blank\" href="
+"\"https://docs.villatheme.com/woocommerce-photo-reviews/"
+"#page_section_menu_3142\">文档</a>"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2028
+msgid "To set default active filters, Ajax pagination must be enabled"
+msgstr "要设置默认的活动筛选器，必须启用 Ajax 分页"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1237
+msgid ""
+"To use this feature, you have to uncheck option 'Reviews can only be left by "
+"\"verified owners\"' in <a target=\"_blank\" href=\"admin.php?page=wc-"
+"settings&tab=products#woocommerce_review_rating_verification_required"
+"\">WooCommerce Settings</a>. Verified owner validation will be checked when "
+"customers submit reviews"
+msgstr ""
+"要使用这个功能，你必须取消勾选<a target=\"_blank\" href=\"admin.php?page=wc-"
+"settings&tab=products#woocommerce_review_rating_verification_required"
+"\">WooCommerce设置</a>中的'评论只能由'验证过的所有者'选项。当客户提交评论时，"
+"将检查已验证的所有者验证"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:170
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:630
+msgid "Total: "
+msgstr "总计："
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:299
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:486
+msgid "Translate to English"
+msgstr "翻译成英语"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:160
+msgid "Trash"
+msgstr "回收站"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:74
+msgid "Type"
+msgstr "类型"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:132
+msgid "Unauthorized"
+msgstr "未授权"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3428
+msgid "Units"
+msgstr "单位"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2844
+msgid "Unlimited Usage"
+msgstr "无限使用"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:295
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:109
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1049
+msgid "Up-vote count"
+msgstr "点赞"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1086
+msgid "Update"
+msgstr "更新"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1292
+msgid "Upload images requirement"
+msgstr "上传图片要求"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:971
+msgid "Upload max filesize:"
+msgstr "最大允许上传文件大小："
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3709
+msgid "Upload review images"
+msgstr "上传评论图片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2808
+msgid "Usage Limit Per Coupon"
+msgstr "每张优惠券的使用限额"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2836
+msgid "Usage Limit Per User"
+msgstr "每个用户的使用限制"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:232
+msgid "Use Ajax Pagination"
+msgstr "Ajax分页"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:951
+msgid "Use product SKU instead of ID"
+msgstr "使用产品SKU代替ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:965
+msgid "Use product SLUG instead of ID"
+msgstr "使用产品 SLUG 而不是 ID"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:307
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:494
+msgid "Use translated content from AliExpress if available"
+msgstr "如果可用，请使用速卖通的翻译内容"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:298
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:112
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1052
+msgid "User id"
+msgstr "用户标识"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2621
+msgid "Value of the coupon."
+msgstr "优惠券的价值。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3427
+msgid "Value set"
+msgstr "设置值"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4296
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/export.php:291
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:106
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:1046
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-filters-html.php:43
+msgid "Verified"
+msgstr "已验证"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:672
+msgid "Verified Badge/Text Color"
+msgstr "已验证的徽章/文本颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4841
+msgid "Verified Owner"
+msgstr "验证人"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1534
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:339
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:526
+msgid "Verified owner"
+msgstr "验证所有者"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1602
+msgid "Verified owner color"
+msgstr "已验证的所有者颜色"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2232
+msgid "Verified owner is required"
+msgstr "需要经过验证"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:86
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:230
+msgid "Very poor"
+msgstr "很差"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2448
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3098
+msgid "View all Email templates"
+msgstr "查看所有电子邮件模板"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:352
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:539
+msgid "Vote count"
+msgstr "投票计数范围"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:89
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:233
+msgid "What do you think of this product?"
+msgstr "您如何看待该产品？"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3645
+msgid ""
+"When you import reviews, this plugin looks up for AliExpress and Amazon "
+"product ID by SKU of WooCommerce products by default. If you want to use an "
+"other post meta field, please enter post meta name here"
+msgstr ""
+"导入评论时，此插件默认按 WooCommerce 产品的 SKU 查找速卖通和亚马逊产品 ID。 "
+"如果您想使用其他帖子元字段，请在此处输入帖子元名称"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:193
+msgid ""
+"Which page should this shortcode work on? More at <a href=\"http://codex."
+"wordpress.org/Conditional_Tags\" target=\"_blank\">WP's conditional tags</a>"
+msgstr ""
+"这个短代码应该在哪个页面使用？更多<a href=\"http://codex.wordpress.org/"
+"Conditional_Tags\" target=\"_blank\">有关 WP 的条件标记</a>"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:135
+msgid "Which ratings should be displayed?"
+msgstr "应显示哪些评级？"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:522
+msgid "Whole Review"
+msgstr "整体回顾"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1743
+msgid "Whole review"
+msgstr "整体评价"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5142
+msgid "With image only"
+msgstr "仅带有图像"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:312
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_ali.php:499
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-filters-html.php:39
+msgid "With images"
+msgstr "带图片"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:5143
+msgid "Without image only"
+msgstr "仅无图像"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4423
+msgid "WooCommerce Photo Reviews"
+msgstr "Woocommerce 照片评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/plugins/woocommerce-email-template-customizer.php:28
+msgid "WooCommerce Photo Reviews - Coupon For Review"
+msgstr "WooCommerce 照片评论 - 优惠券审查"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/plugins/woocommerce-email-template-customizer.php:32
+msgid "WooCommerce Photo Reviews - Review Reminder"
+msgstr "WooCommerce 照片评论 - 评论提醒"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/api.php:175
+msgid ""
+"WooCommerce Photo Reviews plugin is currently disabled. Please enable it to "
+"use this function."
+msgstr "WooCommerce 照片评论插件目前已禁用。请使其能够使用此功能。"
+
+#. Name of the plugin
+msgid "WooCommerce Photo Reviews Premium"
+msgstr "WooCommerce 图片评论高级版"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1025
+msgid "WooCommerce Photo Reviews Settings"
+msgstr "WooCommerce 照片评论设置"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:22
+msgid "Write Your Review"
+msgstr "撰写您的评价"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/rating-widget.php:79
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/review-form-widget.php:109
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:42
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:54
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:154
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:214
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:236
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:247
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:308
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:319
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:334
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:464
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:475
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:689
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:704
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/includes/elementor/reviews-widget.php:718
+msgid "Yes"
+msgstr "是"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:44
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/reviews_form.php:87
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:792
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/shortcode.php:869
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/frontend/single-page.php:358
+#, php-format
+msgid "You can only upload maximum of %s file"
+msgid_plural "You can only upload maximum of %s files"
+msgstr[0] "您只能上传 %s 文件的最大值"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2442
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3092
+msgid ""
+"You can use <a href=\"https://1.envato.market/BZZv1\" target=\"_blank"
+"\">WooCommerce Email Template Customizer</a> or <a href=\"http://bit.ly/woo-"
+"email-template-customizer\" target=\"_blank\">Email Template Customizer for "
+"WooCommerce</a> to create and customize your own email template. If no email "
+"template is selected, below email will be used."
+msgstr ""
+"你可以使用<a href=\"https://1.envato.market/BZZv1\" target=\"_blank"
+"\">WooCommerce电子邮件模板定制工具</a>或<a href=\"http://bit.ly/woo-email-"
+"template-customizer\" target=\"_blank\">WooCommerce的电子邮件模板定制器</a>来"
+"创建和定制你自己的邮件模板。如果没有选择电子邮件模板，将使用下面的电子邮件。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:253
+msgid "You do not have permission."
+msgstr "你没有许可。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3937
+msgid ""
+"You have to enable the use of coupon on WooCommerce settings page to use "
+"Coupon feature!"
+msgstr "您必须在 WooCommerce 设置页面上启用优惠券的使用才能使用优惠券功能！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3930
+msgid ""
+"You have to enable WooCommerce product reviews on WooCommerce settings page "
+"to use WooCommerce Photo Reviews and its features!"
+msgstr ""
+"您必须在WooCommerce设置页面上启用WooCommerce产品评论，才能使用WooCommerce照片"
+"评论及其功能！"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/import_csv.php:988
+msgid ""
+"You have to enter correct date format of review date in your csv file to map "
+"it correctly"
+msgstr "您必须在 csv 文件中输入正确的审核日期日期格式才能正确映射"
+
+#. %s opening and closing link tags respectively
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:77
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:221
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "您必须 %1$s 登录 %2$s 后才能发表评价。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:80
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:224
+msgid "Your rating"
+msgstr "你的评分"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:89
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-review-form-html.php:233
+msgid "Your review"
+msgstr "你的评论"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/review-meta.php:26
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-shortcode-template-basic-html.php:84
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/templates/viwcpr-template-masonry-html.php:138
+msgid "Your review is awaiting approval"
+msgstr "您的评论正在等待批准"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:4175
+msgid "Your settings have been saved!"
+msgstr "你的设置已保存!"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2541
+msgid "{coupon_code} - Discount coupon code will be sent to customer."
+msgstr "[coupon_code] - 折扣优惠券代码将发送给客户。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2540
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3190
+msgid "{customer_name} - Customer's name."
+msgstr "{customer_name} - 客户姓名。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3194
+msgid "{date_complete} - Order's completed date."
+msgstr "{date_complete} - 订单完成日期。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3193
+msgid "{date_create} - Order's created date."
+msgstr "{date_create}- 订单的创建日期。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:2542
+msgid "{date_expires} - Expiry date of the coupon."
+msgstr "[date_expires] - 优惠券的到期日。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1301
+msgid "{max_files} - Maximum photo quantity"
+msgstr "{max_files} - 最多允许上传文件"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:1304
+msgid "{max_size} - Maximum photo size including unit KB"
+msgstr "[max_size] - 最大照片大小，包括单位 KB"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3191
+msgid "{order_id} - Order id."
+msgstr "{order_id} - 订单 ID。"
+
+#: D:/git/woocommerce-photo-reviews/woocommerce-photo-reviews/admin/admin.php:3192
+msgid "{site_title} - Your site title."
+msgstr "{site_title} - 您的网站标题。"

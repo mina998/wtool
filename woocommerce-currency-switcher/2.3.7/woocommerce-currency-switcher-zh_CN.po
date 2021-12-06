@@ -1,0 +1,2331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WOOCS - WooCommerce Currency Switcher\n"
+"POT-Creation-Date: 2021-10-12 18:54+0800\n"
+"PO-Revision-Date: 2021-10-12 19:05+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: classes/fixed/fixed_shipping.php:28
+#, php-format
+msgid "Fixed cost %s"
+msgstr "固定成本%s"
+
+#: classes/fixed/fixed_shipping.php:30 classes/fixed/fixed_shipping_free.php:30
+#: views/fixed/product_coupon_data.php:12
+#: views/fixed/product_coupon_restriction_data.php:12
+#: views/fixed/product_coupon_restriction_data.php:16
+#: views/fixed/product_price_data.php:13 views/fixed/product_price_data.php:19
+#: views/fixed/product_price_data.php:43 views/fixed/product_price_data.php:49
+#: views/fixed/product_user_role_data.php:25
+#: views/fixed/product_user_role_data.php:31
+msgid "auto"
+msgstr "自动"
+
+#: classes/fixed/fixed_shipping_free.php:28
+#, php-format
+msgid "Minimum order amount in %s"
+msgstr "最小订购量%s"
+
+#: classes/smart-designer.php:45
+msgid "Loading ..."
+msgstr "载入中..."
+
+#: classes/smart-designer.php:46
+msgid "Loaded!"
+msgstr "已加载！"
+
+#: classes/smart-designer.php:47
+msgid "Something wrong!"
+msgstr "出什么事了!"
+
+#: classes/smart-designer.php:48
+msgid "saving ..."
+msgstr "保存中..."
+
+#: classes/smart-designer.php:49
+msgid "Saved!"
+msgstr "已保存！"
+
+#: classes/smart-designer.php:50
+msgid "Are you sure?"
+msgstr "你确定？"
+
+#: classes/smart-designer.php:51
+msgid "Created!"
+msgstr "已创建！"
+
+#: classes/smart-designer.php:52
+msgid "Creating ..."
+msgstr "创建中...."
+
+#: classes/smart-designer.php:53
+msgid "Select currency"
+msgstr "选择货币"
+
+#: classes/smart-designer.php:54 views/widgets/selector_form.php:11
+msgid "Width"
+msgstr "宽度"
+
+#: classes/smart-designer.php:55
+msgid "Width 100%"
+msgstr "100%宽度"
+
+#: classes/smart-designer.php:56
+msgid "Scale"
+msgstr "规模"
+
+#: classes/smart-designer.php:57
+msgid "Description font size"
+msgstr "描述字体大小"
+
+#: classes/smart-designer.php:58
+msgid "Show title"
+msgstr "显示标题"
+
+#: classes/smart-designer.php:59
+msgid "Title value"
+msgstr "选项"
+
+#: classes/smart-designer.php:60
+msgid "Title font size"
+msgstr "标题字体大小"
+
+#: classes/smart-designer.php:61
+msgid "Title color"
+msgstr "标题颜色"
+
+#: classes/smart-designer.php:62
+msgid "Title font"
+msgstr "标题字体"
+
+#: classes/smart-designer.php:63
+msgid "Border radius"
+msgstr "边框半径"
+
+#: classes/smart-designer.php:64
+msgid "Border color"
+msgstr "边框颜色"
+
+#: classes/smart-designer.php:65
+msgid "Show flag"
+msgstr "显示标志"
+
+#: classes/smart-designer.php:66 views/widgets/selector_form.php:32
+msgid "Flag position"
+msgstr "国旗位置"
+
+#: classes/smart-designer.php:67
+msgid "Flag height"
+msgstr "国旗高度"
+
+#: classes/smart-designer.php:68
+msgid "Flag vertical position"
+msgstr "国旗位置"
+
+#: classes/smart-designer.php:69
+msgid "Show description"
+msgstr "显示描述"
+
+#: classes/smart-designer.php:70
+msgid "Description color"
+msgstr "描述颜色"
+
+#: classes/smart-designer.php:71
+msgid "Description font"
+msgstr "描述字体"
+
+#: classes/smart-designer.php:72
+msgid "Background color"
+msgstr "背景颜色"
+
+#: classes/smart-designer.php:73
+msgid "Pointer color"
+msgstr "指针颜色"
+
+#: classes/smart-designer.php:74
+msgid "Options divider color"
+msgstr "悬停颜色"
+
+#: classes/smart-designer.php:75
+msgid "Options divider size"
+msgstr "选件分频器尺寸"
+
+#: classes/smart-designer.php:76
+msgid "Border width"
+msgstr "边框宽度"
+
+#: classes/smart-designer.php:77
+msgid "Max open height"
+msgstr "最大打开高度"
+
+#: classes/smart-designer.php:78
+msgid "Title Bold"
+msgstr "选项"
+
+#: classes/smart-designer.php:79
+msgid "Deleting ..."
+msgstr "删除中..."
+
+#: classes/smart-designer.php:80
+msgid "Deleted!"
+msgstr "已删除！"
+
+#: classes/smart-designer.php:81 views/plugin_options_1.php:1184
+#: views/plugin_options_2.php:1763
+msgid "delete"
+msgstr "删除"
+
+#: classes/smart-designer.php:82 views/plugin_options_1.php:1184
+#: views/plugin_options_2.php:1763
+msgid "edit"
+msgstr "编辑"
+
+#: classes/smart-designer.php:83
+msgid ""
+"Use special keywords and their combination: __CODE__, __SIGN__, __DESCR__. "
+"Also you can use usual static text. Example: __CODE__ - __SIGN__"
+msgstr ""
+"使用特殊关键字及其组合：__CODE__，__SIGN__，__DESCR__。您也可以使用常规的静态"
+"文本。例如：__ CODE__-__SIGN__"
+
+#: classes/statistic.php:276
+msgid "Currencies popularity"
+msgstr "货币受欢迎程度"
+
+#: classes/statistic.php:279
+msgid "Countries popularity"
+msgstr "国家/地区受欢迎程度"
+
+#: classes/widgets/widget-currency-converter.php:9
+#: classes/widgets/widget-currency-converter.php:38
+msgid "WooCommerce Currency Converter"
+msgstr "WCC货币转换器"
+
+#: classes/widgets/widget-currency-converter.php:11
+msgid "WooCommerce Currency Converter by realmag777"
+msgstr "商店汇率兑换 by 主机阵线"
+
+#: classes/widgets/widget-currency-rates.php:9
+#: classes/widgets/widget-currency-rates.php:38
+msgid "WooCommerce Currency Rates"
+msgstr "商店货币汇率"
+
+#: classes/widgets/widget-currency-rates.php:11
+msgid "WooCommerce Currency Rates by realmag777"
+msgstr "商店货币汇率 by 主机阵线"
+
+#: classes/widgets/widget-woocs-selector.php:7
+#: classes/widgets/widget-woocs-selector.php:36
+msgid "WooCommerce Currency Switcher"
+msgstr "商店货币切换"
+
+#: classes/widgets/widget-woocs-selector.php:9
+msgid "WooCommerce Currency Switcher by realmag777"
+msgstr "商店货币切换 by 主机阵线"
+
+#: classes/woocs.php:182
+msgid "EU countries"
+msgstr "国家"
+
+#: classes/woocs.php:723
+msgid "WOOCS Currency Options"
+msgstr "WOOCS货币设置"
+
+#: classes/woocs.php:745
+#, php-format
+msgid ""
+"The following options affect how prices are displayed on the frontend. "
+"WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr ""
+"以下选项会影响价格在前端的显示方式。WCC 货币切换器已激活。请设置默认%s。"
+
+#: classes/woocs.php:745
+msgid "here"
+msgstr "这里"
+
+#: classes/woocs.php:881
+#, php-format
+msgid "Base currency of the site is: %s"
+msgstr "站点的基本货币是： %s"
+
+#: classes/woocs.php:967
+msgid "Settings"
+msgstr "设置"
+
+#: classes/woocs.php:968
+msgid "Documentation"
+msgstr "文档"
+
+#: classes/woocs.php:973
+msgid "Go Pro!"
+msgstr "使用高级版！"
+
+#: classes/woocs.php:1042 classes/woocs.php:1044
+msgid "WOOCS Order Info"
+msgstr "WOOCS订单信息"
+
+#: classes/woocs.php:1254
+msgid "loading"
+msgstr "加载中"
+
+#: classes/woocs.php:1289 classes/woocs.php:1503 views/plugin_options_1.php:307
+#: views/plugin_options_1.php:323 views/plugin_options_2.php:178
+#: views/plugin_options_2.php:1487 views/plugin_options_2.php:1923
+#: views/shortcodes/woocs_rates.php:60 views/shortcodes/woocs_rates.php:68
+msgid "Currency"
+msgstr "货币"
+
+#: classes/woocs.php:1497
+msgid ""
+"Native WooCommerce price filter does not see data generated by this feature."
+msgstr "本机 WCC 价格筛选器看不到此功能生成的数据。"
+
+#: classes/woocs.php:1498
+msgid "Loading"
+msgstr "加载中"
+
+#: classes/woocs.php:1499
+msgid "Save changes please!"
+msgstr "请保存更改！"
+
+#: classes/woocs.php:1500
+msgid "Set title!"
+msgstr "设定标题！"
+
+#: classes/woocs.php:1501
+msgid "Select flag for"
+msgstr "选择标志"
+
+#: classes/woocs.php:1502
+msgid "Enter by hands or use this helper"
+msgstr "手动输入或使用此助手"
+
+#: classes/woocs.php:2225
+msgid "Current currency is:"
+msgstr "当前货币:"
+
+#: classes/woocs.php:2267
+#, php-format
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "您的国家/地区是： %s. （由 WCC Geoip 功能定义）"
+
+#: classes/woocs.php:2269
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "您的国家/地区未定义！GeoIp 服务的问题。"
+
+#: classes/woocs.php:2514 classes/woocs.php:2552 classes/woocs.php:2565
+#: classes/woocs.php:2571 classes/woocs.php:2591 classes/woocs.php:2612
+#: classes/woocs.php:2627 classes/woocs.php:2633 classes/woocs.php:2652
+#: classes/woocs.php:2669 classes/woocs.php:2704 classes/woocs.php:2721
+#: classes/woocs.php:2727 classes/woocs.php:2761 classes/woocs.php:2774
+#: classes/woocs.php:2780 classes/woocs.php:2807 classes/woocs.php:2813
+#: classes/woocs.php:2838 classes/woocs.php:2864 classes/woocs.php:2890
+#: classes/woocs.php:2908 classes/woocs.php:2912 classes/woocs.php:2931
+#: classes/woocs.php:2946 classes/woocs.php:2961 classes/woocs.php:2978
+#: classes/woocs.php:2983 classes/woocs.php:3009 classes/woocs.php:3020
+#: classes/woocs.php:3041
+#, php-format
+msgid "no data for %s"
+msgstr " %s没有数据"
+
+#: classes/woocs.php:2791 classes/woocs.php:2822 classes/woocs.php:2847
+#: classes/woocs.php:2873
+msgid "Please use the API key"
+msgstr "请使用 API 密钥"
+
+#: classes/woocs.php:3128
+msgid "Total in basic currency: "
+msgstr "基础货币总计: "
+
+#: classes/woocs.php:3515
+#, php-format
+msgid "The maximum spend for this coupon is %s."
+msgstr "这个优惠券的最大花费是 %s。"
+
+#: classes/woocs.php:3520
+#, php-format
+msgid "The minimum spend for this coupon is %s."
+msgstr "这个优惠券的最小花费是 %s。"
+
+#: classes/woocs.php:4842
+#, php-format
+msgid "(Approx. %s)"
+msgstr "(约等于 %s)"
+
+#: classes/woocs.php:5197
+msgid "change the rate and this description to the right values"
+msgstr "将速率和此描述更改为正确的值"
+
+#: classes/woocs.php:5432
+msgid "Recalculate all orders"
+msgstr "重新计算所有订单"
+
+#: classes/woocs.php:5432
+msgid ""
+"Recalculate all orders with basic currency. Recommended test this option on "
+"the clone of your site! Read the documentation of the plugin about it!"
+msgstr ""
+"使用基本货币重新计算所有订单。建议在站点的克隆上测试此选项！阅读插件的文档！"
+
+#: classes/woocs.php:5509
+msgid "No such profile"
+msgstr "没有这样的配置文件"
+
+#: classes/woocs.php:5512
+msgid "Profile is deleted"
+msgstr "配置文件被删除"
+
+#: classes/woocs.php:5577
+msgid "New profile"
+msgstr "新配置文件"
+
+#: classes/woocs.php:5589
+msgid "is updated!"
+msgstr "已更新!"
+
+#: classes/woocs.php:5593
+msgid "is added!"
+msgstr "已添加!"
+
+#: classes/woocs.php:5655
+msgid "Later"
+msgstr "稍后"
+
+#: classes/woocs.php:5657
+#, php-format
+msgid "Hi! Are you enjoying using %s?"
+msgstr "你好！您喜欢使用%s吗？"
+
+#: classes/woocs.php:5658
+msgid "Yes, I love it"
+msgstr "是的，我喜欢它"
+
+#: classes/woocs.php:5658
+msgid "Not really..."
+msgstr "不是真的..."
+
+#: classes/woocs.php:5662
+#, php-format
+msgid ""
+"That's awesome! Could you please do us a BIG favor and give it a 5-star "
+"rating on %s to help us spread the word and boost our motivation?"
+msgstr ""
+"太棒了！你能帮我们一个大忙， 并给它一个 5 星级的评级%s， 以帮助我们传播这个"
+"词， 提高我们的动机？"
+
+#: classes/woocs.php:5665
+msgid "Okay, you deserve it"
+msgstr "这是你理所应得的"
+
+#: classes/woocs.php:5666
+msgid "Nope, maybe later"
+msgstr "不,以后再说"
+
+#: classes/woocs.php:5667
+msgid "I already did"
+msgstr "我已经做了"
+
+#: classes/woocs.php:5672
+msgid ""
+"We are sorry to hear you aren't enjoying WOOCS. We would love a chance to "
+"improve it. Could you take a minute and let us know what we can do better?"
+msgstr ""
+"我们很遗憾听到你不享受伍克斯。我们希望有机会改进它。你能花点时间告诉我们我们"
+"可以做得更好吗？"
+
+#: classes/woocs.php:5674
+msgid "Give Feedback"
+msgstr "给予反馈"
+
+#: classes/woocs.php:5675
+msgid "No thanks"
+msgstr "不用了，谢谢"
+
+#: views/fixed/product_coupon_data.php:11
+msgid "Coupon amount"
+msgstr "优惠券金额"
+
+#: views/fixed/product_coupon_data.php:17
+#: views/fixed/product_coupon_restriction_data.php:21
+#: views/fixed/product_price_data.php:24 views/fixed/product_price_data.php:54
+#: views/fixed/product_user_role_data.php:36 views/plugin_options_2.php:2056
+#: views/plugin_options_2.php:2057
+msgid "Remove"
+msgstr "删除"
+
+#: views/fixed/product_coupon_data.php:31
+msgid "The coupon fixed amount rules"
+msgstr "优惠券固定金额规则"
+
+#: views/fixed/product_coupon_data.php:42
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - 优惠券固定金额"
+
+#: views/fixed/product_coupon_data.php:42
+msgid ""
+"Here you can set FIXED amount for the coupon for any currency you want. In "
+"the case of empty amount field recounting by rate will work!"
+msgstr ""
+"在这里，您可以为所需的任何货币的优惠券设置 FIXED 金额。在空金额的情况下字段按"
+"费率重新计票将工作！"
+
+#: views/fixed/product_coupon_data.php:53
+#: views/fixed/product_coupon_restriction_data.php:58
+#: views/fixed/product_price_data.php:127
+msgid "Add"
+msgstr "添加"
+
+#: views/fixed/product_coupon_data.php:54
+#: views/fixed/product_coupon_restriction_data.php:59
+#: views/fixed/product_price_data.php:128
+msgid "Add all"
+msgstr "添加所有"
+
+#: views/fixed/product_coupon_restriction_data.php:11
+msgid "Minimum spend"
+msgstr "最低支出"
+
+#: views/fixed/product_coupon_restriction_data.php:15
+msgid "Maximum spend"
+msgstr "最高消费"
+
+#: views/fixed/product_coupon_restriction_data.php:35
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "优惠券固定最小和最大支出规则"
+
+#: views/fixed/product_coupon_restriction_data.php:47
+msgid "WOOCS - fixed Minimum and Maximum spend"
+msgstr "WOOCS - 最低和最高支出"
+
+#: views/fixed/product_coupon_restriction_data.php:47
+msgid ""
+"Here you can set FIXED amount for the coupon for any the currency you want. "
+"In the case of empty amount field - will work recounting by rate!"
+msgstr ""
+"在这里，您可以为所需的任何货币的优惠券设置 FIXED 金额。在空金额的情况下字段按"
+"费率重新计票将工作！"
+
+#: views/fixed/product_price_data.php:12 views/fixed/product_price_data.php:42
+#: views/fixed/product_user_role_data.php:24
+msgid "Regular price"
+msgstr "正常价格"
+
+#: views/fixed/product_price_data.php:18 views/fixed/product_price_data.php:48
+#: views/fixed/product_user_role_data.php:30
+msgid "Sale price"
+msgstr "销售价格"
+
+#: views/fixed/product_price_data.php:61
+msgid "select some countries"
+msgstr "选择某些国家/地区"
+
+#: views/fixed/product_price_data.php:69 views/plugin_options_1.php:1009
+#: views/plugin_options_2.php:1370
+msgid "GeoIP profiles"
+msgstr "地理IP配置文件"
+
+#: views/fixed/product_price_data.php:84
+msgid "Load countries from profile"
+msgstr "从配置文件加载国家/地区"
+
+#: views/fixed/product_price_data.php:98
+msgid "The product fixed prices rules"
+msgstr "产品固定价格规则"
+
+#: views/fixed/product_price_data.php:102
+msgid "The product custom GeoIP rules"
+msgstr "产品自定义地理IP规则"
+
+#: views/fixed/product_price_data.php:116
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - 产品固定价格"
+
+#: views/fixed/product_price_data.php:116
+msgid ""
+"Here you can set FIXED price for the product for any the currency you want. "
+"In the case of empty amount field - will work recounting by rate!"
+msgstr ""
+"您可以在这里为您想要的任何货币设置产品的固定价格。在金额字段为空的情况下 - 将"
+"按比率重新计算！"
+
+#: views/fixed/product_price_data.php:152
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - 产品自定义地理IP规则"
+
+#: views/fixed/product_price_data.php:152
+msgid ""
+"Here you can set prices in the basic currency for different countries, and "
+"recount will be done relatively of this values. ATTENTION: fixed price has "
+"higher priority!"
+msgstr ""
+"在这里你可以设置不同国家的基本货币的价格，并且会相对于这个值进行重新计算。注"
+"意：固定价格具有更高的优先级！"
+
+#: views/fixed/product_price_data.php:154
+#: views/fixed/product_user_role_data.php:63
+msgid "Add group"
+msgstr "添加组"
+
+#: views/fixed/product_user_role_data.php:9
+msgid "The price based on user role"
+msgstr "基于用户角色的价格"
+
+#: views/fixed/product_user_role_data.php:45
+msgid "select user role"
+msgstr "选择用户角色"
+
+#: views/fixed/product_user_role_data.php:61
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - 基于用户角色的价格"
+
+#: views/fixed/product_user_role_data.php:61
+msgid ""
+"Gives ability to set different prices for each user role. Native WooCommerce "
+"price filter is blind for this data!"
+msgstr ""
+"提供为每个用户角色设置不同价格的能力。本地 WooCommerce 价格过滤器是盲目的这个"
+"数据！"
+
+#: views/plugin_options_1.php:15 views/plugin_options_2.php:243
+msgid "Welcome currency"
+msgstr "欢迎货币"
+
+#: views/plugin_options_1.php:16
+msgid ""
+"In wich currency show prices for first visit of your customer on your site. "
+"Do not do it private to avoid logic mess!"
+msgstr ""
+"在wich 货币中显示客户第一次访问您网站上的价格。不要私下做，以避免逻辑混乱！"
+
+#: views/plugin_options_1.php:25 views/plugin_options_2.php:261
+msgid "Currency aggregator"
+msgstr "货币聚合器"
+
+#: views/plugin_options_1.php:26 views/plugin_options_2.php:271
+msgid ""
+"Currency aggregators. Note: If you know aggregator which not is represented "
+"in WOOCS write request on support please with suggestion to add it!"
+msgstr ""
+"货币聚合器。注意： 如果您知道聚合器在 WOOCS 中不表示， 请就支持请求添加它！"
+
+#: views/plugin_options_1.php:35 views/plugin_options_2.php:279
+msgid "Aggregator API key"
+msgstr "聚合器API密钥"
+
+#: views/plugin_options_1.php:36
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "某些聚合器需要 API 密钥。请参阅下面的提示如何得到它！"
+
+#: views/plugin_options_1.php:44 views/plugin_options_2.php:300
+msgid "Currency storage"
+msgstr "货币存储"
+
+#: views/plugin_options_1.php:45
+msgid ""
+"In some servers there is troubles with sessions, and after currency "
+"selecting its reset to welcome currency or geo ip currency. In such case use "
+"transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr ""
+"在某些服务器中，会话存在问题，在货币选择其重置后，将欢迎货币或地理 ip 货币。"
+"在这种情况下，使用瞬态。如果有可能在您的主机使用 Memcached 或 Redis！"
+
+#: views/plugin_options_1.php:54 views/plugin_options_2.php:318
+msgid "Storage server"
+msgstr "存储节点"
+
+#: views/plugin_options_1.php:55 views/plugin_options_2.php:328
+msgid ""
+"Server or socket for: memcached or redis. Usually is localhost. Read your "
+"hosting documentation about what host to use for memcached or redis."
+msgstr ""
+"服务器或套接字：内存或重做。通常是本地主机。阅读有关要用于 memcached 或 "
+"redis 的主机的托管文档。"
+
+#: views/plugin_options_1.php:63 views/plugin_options_2.php:336
+msgid "Storage port"
+msgstr "储存端口"
+
+#: views/plugin_options_1.php:64 views/plugin_options_2.php:346
+msgid ""
+"Port for: memcached or redis. Usually for memcached port is 11211, for redis "
+"port is 6379. Read your hosting documentation about what port to use for "
+"memcached or redis."
+msgstr ""
+"端口： memcached 或 redis 。通常对于 memcached 端口是 11211，对于 redis 端口"
+"是 6379。阅读有关用于 memcached 或 redis 的端口的托管文档。"
+
+#: views/plugin_options_1.php:72 views/plugin_options_2.php:354
+msgid "Rate auto update"
+msgstr "汇率自动更新"
+
+#: views/plugin_options_1.php:73 views/plugin_options_2.php:378
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "货币按 WordPress cron 自动更新。"
+
+#: views/plugin_options_1.php:79 views/plugin_options_2.php:360
+msgid "no auto update"
+msgstr "不自动更新"
+
+#: views/plugin_options_1.php:80 views/plugin_options_2.php:361
+msgid "hourly"
+msgstr "每小时"
+
+#: views/plugin_options_1.php:81 views/plugin_options_2.php:362
+msgid "twicedaily"
+msgstr "每日两次"
+
+#: views/plugin_options_1.php:82 views/plugin_options_2.php:363
+msgid "daily"
+msgstr "每天"
+
+#: views/plugin_options_1.php:83 views/plugin_options_2.php:364
+msgid "weekly"
+msgstr "每周"
+
+#: views/plugin_options_1.php:84 views/plugin_options_2.php:365
+msgid "monthly"
+msgstr "每月"
+
+#: views/plugin_options_1.php:85 views/plugin_options_2.php:366
+msgid "special: each minute"
+msgstr "特别：每分钟"
+
+#: views/plugin_options_1.php:86 views/plugin_options_2.php:367
+msgid "special: each 5 minutes"
+msgstr "特别： 每 5 分钟"
+
+#: views/plugin_options_1.php:87 views/plugin_options_2.php:368
+msgid "special: each 15 minutes"
+msgstr "特别：每15分钟"
+
+#: views/plugin_options_1.php:88 views/plugin_options_2.php:369
+msgid "special: each 30 minutes"
+msgstr "特别： 每 30 分钟"
+
+#: views/plugin_options_1.php:89 views/plugin_options_2.php:370
+msgid "special: each 45 minutes"
+msgstr "特别： 每 45 分钟"
+
+#: views/plugin_options_1.php:94
+msgid "Custom money signs"
+msgstr "自定义货币符号"
+
+#: views/plugin_options_1.php:95
+msgid ""
+"Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated "
+"by commas"
+msgstr ""
+"在您的商店中添加您的货币符号。 示例：$ USD，AAA，AUD $，DDD  - 以逗号分隔"
+
+#: views/plugin_options_1.php:103 views/plugin_options_2.php:404
+msgid "Custom price format"
+msgstr "自定义价格格式"
+
+#: views/plugin_options_1.php:104 views/plugin_options_2.php:414
+msgid ""
+"Set your format how to display price on front. Use keys: __CODE__,__PRICE__. "
+"Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr ""
+"设置您在前端显示价格的格式. Use keys: __CODE__,__PRICE__. 留空使用默认格式. "
+"Example: __PRICE__ (__CODE__)"
+
+#: views/plugin_options_1.php:112 views/plugin_options_2.php:422
+msgid "Prices without cents"
+msgstr "价格没有零头"
+
+#: views/plugin_options_1.php:113
+msgid ""
+"Recount prices without cents everywhere like in JPY and TWD which by its "
+"nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout "
+"after setup!"
+msgstr ""
+"重估没有美分的价格，例如日元和新台币，从本质上讲没有美分。使用逗号。例如："
+"UAH，RUB。设置后对其进行测试以进行结帐！"
+
+#: views/plugin_options_1.php:139
+msgid "Modern WOOCS admin theme"
+msgstr "现代 WOOCS 管理主题"
+
+#: views/plugin_options_1.php:140
+#, php-format
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "WCC货币切换器 v.%s"
+
+#: views/plugin_options_1.php:141 views/plugin_options_2.php:25
+#, php-format
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "实现 WCC v.%s.x"
+
+#: views/plugin_options_1.php:149 views/plugin_options_2.php:31
+#, php-format
+msgid ""
+"Your version of WooCommerce plugin is too obsolete. Update minimum to %s "
+"version to avoid malfunctionality!"
+msgstr "您的WCC插件版本太过陈旧。 将最小值更新为 %s 版本以避免出现故障！"
+
+#: views/plugin_options_1.php:164 views/plugin_options_2.php:41
+msgid "Currencies"
+msgstr "货币"
+
+#: views/plugin_options_1.php:170 views/plugin_options_2.php:47
+msgid "Options"
+msgstr "页面设置"
+
+#: views/plugin_options_1.php:175 views/plugin_options_2.php:53
+msgid "Advanced"
+msgstr "高级"
+
+#: views/plugin_options_1.php:183 views/plugin_options_2.php:63
+msgid "Payments"
+msgstr "支付"
+
+#: views/plugin_options_1.php:194 views/plugin_options_2.php:74
+msgid "GeoIP"
+msgstr "Geo IP"
+
+#: views/plugin_options_1.php:204 views/plugin_options_1.php:650
+#: views/plugin_options_1.php:661 views/plugin_options_2.php:83
+#: views/plugin_options_2.php:870 views/plugin_options_2.php:881
+#: views/plugin_options_2.php:1464
+msgid "Statistic"
+msgstr "统计"
+
+#: views/plugin_options_1.php:213 views/plugin_options_2.php:91
+msgid "Designer"
+msgstr "设计者"
+
+#: views/plugin_options_1.php:221 views/plugin_options_2.php:943
+msgid "Side switcher"
+msgstr "侧边栏开关"
+
+#: views/plugin_options_1.php:230 views/plugin_options_2.php:106
+msgid "Help"
+msgstr "帮助"
+
+#: views/plugin_options_1.php:243
+msgid "Add Currency"
+msgstr "新增货币类型"
+
+#: views/plugin_options_1.php:244 views/plugin_options_2.php:120
+msgid "Update all rates"
+msgstr "更新所有费率"
+
+#: views/plugin_options_1.php:245
+msgid "Add custom money sign"
+msgstr "添加自定义货币符号"
+
+#: views/plugin_options_1.php:252 views/plugin_options_2.php:127
+msgid "Not styled drop-down"
+msgstr "没有样式的下拉菜单"
+
+#: views/plugin_options_1.php:253 views/plugin_options_2.php:128
+msgid "Style #1"
+msgstr "样式 #1"
+
+#: views/plugin_options_1.php:254 views/plugin_options_2.php:129
+msgid "Style #2"
+msgstr "样式 #2"
+
+#: views/plugin_options_1.php:255 views/plugin_options_2.php:130
+msgid "Style #3"
+msgstr "样式 #3"
+
+#: views/plugin_options_1.php:256 views/plugin_options_2.php:131
+msgid "Flags (as images)"
+msgstr "国旗（如图像）"
+
+#: views/plugin_options_1.php:258 views/plugin_options_2.php:133
+msgid "ddslick drop-down"
+msgstr "下拉列表"
+
+#: views/plugin_options_1.php:259 views/plugin_options_2.php:134
+msgid "Chosen drop-down"
+msgstr "选择下拉菜单"
+
+#: views/plugin_options_1.php:260 views/plugin_options_2.php:135
+msgid "Chosen dark drop-down"
+msgstr "选择深色下拉菜单"
+
+#: views/plugin_options_1.php:261 views/plugin_options_2.php:136
+msgid "wSelect drop-down"
+msgstr "选择下拉菜单"
+
+#: views/plugin_options_1.php:267 views/plugin_options_2.php:142
+msgid ""
+"How to display currency switcher (by default) on the site front. (NEW) Make "
+"your attention on skins with numbers - you can use them on the same page "
+"with different designs in shortcode [woocs] described in its attribute style "
+"and style number (see Codex page in Info Help tab)!"
+msgstr ""
+"如何在网站上显示货币切换器（默认情况下）。（新）将注意力放在有数字的皮肤上 - "
+"您可以在其属性样式和样式编号中描述的短代码 [woocs] 中使用不同的设计在同一页面"
+"上使用它们（请参阅信息帮助选项卡中的 Codex 页面）！"
+
+#: views/plugin_options_1.php:306 views/plugin_options_1.php:322
+#: views/plugin_options_2.php:174 views/plugin_options_2.php:1896
+msgid "Basic"
+msgstr "基本"
+
+#: views/plugin_options_1.php:308 views/plugin_options_1.php:324
+#: views/plugin_options_2.php:179 views/plugin_options_2.php:1927
+msgid "Symbol"
+msgstr "符号"
+
+#: views/plugin_options_1.php:309 views/plugin_options_1.php:325
+#: views/plugin_options_2.php:180 views/plugin_options_2.php:1935
+msgid "Position"
+msgstr "位置"
+
+#: views/plugin_options_1.php:310 views/plugin_options_1.php:326
+#: views/plugin_options_2.php:182 views/plugin_options_2.php:1979
+msgid "Decimal"
+msgstr "十进制"
+
+#: views/plugin_options_1.php:311 views/plugin_options_1.php:327
+#: views/plugin_options_1.php:1460 views/plugin_options_1.php:1462
+#: views/plugin_options_2.php:184 views/plugin_options_2.php:1997
+#: views/plugin_options_2.php:1999
+msgid "Separators"
+msgstr "分隔符"
+
+#: views/plugin_options_1.php:312 views/plugin_options_1.php:328
+msgid "Rate and Interest"
+msgstr "利率和利息"
+
+#: views/plugin_options_1.php:313 views/plugin_options_1.php:329
+#: views/plugin_options_2.php:187 views/plugin_options_2.php:2030
+msgid "Cents"
+msgstr "度量单位(分)"
+
+#: views/plugin_options_1.php:314 views/plugin_options_1.php:330
+msgid "Visibility"
+msgstr "可见性"
+
+#: views/plugin_options_1.php:315 views/plugin_options_1.php:331
+#: views/plugin_options_1.php:1206 views/plugin_options_2.php:188
+#: views/plugin_options_2.php:250 views/plugin_options_2.php:268
+#: views/plugin_options_2.php:286 views/plugin_options_2.php:307
+#: views/plugin_options_2.php:325 views/plugin_options_2.php:343
+#: views/plugin_options_2.php:375 views/plugin_options_2.php:393
+#: views/plugin_options_2.php:411 views/plugin_options_2.php:429
+#: views/plugin_options_2.php:447 views/plugin_options_2.php:465
+#: views/plugin_options_2.php:483 views/plugin_options_2.php:501
+#: views/plugin_options_2.php:519 views/plugin_options_2.php:537
+#: views/plugin_options_2.php:557 views/plugin_options_2.php:575
+#: views/plugin_options_2.php:593 views/plugin_options_2.php:611
+#: views/plugin_options_2.php:629 views/plugin_options_2.php:662
+#: views/plugin_options_2.php:684 views/plugin_options_2.php:709
+#: views/plugin_options_2.php:742 views/plugin_options_2.php:760
+#: views/plugin_options_2.php:786 views/plugin_options_2.php:804
+#: views/plugin_options_2.php:859 views/plugin_options_2.php:888
+#: views/plugin_options_2.php:906 views/plugin_options_2.php:922
+#: views/plugin_options_2.php:970 views/plugin_options_2.php:1005
+#: views/plugin_options_2.php:1034 views/plugin_options_2.php:1055
+#: views/plugin_options_2.php:1075 views/plugin_options_2.php:1096
+#: views/plugin_options_2.php:1117 views/plugin_options_2.php:1138
+#: views/plugin_options_2.php:1169 views/plugin_options_2.php:1187
+#: views/plugin_options_2.php:1205 views/plugin_options_2.php:1233
+#: views/plugin_options_2.php:1788 views/plugin_options_2.php:2052
+msgid "Description"
+msgstr "描述"
+
+#: views/plugin_options_1.php:316 views/plugin_options_1.php:332
+#: views/plugin_options_1.php:1207 views/plugin_options_1.php:1549
+#: views/plugin_options_2.php:177 views/plugin_options_2.php:1789
+#: views/plugin_options_2.php:1910 views/plugin_options_2.php:1919
+#: views/shortcodes/woocs_rates.php:59 views/shortcodes/woocs_rates.php:67
+msgid "Flag"
+msgstr "旗帜"
+
+#: views/plugin_options_1.php:368 views/plugin_options_2.php:221
+msgid ""
+"Read wiki about Currency Active codes  <-  Get right currencies codes here "
+"if you are not sure about it!"
+msgstr "如果你不知道货币代码，请点击这里查看！"
+
+#: views/plugin_options_1.php:384 views/plugin_options_2.php:440
+msgid "Show flags by default"
+msgstr "默认显示国旗"
+
+#: views/plugin_options_1.php:385
+msgid "Show/hide flags on the front drop-down"
+msgstr "下拉列表显示/隐藏国旗"
+
+#: views/plugin_options_1.php:394 views/plugin_options_2.php:458
+msgid "No GET data in link"
+msgstr "链接中没有获取数据"
+
+#: views/plugin_options_1.php:395
+msgid "Switches currency without GET properties (?currency=USD) in the link."
+msgstr ""
+"在链接中切换没有GET属性（？currency = USD）的货币。 适用于woocommerce> "
+"3.3.0。"
+
+#: views/plugin_options_1.php:404
+msgid "Show money signs"
+msgstr "显示货币符号"
+
+#: views/plugin_options_1.php:405
+msgid "Show/hide money signs on the front drop-down"
+msgstr "下拉列表显示/隐藏货币符号"
+
+#: views/plugin_options_1.php:415 views/plugin_options_2.php:494
+msgid "Show price info icon"
+msgstr "显示价格信息图标"
+
+#: views/plugin_options_1.php:416 views/plugin_options_2.php:504
+msgid ""
+"Show info icon near the price of the product which while its under hover "
+"shows prices of products in all currencies"
+msgstr "显示产品的价格而同时其下悬停显示所有货币的产品价格"
+
+#: views/plugin_options_1.php:426 views/plugin_options_2.php:512
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "有关“费率自动更新”结果的电子邮件通知"
+
+#: views/plugin_options_1.php:427
+msgid ""
+"After cron done - new currency rates will be sent on the site admin email. "
+"ATTENTION: if you not got emails - it is mean that PHP function mail() "
+"doesnt work on your server or sending emails by this function is locked."
+msgstr ""
+"cron 完成后 - 新的货币汇率将在网站管理员电子邮件上发送。注意：如果您没有收到"
+"电子邮件 - 这意味着 PHP 函数mail() 在您的服务器上不起作用或通过此功能发送电子"
+"邮件被锁定。"
+
+#: views/plugin_options_1.php:437 views/plugin_options_2.php:530
+msgid "Hide switcher on checkout page"
+msgstr "结帐页面上隐藏切换器"
+
+#: views/plugin_options_1.php:438
+msgid ""
+"Hide switcher on checkout page for any of your reason. Better restrike for "
+"users change currency on checkout page in multiple mode."
+msgstr ""
+"出于任何原因，在结帐页面上隐藏切换器。 用户更好的重新启动可以在多种模式下在结"
+"帐页面上更改货币。"
+
+#: views/plugin_options_1.php:448 views/plugin_options_1.php:887
+#: views/plugin_options_2.php:899 views/plugin_options_2.php:1225
+msgid "Payments rules"
+msgstr "付款规则"
+
+#: views/plugin_options_1.php:449
+msgid ""
+"Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "根据当前货币在结账页面上隐藏/显示付款系统"
+
+#: views/plugin_options_1.php:459
+msgid "Show approx. amount"
+msgstr "显示大约金额"
+
+#: views/plugin_options_1.php:460
+msgid ""
+"Show approximate amount on the checkout and the cart page with currency of "
+"user defined by IP in the GeoIp rules tab. Works only with currencies rates "
+"data and NOT with fixed prices rules and geo rules."
+msgstr ""
+"在结帐页面和购物车页面上显示大概的金额，并在GeoIp规则标签中显示由IP定义的用户"
+"币种。仅适用于货币汇率数据，不适用于固定价格规则和地理位置规则。"
+
+#: views/plugin_options_1.php:470 views/plugin_options_2.php:568
+msgid "Show approx. price"
+msgstr "显示大约价格"
+
+#: views/plugin_options_1.php:471
+msgid ""
+"Show approximate price on the shop and the single product page with currency "
+"of user defined by IP in the GeoIp rules tab. Works only with currencies "
+"rates data and NOT with fixed prices rules and geo rules."
+msgstr ""
+"在商店和单一产品页面上显示大概价格，并在GeoIp规则标签中显示由IP定义的用户币"
+"种。仅适用于货币汇率数据，不适用于固定价格规则和地理位置规则。"
+
+#: views/plugin_options_1.php:483 views/plugin_options_2.php:586
+msgid "I am using cache plugin on my site"
+msgstr "使用我的网站上缓存插件"
+
+#: views/plugin_options_1.php:484 views/plugin_options_2.php:596
+msgid ""
+"Set Yes here ONLY if you are REALLY use cache plugin for your site, for "
+"example like Super cache or Hiper cache (doesn matter). + Set \"Custom price "
+"format\", for example: __PRICE__ (__CODE__). After enabling this feature - "
+"clean your cache to make it works. It will allow show prices in selected "
+"currency on all pages of site. Fee for this feature - additional AJAX "
+"queries for products prices redrawing."
+msgstr ""
+"仅在此处设置是，如果您真的为您的站点使用缓存插件，例如超级缓存或Hiper缓存（无"
+"关紧要）。 +设置“自定义价格格式”，例如：__ PRICE __（__ CODE_）。 启用此功能"
+"后 - 清理缓存以使其正常工作。 它将允许在网站的所有页面上以选定的货币显示价"
+"格。 此功能的费用 - 针对产品价格重新绘制的其他AJAX查询。"
+
+#: views/plugin_options_1.php:493 views/plugin_options_2.php:604
+msgid "Prices preloader"
+msgstr "价格预加载器"
+
+#: views/plugin_options_1.php:494 views/plugin_options_2.php:614
+msgid "For ajax  redraw."
+msgstr "对于ajax重绘。"
+
+#: views/plugin_options_1.php:504 views/plugin_options_2.php:622
+msgid "Show options button on top admin bar."
+msgstr "在顶部管理栏上显示选项按钮。"
+
+#: views/plugin_options_1.php:505 views/plugin_options_2.php:632
+msgid ""
+"Show WOOCS options button on top admin bar for quick access. Very handy for "
+"active work. Visible for site administrators only!"
+msgstr ""
+"在顶部管理栏上显示“ WOOCS选项”按钮可快速访问。非常适合从事积极工作。仅对网站"
+"管理员可见！"
+
+#: views/plugin_options_1.php:514 views/plugin_options_2.php:640
+msgid "Disable on pages"
+msgstr "在页面页上禁用"
+
+#: views/plugin_options_1.php:515 views/plugin_options_2.php:665
+msgid ""
+"Disabling or Enabling WOOCS on the described pages only. Use comma and pages "
+"slugs. Example: blog,account"
+msgstr "仅在所述页面上禁用或启用 WOOCS。使用逗号和页子。示例：博客、帐户"
+
+#: views/plugin_options_1.php:520 views/plugin_options_2.php:646
+msgid "Direct use"
+msgstr "直接"
+
+#: views/plugin_options_1.php:521 views/plugin_options_2.php:647
+msgid "Reverse use"
+msgstr "反向使用"
+
+#: views/plugin_options_1.php:528 views/plugin_options_2.php:654
+msgid "Reverse this option"
+msgstr "反转此选项"
+
+#: views/plugin_options_1.php:550 views/plugin_options_1.php:561
+#: views/plugin_options_2.php:691 views/plugin_options_2.php:702
+msgid "Is multiple allowed"
+msgstr "允许多个"
+
+#: views/plugin_options_1.php:551
+msgid ""
+"Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "客户将选择货币或默认货币支付."
+
+#: views/plugin_options_1.php:556 views/plugin_options_1.php:656
+#: views/plugin_options_2.php:697 views/plugin_options_2.php:876
+msgid "No"
+msgstr "否"
+
+#: views/plugin_options_1.php:557 views/plugin_options_1.php:657
+#: views/plugin_options_2.php:698 views/plugin_options_2.php:877
+msgid "Yes"
+msgstr "是"
+
+#: views/plugin_options_1.php:573 views/plugin_options_2.php:720
+msgid "Individual fixed prices rules for each product"
+msgstr "每种产品的个别固定价格规则"
+
+#: views/plugin_options_1.php:574 views/plugin_options_2.php:745
+msgid ""
+"You will be able to set FIXED prices for simple and variable products. "
+"ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "您将能够为简单和可变的产品设置固定价格。注意：应启用“允许多个”！"
+
+#: views/plugin_options_1.php:583 views/plugin_options_1.php:644
+#: views/plugin_options_2.php:733 views/plugin_options_2.php:845
+msgid "Watch video instructions"
+msgstr "观看视频说明"
+
+#: views/plugin_options_1.php:590 views/plugin_options_2.php:753
+msgid "Checkout by GeoIP rules"
+msgstr "按 GeoIP 规则结账"
+
+#: views/plugin_options_1.php:591
+msgid ""
+"Force the customers to pay on checkout page by rules defined in 'GeoIP "
+"rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable "
+"fixed pricing' and also installed fixed prices rules in the products for "
+"different currencies!"
+msgstr ""
+"根据“GeoIP 规则”选项卡中定义的规则强制客户在结帐页面上付款。注意：如果您启用"
+"了“启用固定定价”并在不同货币的产品中安装了固定价格规则，则此功能具有逻辑意"
+"义！"
+
+#: views/plugin_options_1.php:594 views/plugin_options_2.php:766
+#, php-format
+msgid "Your country is: %s"
+msgstr "您所在的国家是：%s"
+
+#: views/plugin_options_1.php:596 views/plugin_options_2.php:768
+msgid ""
+"Your country is not defined! Troubles with internet connection or GeoIp "
+"service."
+msgstr "您的国家未定义！互联网连接或GeoIp服务出现问题。"
+
+#: views/plugin_options_1.php:608 views/plugin_options_2.php:779
+msgid "Individual fixed amount for coupon"
+msgstr "个人固定金额的优惠券"
+
+#: views/plugin_options_1.php:609 views/plugin_options_2.php:789
+msgid ""
+"You will be able to set FIXED amount for coupon for each currency. "
+"ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "您将能够为每种货币设置优惠券的固定金额。注意：应启用“允许多个”！"
+
+#: views/plugin_options_1.php:618 views/plugin_options_2.php:797
+msgid "Individual fixed amount for shipping"
+msgstr "个人固定运费"
+
+#: views/plugin_options_1.php:619 views/plugin_options_2.php:807
+msgid ""
+"You will be able to set FIXED amount for each currency for free and all "
+"another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr ""
+"您将能够免费为每种货币设置固定金额和所有其他运输方式。注意： 应启用\"允许多个"
+"\"！"
+
+#: views/plugin_options_1.php:627 views/plugin_options_2.php:815
+msgid "Individual prices based on user role"
+msgstr "基于用户角色的个人价格"
+
+#: views/plugin_options_1.php:628 views/plugin_options_2.php:825
+msgid "Gives ability to set different prices for each user role"
+msgstr "提供为每个用户角色设置不同价格的能力"
+
+#: views/plugin_options_1.php:637 views/plugin_options_2.php:835
+msgid "Individual GeoIP rules for each product"
+msgstr "每个产品的单独GeoIP规则"
+
+#: views/plugin_options_1.php:638 views/plugin_options_2.php:862
+msgid ""
+"You will be able to set different prices for each product (in BASIC "
+"currency) for different countries"
+msgstr "您将能够为不同国家/地区的每个产品（基本货币）设置不同的价格"
+
+#: views/plugin_options_1.php:645 views/plugin_options_2.php:851
+msgid "a hint"
+msgstr "提示"
+
+#: views/plugin_options_1.php:651 views/plugin_options_2.php:891
+msgid ""
+"Collect currencies switching statistic for business purposes. No any private "
+"data of customers collects, only currency, country and time of switching. "
+"Also statistic for order currencies is there."
+msgstr ""
+"出于业务目的收集货币转换统计信息。不会收集任何客户的私人数据，只会收集货币，"
+"国家/地区和切换时间。还有订单货币的统计信息。"
+
+#: views/plugin_options_1.php:674 views/plugin_options_2.php:917
+msgid "Notes*"
+msgstr "备注*"
+
+#: views/plugin_options_1.php:679 views/plugin_options_2.php:925
+msgid ""
+"Native WooCommerce price filter is blind for all data generated by marked "
+"features"
+msgstr "本机 WCC 价格过滤器对于由标记功能生成的所有数据都是盲目的"
+
+#: views/plugin_options_1.php:699
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+#: views/plugin_options_1.php:700
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "在页面上启用/禁用辅助货币切换器"
+
+#: views/plugin_options_1.php:714 views/plugin_options_2.php:981
+msgid "Skin"
+msgstr "皮肤"
+
+#: views/plugin_options_1.php:715
+msgid "Style of the switcher on the site front"
+msgstr "站点前部切换器的样式"
+
+#: views/plugin_options_1.php:720 views/plugin_options_2.php:987
+msgid "Classic blocks"
+msgstr "经典块"
+
+#: views/plugin_options_1.php:721 views/plugin_options_2.php:988
+msgid "Roll blocks"
+msgstr "滚动块"
+
+#: views/plugin_options_1.php:723 views/plugin_options_2.php:989
+msgid "Round select"
+msgstr "回合选择"
+
+#: views/plugin_options_1.php:727 views/plugin_options_2.php:994
+msgid "Choice skin"
+msgstr "选择皮肤"
+
+#: views/plugin_options_1.php:734 views/plugin_options_2.php:1000
+msgid "enter roll width"
+msgstr "输入滚动宽度"
+
+#: views/plugin_options_1.php:741 views/plugin_options_2.php:99
+#: views/plugin_options_2.php:1016
+msgid "Side"
+msgstr "侧边"
+
+#: views/plugin_options_1.php:742 views/plugin_options_2.php:1037
+msgid "The side where the switcher is be placed"
+msgstr "放置切换台的一侧"
+
+#: views/plugin_options_1.php:747 views/plugin_options_2.php:1022
+msgid "Left"
+msgstr "左侧"
+
+#: views/plugin_options_1.php:748 views/plugin_options_2.php:1023
+msgid "Right"
+msgstr "右侧"
+
+#: views/plugin_options_1.php:752 views/plugin_options_2.php:1027
+msgid "Choice side"
+msgstr "选项"
+
+#: views/plugin_options_1.php:761 views/plugin_options_2.php:1045
+msgid "Top margin"
+msgstr "上边距"
+
+#: views/plugin_options_1.php:762 views/plugin_options_2.php:1058
+msgid ""
+"Distance from the top of the screen to the switcher html block. You can set "
+"in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr ""
+"从屏幕顶部到切换器 html 块的距离。您可以设置 px 或 %。示例 1：100px。示例 2："
+"10%。"
+
+#: views/plugin_options_1.php:779 views/plugin_options_2.php:1180
+msgid "Main color"
+msgstr "主色"
+
+#: views/plugin_options_1.php:780 views/plugin_options_2.php:1190
+msgid "Main color which coloring the switcher elements"
+msgstr "为切换器元件着色的主要颜色"
+
+#: views/plugin_options_1.php:789 views/plugin_options_2.php:1198
+msgid "Hover color"
+msgstr "悬停颜色"
+
+#: views/plugin_options_1.php:790 views/plugin_options_2.php:1208
+msgid "The switcher color when mouse hovering"
+msgstr "鼠标悬停时切换器颜色"
+
+#: views/plugin_options_1.php:812 views/plugin_options_2.php:1065
+msgid "Basic field(s)"
+msgstr "基本字段"
+
+#: views/plugin_options_1.php:813 views/plugin_options_2.php:1078
+msgid ""
+"What content to show in the switcher after the site page loading. Variants:  "
+"__CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr ""
+"网站页面加载后要在切换器中显示的内容。变体：  __CODE__ __FLAG___ __SIGN__ "
+"__DESCR__"
+
+#: views/plugin_options_1.php:824 views/plugin_options_2.php:1086
+msgid "Hover field(s)"
+msgstr "悬停字段"
+
+#: views/plugin_options_1.php:825 views/plugin_options_2.php:1099
+msgid ""
+"What content to show in the switcher after mouse hover on any currency "
+"there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr ""
+"鼠标悬停在任意货币上的切换器中显示的内容。变体：  __CODE__ __FLAG___ "
+"__SIGN__ __DES"
+
+#: views/plugin_options_1.php:836 views/plugin_options_2.php:1107
+msgid "Show on the pages"
+msgstr "显示在所有页面"
+
+#: views/plugin_options_1.php:837 views/plugin_options_2.php:1120
+msgid ""
+"Where on the site the switcher should be visible. If any value is presented "
+"here switcher will be hidden on all another pages which not presented in "
+"this field. You can use pages IDs using comma, example: 28,34,232. Also you "
+"can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr ""
+"切换台在现场的哪个地方应该可见。如果此处显示任何值，则切换器将在此字段中未显"
+"示的所有其他页面上隐藏。您可以使用逗号使用页面ID，例如：28,34,232。您也可以使"
+"用特殊字词，例如：产品，商店，结帐，首页，woocommerce"
+
+#: views/plugin_options_1.php:848 views/plugin_options_2.php:1128
+msgid "Hide on the pages"
+msgstr "隐藏在选中的页面上："
+
+#: views/plugin_options_1.php:849 views/plugin_options_2.php:1141
+msgid ""
+"Where on the site the switcher should be hidden. If any value is presented "
+"here switcher will be hidden on that pages and visible on all another ones. "
+"You can use pages IDs using comma, example: 28,34,232. Also you can use "
+"special words as: product, shop, checkout, front_page, woocommerce"
+msgstr ""
+"切换器应隐藏在网站上的地点。如果此处显示任何值，则切换器将隐藏在该页面上，并"
+"在所有其他页面上可见。您可以使用逗号使用页面 ID，例如： 28，34，232。您也可以"
+"使用特殊词作为： 产品， 商店， 结帐， front_page， woocommerce"
+
+#: views/plugin_options_1.php:860 views/plugin_options_2.php:1149
+msgid "Behavior for devices"
+msgstr "设备行为"
+
+#: views/plugin_options_1.php:861
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "在移动设备上显示/隐藏（最高优先级）"
+
+#: views/plugin_options_1.php:866 views/plugin_options_2.php:1155
+msgid "Show on all devices"
+msgstr "在所有设备上显示"
+
+#: views/plugin_options_1.php:867 views/plugin_options_2.php:1156
+msgid "Show on mobile devices only"
+msgstr "仅在移动设备上显示"
+
+#: views/plugin_options_1.php:868 views/plugin_options_2.php:1157
+msgid "Hide on mobile devices"
+msgstr "隐藏在移动设备上"
+
+#: views/plugin_options_1.php:872 views/plugin_options_2.php:1161
+msgid "Choice behaviour"
+msgstr "选择行为"
+
+#: views/plugin_options_1.php:893 views/plugin_options_2.php:1240
+msgid "Payments behavior"
+msgstr "付款行为"
+
+#: views/plugin_options_1.php:894
+msgid ""
+"Should be payments system be hidden for selected currencies or vice versa "
+"shown!"
+msgstr "应隐藏所选货币的支付系统，反之亦然显示！"
+
+#: views/plugin_options_1.php:899 views/plugin_options_2.php:1246
+msgid "Is hidden"
+msgstr "隐藏："
+
+#: views/plugin_options_1.php:900 views/plugin_options_2.php:1247
+msgid "Is shown"
+msgstr "此文本将显示在所有页面的页脚上。"
+
+#: views/plugin_options_1.php:904 views/plugin_options_2.php:1251
+msgid "Behavior"
+msgstr "行为"
+
+#: views/plugin_options_1.php:926 views/plugin_options_2.php:1281
+msgid "Choice currencies"
+msgstr "选择货币"
+
+#: views/plugin_options_1.php:943 views/plugin_options_1.php:997
+msgid "select all"
+msgstr "选择所有"
+
+#: views/plugin_options_1.php:943 views/plugin_options_1.php:997
+msgid "clear all"
+msgstr "全部清除"
+
+#: views/plugin_options_1.php:961 views/plugin_options_2.php:1322
+msgid "GeoIP rules"
+msgstr "地理IP规则"
+
+#: views/plugin_options_1.php:966
+msgid ""
+"GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions "
+"of WooCommerce!!"
+msgstr "GeoIP适用于WooCommerce插件的v.2.3，而不适用于WooCommerce的次要版本！"
+
+#: views/plugin_options_1.php:972 views/plugin_options_2.php:1325
+msgid "WooCommerce GeoIP functionality doesn't work on your site"
+msgstr "WooCommerce GeoIP 功能在您的网站上不起作用"
+
+#: views/plugin_options_1.php:972 views/plugin_options_2.php:1325
+msgid "read this please"
+msgstr "请读这个"
+
+#: views/plugin_options_1.php:1011 views/plugin_options_2.php:1377
+#, php-format
+msgid ""
+"Here you can create set of countries profiles to apply it then in the "
+"products by your business logic. %s!"
+msgstr ""
+"在这里，您可以创建一组国家概况，然后根据您的业务逻辑将其应用到产品中。 %s！"
+
+#: views/plugin_options_1.php:1011 views/plugin_options_2.php:1377
+msgid "This make work on rules settings for each product more fast"
+msgstr "这使得每个产品的规则设置工作更加快速"
+
+#: views/plugin_options_1.php:1014 views/plugin_options_2.php:1385
+msgid "Set title"
+msgstr "设置标题"
+
+#: views/plugin_options_1.php:1022 views/plugin_options_2.php:1392
+msgid "Add new profile"
+msgstr "添加新的配置"
+
+#: views/plugin_options_1.php:1023 views/plugin_options_2.php:1393
+msgid "Update profile"
+msgstr "更新个人信息"
+
+#: views/plugin_options_1.php:1026 views/plugin_options_2.php:1394
+msgid "Cancel"
+msgstr "取消"
+
+#: views/plugin_options_1.php:1033 views/plugin_options_2.php:1402
+msgid "Profiles"
+msgstr "配置文件"
+
+#: views/plugin_options_1.php:1051 views/plugin_options_2.php:1426
+msgid "Edit profile"
+msgstr "编辑个人资料"
+
+#: views/plugin_options_1.php:1052 views/plugin_options_2.php:1427
+msgid "Delete profile"
+msgstr "删除配置文件"
+
+#: views/plugin_options_1.php:1059 views/plugin_options_2.php:1430
+msgid "Add to:"
+msgstr "添加到:"
+
+#: views/plugin_options_1.php:1063 views/plugin_options_2.php:1434
+msgid "Select currency..."
+msgstr "选择货币..."
+
+#: views/plugin_options_1.php:1097 views/plugin_options_2.php:1474
+msgid "Chart type: pie"
+msgstr "图表类型：饼图"
+
+#: views/plugin_options_1.php:1098 views/plugin_options_2.php:1475
+msgid "Chart type: bar"
+msgstr "图表类型：条形"
+
+#: views/plugin_options_1.php:1105 views/plugin_options_2.php:1531
+#, php-format
+msgid ""
+"If you have ideas about scenarios of the statistic please share and discuss "
+"them on %s"
+msgstr "如果您对统计的方案有想法，请在%s分享并讨论"
+
+#: views/plugin_options_1.php:1105 views/plugin_options_2.php:1531
+msgid "the plugin forum"
+msgstr "插件论坛"
+
+#: views/plugin_options_1.php:1107 views/plugin_options_1.php:1348
+#: views/plugin_options_1.php:1355 views/plugin_options_2.php:1536
+#: views/plugin_options_2.php:1846
+msgid "Note"
+msgstr "注意"
+
+#: views/plugin_options_1.php:1107 views/plugin_options_2.php:1537
+msgid ""
+"If in tab Options activated option I am using cache plugin on my site - to "
+"avoid double data for statistical data registration in tab Options activate "
+"option No GET data in link!"
+msgstr ""
+"如果在选项卡选项中激活选项我在我的网站上使用缓存插件 - 避免在选项卡中进行统计"
+"数据注册的双重数据选项激活选项链接中没有获取数据！"
+
+#: views/plugin_options_1.php:1117
+msgid "currency"
+msgstr "货币"
+
+#: views/plugin_options_1.php:1118
+msgid "orders (completed)"
+msgstr "订单（已完成）"
+
+#: views/plugin_options_1.php:1134 views/plugin_options_2.php:1504
+msgid "from"
+msgstr "从"
+
+#: views/plugin_options_1.php:1139 views/plugin_options_2.php:1506
+#: views/shortcodes/woocs_converter.php:45
+msgid "to"
+msgstr "到"
+
+#: views/plugin_options_1.php:1141 views/plugin_options_2.php:1514
+msgid ""
+"For currencies - aggregated data about selected currencies on the site "
+"front. For orders - count of orders made in the selected currencies."
+msgstr ""
+"对于货币 - 站点正面有关所选货币的汇总数据。对于订单 - 以所选货币发出的订单计"
+"数。"
+
+#: views/plugin_options_1.php:1142 views/plugin_options_2.php:1521
+msgid ""
+"For currencies - aggregated data about count of countries which users "
+"selected currencies on the site front. For orders - count of orders made "
+"from countries, detected by selected country in the billing address."
+msgstr ""
+"对于货币-有关用户在网站正面选择货币的国家/地区总数的汇总数据。对于订单-从帐单"
+"地址中所选国家/地区检测到的国家/地区的订单计数。"
+
+#: views/plugin_options_1.php:1158 views/plugin_options_2.php:1731
+msgid "Smart Designer"
+msgstr "聪明的设计师"
+
+#: views/plugin_options_1.php:1160 views/plugin_options_2.php:1736
+msgid ""
+"In this section you can create your own view of currency drop-down switcher"
+msgstr "在本部分中，您可以创建自己的货币下拉切换器视图"
+
+#: views/plugin_options_1.php:1163 views/plugin_options_2.php:1739
+msgid "Create"
+msgstr "创建"
+
+#: views/plugin_options_1.php:1204 views/plugin_options_2.php:1786
+msgid "General"
+msgstr "常规"
+
+#: views/plugin_options_1.php:1205 views/plugin_options_2.php:1787
+#: views/widgets/converter_form.php:5 views/widgets/rates_form.php:5
+#: views/widgets/selector_form.php:5
+msgid "Title"
+msgstr "标题"
+
+#: views/plugin_options_1.php:1223 views/plugin_options_2.php:1803
+msgid "Missing options? Describe your proposal please on the support forum."
+msgstr "缺少选项？请在支持论坛上描述您的建议。"
+
+#: views/plugin_options_1.php:1242 views/plugin_options_2.php:1822
+msgid "Save changes"
+msgstr "保存更改"
+
+#: views/plugin_options_1.php:1243 views/plugin_options_2.php:1823
+msgid "Save and exit"
+msgstr "利率和利息"
+
+#: views/plugin_options_1.php:1244 views/plugin_options_2.php:1824
+msgid "Exit without save"
+msgstr "不保存退出"
+
+#: views/plugin_options_1.php:1245 views/plugin_options_2.php:1825
+msgid "Reset to default"
+msgstr "重置为默认"
+
+#: views/plugin_options_1.php:1255
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "Woocommerce货币切换器支持"
+
+#: views/plugin_options_1.php:1261
+msgid ""
+"If you have an idea about css+js template - send request on support please "
+"where describe your vision."
+msgstr "如果您对 css+js 模板有想法 - 发送支持请求，请在哪里描述您的愿景。"
+
+#: views/plugin_options_1.php:1263 views/plugin_options_2.php:1668
+msgid "Free flags images"
+msgstr "免费LOGO图片"
+
+#: views/plugin_options_1.php:1265 views/plugin_options_2.php:1570
+msgid "FAQ"
+msgstr "常见问题"
+
+#: views/plugin_options_1.php:1267 views/plugin_options_2.php:1582
+msgid "Codex"
+msgstr "Codex"
+
+#: views/plugin_options_1.php:1269 views/plugin_options_2.php:1682
+msgid "Video tutorials"
+msgstr "视频教程"
+
+#: views/plugin_options_1.php:1271 views/plugin_options_2.php:1655
+msgid "Read wiki about Currency Active codes"
+msgstr "阅读有关货币有效代码的Wiki"
+
+#: views/plugin_options_1.php:1273 views/plugin_options_1.php:1355
+#: views/plugin_options_2.php:1846
+msgid ""
+"If WOOCS settings panel looks incorrect or you have JavaScript errors (after "
+"update) - firstly"
+msgstr ""
+"如果 WOOCS 设置面板看起来不正确或者您有 JavaScript 错误（更新后） - 首先"
+
+#: views/plugin_options_1.php:1273 views/plugin_options_1.php:1355
+#: views/plugin_options_2.php:1846
+msgid "reset the browser cache"
+msgstr "重置浏览器缓存"
+
+#: views/plugin_options_1.php:1285
+#, php-format
+msgid ""
+"We work hard to make this plugin more effective tool for your e-shops, and "
+"ready to %s hear your review, suggestions and opinions %s, please share it "
+"with us!"
+msgstr ""
+"我们正在努力使此插件成为适用于您的电子商店的更有效工具，并准备%s听听您的评"
+"论，建议和意见%s，请与我们分享！"
+
+#: views/plugin_options_1.php:1289 views/plugin_options_2.php:1703
+msgid "I cant add flags! What to do?"
+msgstr "我不能添加国旗！ 该怎么办？"
+
+#: views/plugin_options_1.php:1290 views/plugin_options_2.php:1704
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "使用地理定位导致问题，似乎并没有为我工作"
+
+#: views/plugin_options_1.php:1295
+msgid "Quick introduction"
+msgstr "快速介绍"
+
+#: views/plugin_options_1.php:1301 views/plugin_options_2.php:1710
+msgid "More power for your shop"
+msgstr "为您的商店提供更多动力"
+
+#: views/plugin_options_1.php:1347 views/plugin_options_2.php:1845
+msgid "Hint"
+msgstr "提示"
+
+#: views/plugin_options_1.php:1347 views/plugin_options_2.php:1845
+msgid ""
+"If you want let your customers pay in their selected currency in tab "
+"Advanced set the option Is multiple allowed to Yes."
+msgstr "如果您希望让客户在选项卡中以所选货币付款，则选项是允许多个\"是\"。"
+
+#: views/plugin_options_1.php:1348 views/plugin_options_2.php:289
+msgid "Get free API keys:"
+msgstr "获取免费 API 密钥："
+
+#: views/plugin_options_1.php:1349 views/plugin_options_2.php:289
+msgid "The Free Currency Converter"
+msgstr "免费货币转换器"
+
+#: views/plugin_options_1.php:1350
+msgid "Fixer"
+msgstr "固定"
+
+#: views/plugin_options_1.php:1351
+msgid "Open exchange rates"
+msgstr "开放汇率"
+
+#: views/plugin_options_1.php:1352
+msgid "Currencylayer"
+msgstr "货币层"
+
+#: views/plugin_options_1.php:1360 views/plugin_options_2.php:1852
+#, php-format
+msgid ""
+"In the free version of the plugin %s you can operate with 2 ANY currencies "
+"only%s! If you want to use more currencies %s you can make upgrade to the "
+"premium version%s of the plugin"
+msgstr ""
+"在插件的免费版本%s中，您只能使用2种任何货币%s！如果您想使用更多的货币%s，则可"
+"以升级到该插件的高级版本%s"
+
+#: views/plugin_options_1.php:1365 views/plugin_options_2.php:1858
+msgid "UPGRADE to Full version"
+msgstr "升级至完整版"
+
+#: views/plugin_options_1.php:1366 views/plugin_options_2.php:1859
+msgid "full version of the plugin"
+msgstr "插件的完整版本"
+
+#: views/plugin_options_1.php:1370 views/plugin_options_1.php:1371
+#: views/plugin_options_2.php:1863 views/plugin_options_2.php:1864
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - WooCommerce产品过滤器"
+
+#: views/plugin_options_1.php:1375 views/plugin_options_1.php:1376
+#: views/plugin_options_2.php:1868 views/plugin_options_2.php:1869
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE-Woomerce批量编辑专业版"
+
+#: views/plugin_options_1.php:1380 views/plugin_options_1.php:1381
+#: views/plugin_options_2.php:1873 views/plugin_options_2.php:1874
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - WooCommerce 活动产品表 "
+
+#: views/plugin_options_1.php:1401 views/plugin_options_2.php:1898
+msgid ""
+"Set etalon main currency. This should be the currency in which the price of "
+"goods exhibited!"
+msgstr "设置标准主要货币。 这应该是展示商品价格的货币！"
+
+#: views/plugin_options_1.php:1406
+msgid "Exmpl.: USD,EUR"
+msgstr "例如.: USD,EUR"
+
+#: views/plugin_options_1.php:1410
+msgid "Money signs"
+msgstr "货币符号"
+
+#: views/plugin_options_1.php:1419 views/plugin_options_2.php:1936
+msgid "Select symbol position"
+msgstr "选择符号位置"
+
+#: views/plugin_options_1.php:1425 views/plugin_options_2.php:1942
+msgid "P$ - right"
+msgstr "$P-右"
+
+#: views/plugin_options_1.php:1429 views/plugin_options_2.php:1946
+msgid "P $ - right space"
+msgstr "$P-右空格"
+
+#: views/plugin_options_1.php:1433 views/plugin_options_2.php:1950
+msgid "$ P - left space"
+msgstr "$P-左空格"
+
+#: views/plugin_options_1.php:1437 views/plugin_options_2.php:1954
+msgid "$P - left"
+msgstr "$P-左"
+
+#: views/plugin_options_1.php:1447 views/plugin_options_2.php:1981
+msgid "Decimals"
+msgstr "小数点"
+
+#: views/plugin_options_1.php:1488
+msgid "exchange rate"
+msgstr "汇率"
+
+#: views/plugin_options_1.php:1488 views/plugin_options_2.php:1970
+msgid "interest"
+msgstr "自定义利率"
+
+#: views/plugin_options_1.php:1488
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+例如：0.15"
+
+#: views/plugin_options_1.php:1489
+msgid ""
+"Press this button if you want get currency rate from the selected aggregator "
+"above!"
+msgstr "按下，如果你想从上面所选择的汇聚器得到汇率这个按钮！"
+
+#: views/plugin_options_1.php:1497 views/plugin_options_2.php:2034
+msgid "Show cents"
+msgstr "显示"
+
+#: views/plugin_options_1.php:1498 views/plugin_options_2.php:2035
+msgid "Hide cents"
+msgstr "隐藏"
+
+#: views/plugin_options_1.php:1519
+msgid "Public"
+msgstr "公开"
+
+#: views/plugin_options_1.php:1520
+msgid "Private"
+msgstr "私密"
+
+#: views/plugin_options_1.php:1528
+msgid ""
+"Show currency for all on the site front or Hide for private moments in wp "
+"admin panel using only."
+msgstr "仅在网站前台显示所有货币或在wp管理面板中隐藏。"
+
+#: views/plugin_options_1.php:1537 views/plugin_options_2.php:2053
+#: views/widgets/selector_form.php:54
+msgid "description"
+msgstr "描述"
+
+#: views/plugin_options_1.php:1549 views/plugin_options_2.php:1918
+msgid "Click to select the flag"
+msgstr "单击以选中国旗"
+
+#: views/plugin_options_1.php:1552
+msgid "remove"
+msgstr "移除"
+
+#: views/plugin_options_1.php:1554
+msgid "drag and drop"
+msgstr "拖放"
+
+#: views/plugin_options_1.php:1554
+msgid "move"
+msgstr "移动"
+
+#: views/plugin_options_2.php:23
+msgid "Obsolete WOOCS admin panel"
+msgstr "过时的 WOOCS 管理面板"
+
+#: views/plugin_options_2.php:24
+#, php-format
+msgid "WooCommerce Currency Switcher %s"
+msgstr "WooCommerce货币切换器v.%s"
+
+#: views/plugin_options_2.php:119
+msgid "Prepend Currency"
+msgstr "前置货币"
+
+#: views/plugin_options_2.php:121
+msgid "Add custom currency symbols"
+msgstr "添加自定义货币符号"
+
+#: views/plugin_options_2.php:175
+msgid "Move"
+msgstr "移动"
+
+#: views/plugin_options_2.php:181 views/plugin_options_2.php:1964
+msgid "Rate+%"
+msgstr "税率%"
+
+#: views/plugin_options_2.php:186 views/plugin_options_2.php:2025
+msgid "Visible"
+msgstr "显示"
+
+#: views/plugin_options_2.php:219
+msgid "Append Currency"
+msgstr "增加货币"
+
+#: views/plugin_options_2.php:242 views/plugin_options_2.php:260
+#: views/plugin_options_2.php:278 views/plugin_options_2.php:299
+#: views/plugin_options_2.php:317 views/plugin_options_2.php:335
+#: views/plugin_options_2.php:353 views/plugin_options_2.php:385
+#: views/plugin_options_2.php:403 views/plugin_options_2.php:421
+#: views/plugin_options_2.php:439 views/plugin_options_2.php:457
+#: views/plugin_options_2.php:475 views/plugin_options_2.php:493
+#: views/plugin_options_2.php:511 views/plugin_options_2.php:529
+#: views/plugin_options_2.php:549 views/plugin_options_2.php:567
+#: views/plugin_options_2.php:585 views/plugin_options_2.php:603
+#: views/plugin_options_2.php:621 views/plugin_options_2.php:639
+#: views/plugin_options_2.php:682 views/plugin_options_2.php:690
+#: views/plugin_options_2.php:719 views/plugin_options_2.php:752
+#: views/plugin_options_2.php:778 views/plugin_options_2.php:796
+#: views/plugin_options_2.php:814 views/plugin_options_2.php:834
+#: views/plugin_options_2.php:869 views/plugin_options_2.php:898
+#: views/plugin_options_2.php:916 views/plugin_options_2.php:956
+#: views/plugin_options_2.php:980 views/plugin_options_2.php:1015
+#: views/plugin_options_2.php:1044 views/plugin_options_2.php:1064
+#: views/plugin_options_2.php:1085 views/plugin_options_2.php:1106
+#: views/plugin_options_2.php:1127 views/plugin_options_2.php:1148
+#: views/plugin_options_2.php:1179 views/plugin_options_2.php:1197
+#: views/plugin_options_2.php:1231
+msgid "Option"
+msgstr "选项"
+
+#: views/plugin_options_2.php:245 views/plugin_options_2.php:263
+#: views/plugin_options_2.php:281 views/plugin_options_2.php:302
+#: views/plugin_options_2.php:320 views/plugin_options_2.php:338
+#: views/plugin_options_2.php:356 views/plugin_options_2.php:388
+#: views/plugin_options_2.php:406 views/plugin_options_2.php:424
+#: views/plugin_options_2.php:442 views/plugin_options_2.php:460
+#: views/plugin_options_2.php:478 views/plugin_options_2.php:496
+#: views/plugin_options_2.php:514 views/plugin_options_2.php:532
+#: views/plugin_options_2.php:552 views/plugin_options_2.php:570
+#: views/plugin_options_2.php:588 views/plugin_options_2.php:606
+#: views/plugin_options_2.php:624 views/plugin_options_2.php:642
+#: views/plugin_options_2.php:683 views/plugin_options_2.php:693
+#: views/plugin_options_2.php:722 views/plugin_options_2.php:755
+#: views/plugin_options_2.php:781 views/plugin_options_2.php:799
+#: views/plugin_options_2.php:817 views/plugin_options_2.php:837
+#: views/plugin_options_2.php:872 views/plugin_options_2.php:901
+#: views/plugin_options_2.php:919 views/plugin_options_2.php:959
+#: views/plugin_options_2.php:983 views/plugin_options_2.php:1018
+#: views/plugin_options_2.php:1047 views/plugin_options_2.php:1067
+#: views/plugin_options_2.php:1088 views/plugin_options_2.php:1109
+#: views/plugin_options_2.php:1130 views/plugin_options_2.php:1151
+#: views/plugin_options_2.php:1182 views/plugin_options_2.php:1200
+#: views/plugin_options_2.php:1232
+msgid "Status"
+msgstr "状态"
+
+#: views/plugin_options_2.php:253
+msgid ""
+"In which currency to show prices for first visit of your customer on your "
+"site. Do not do it by private currency to avoid logic mess!"
+msgstr ""
+"在wich 货币中显示客户第一次访问您网站上的价格。不要私下做，以避免逻辑混乱！"
+
+#: views/plugin_options_2.php:289
+msgid "Some aggregators are required an API key."
+msgstr "某些聚合器需要 API 密钥。"
+
+#: views/plugin_options_2.php:310
+msgid ""
+"In some servers there are troubles with sessions, and after currency "
+"selecting it reset to welcome currency or geo ip currency. In such cases use "
+"transient storage. If it is possible on your hosting use Memcached or Redis!"
+msgstr ""
+"在某些服务器中，会话存在问题，并且在选择货币后将其重置为欢迎货币或地理 IP 货"
+"币。在这种情况下，请使用临时存储。如果可以在您的主机上使用 Memcached 或 "
+"Redis！"
+
+#: views/plugin_options_2.php:386
+msgid "Custom currency symbols"
+msgstr "自定义货币符号"
+
+#: views/plugin_options_2.php:396
+msgid ""
+"Add your custom currencies symbols in your shop. Example: $USD,AAA,AUD$,DDD,"
+"X - separated by commas"
+msgstr ""
+"在您的商店中添加您的自定义货币符号。示例：$USD,AAA,AUD$,DDD,X - 以逗号分隔"
+
+#: views/plugin_options_2.php:432
+msgid ""
+"Recounts prices without cents everywhere like in JPY and TWD which by its "
+"nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout "
+"after setup!"
+msgstr ""
+"重估没有美分的价格，例如日元和新台币，从本质上讲没有美分。使用逗号。例如："
+"UAH，RUB。设置后对其进行测试以进行结帐！"
+
+#: views/plugin_options_2.php:450
+msgid "Show / Hide flags on the front drop-down"
+msgstr "在前面的下拉菜单中显示/隐藏标志"
+
+#: views/plugin_options_2.php:468
+msgid "Switches currency without GET parameters (?currency=USD) in the link"
+msgstr "在链接中切换没有 GET 参数的货币 (?currency=USD)"
+
+#: views/plugin_options_2.php:476
+msgid "Show currency symbols"
+msgstr "在小部件中显示货币符号"
+
+#: views/plugin_options_2.php:486
+msgid "Show or hide money symbols on the site front drop-down"
+msgstr "在网站正面下拉菜单中显示或隐藏货币符号"
+
+#: views/plugin_options_2.php:522
+msgid ""
+"After cron done its job - new currency rates will be sent on the site admin "
+"email. ATTENTION: if you not got emails - it is mean that PHP function "
+"mail() doesnt work on your server or sending emails by this function is "
+"locked."
+msgstr ""
+"在 cron 完成它的工作后 - 新的货币汇率将在站点管理员电子邮件中发送。注意：如果"
+"您没有收到电子邮件 - 这意味着 PHP 函数 mail() 在您的服务器上不起作用或通过此"
+"函数发送电子邮件被锁定。"
+
+#: views/plugin_options_2.php:540
+msgid "Hide switcher on the checkout page, if it is necessary."
+msgstr "如有必要，在结帐页面上隐藏切换器。"
+
+#: views/plugin_options_2.php:550
+msgid "Show approximate amount"
+msgstr "显示大概金额"
+
+#: views/plugin_options_2.php:560
+msgid ""
+"Show approximate amount on the checkout page and the cart page with currency "
+"of user defined by IP in the GeoIp rules tab. Works only with the currencies "
+"rates data and NOT with: fixed prices rules, geo rules."
+msgstr ""
+"在结帐页面和购物车页面上显示近似金额，并在 GeoIp 规则选项卡中使用 IP 定义的用"
+"户货币。仅适用于货币汇率数据，不适用于：固定价格规则、地理规则。"
+
+#: views/plugin_options_2.php:578
+msgid ""
+"Show approximate price on the shop page and the product single page with "
+"currency of user defined by IP in the GeoIp rules tab. Works only with "
+"currencies rates data and NOT with: fixed prices rules, geo rules."
+msgstr ""
+"在 GeoIp 规则选项卡中使用 IP 定义的用户货币在商店页面和产品单页面上显示近似价"
+"格。仅适用于货币汇率数据，不适用于：固定价格规则、地理规则。"
+
+#: views/plugin_options_2.php:712
+msgid ""
+"Customer will pay using selected currency (Yes) or using default currency "
+"(No)."
+msgstr "客户将使用选定的货币（是）或使用默认货币（否）付款。"
+
+#: views/plugin_options_2.php:763
+msgid ""
+"Forces the customers to pay on checkout page by the rules defined in [GeoIP "
+"rules] tab. ATTENTION: this feature has logical sense if you enabled [Enable "
+"fixed pricing] and also set fixed prices rules to the products in different "
+"currencies!"
+msgstr ""
+"根据 [GeoIP 规则] 选项卡中定义的规则强制客户在结帐页面上付款。注意：如果您启"
+"用了[启用固定定价]并为不同货币的产品设置固定价格规则，则此功能具有逻辑意义！"
+
+#: views/plugin_options_2.php:909
+msgid ""
+"Hide or show payments systems on checkout page depending of the current "
+"currency"
+msgstr "根据当前货币在结帐页面上隐藏/显示付款系统"
+
+#: views/plugin_options_2.php:957
+msgid "Enable / Disable"
+msgstr "启用/停用"
+
+#: views/plugin_options_2.php:973
+msgid "Enable / Disable the side currency switcher on your site"
+msgstr "在页面上启用/禁用辅助货币切换器"
+
+#: views/plugin_options_2.php:1008
+msgid "Style of the switcher on the site front (px)"
+msgstr "站点前部切换器的样式"
+
+#: views/plugin_options_2.php:1172
+msgid "Show / Hide on mobile device (highest priority)"
+msgstr "在移动设备上显示/隐藏（最高优先级）"
+
+#: views/plugin_options_2.php:1261
+msgid ""
+"Should the payment systems be hidden for selected currencies or vice versa "
+"shown!"
+msgstr "支付系统是否为选定的货币隐藏，反之亦然显示！"
+
+#: views/plugin_options_2.php:1297 views/plugin_options_2.php:1354
+msgid "Select all"
+msgstr "全选"
+
+#: views/plugin_options_2.php:1298 views/plugin_options_2.php:1355
+msgid "Clear all"
+msgstr "清除所有"
+
+#: views/plugin_options_2.php:1488
+msgid "Orders (completed)"
+msgstr "订单（已完成）"
+
+#: views/plugin_options_2.php:1558
+msgid "Support"
+msgstr "支持"
+
+#: views/plugin_options_2.php:1559
+msgid ""
+"If you have questions about plugin functionality or found bug write us please"
+msgstr "如果您对插件功能有疑问或发现错误，请写信给我们"
+
+#: views/plugin_options_2.php:1571
+msgid "Check please already prepared answers"
+msgstr "检查请已经准备好的答案"
+
+#: views/plugin_options_2.php:1583
+msgid "WOOCS has power bunch of functionality"
+msgstr "WOOCS 具有强大的功能"
+
+#: views/plugin_options_2.php:1594
+msgid "Labs"
+msgstr "实验室"
+
+#: views/plugin_options_2.php:1595
+msgid "Found incompatibility? We can help!"
+msgstr "发现不兼容？我们可以提供帮助！"
+
+#: views/plugin_options_2.php:1614
+msgid "Quick Introduction"
+msgstr "快速介绍"
+
+#: views/plugin_options_2.php:1629
+msgid "WooCommerce Currency Switcher Support"
+msgstr "WooCommerce货币切换器支持"
+
+#: views/plugin_options_2.php:1642
+msgid "Translations"
+msgstr "翻译"
+
+#: views/plugin_options_2.php:1670
+msgid ""
+"Find and use free flags to your taste according to your business preferences"
+msgstr "根据您的业务偏好查找和使用您喜欢的免费标志"
+
+#: views/plugin_options_2.php:1684
+msgid ""
+"Watch video tutorials about WOOCS features to use its functionality in full "
+"force"
+msgstr "观看有关 WOOCS 功能的视频教程以充分利用其功能"
+
+#: views/plugin_options_2.php:1700
+msgid "Some questions"
+msgstr "一些问题"
+
+#: views/plugin_options_2.php:1705
+msgid "How to insert currency switcher into site menu?"
+msgstr "如何将货币切换器插入站点菜单？"
+
+#: views/plugin_options_2.php:1904 views/plugin_options_2.php:1905
+msgid "Drag and Drop"
+msgstr "拖放"
+
+#: views/plugin_options_2.php:1924
+msgid "Code"
+msgstr "代码"
+
+#: views/plugin_options_2.php:1928
+msgid "Currency symbols"
+msgstr "货币符号"
+
+#: views/plugin_options_2.php:1968
+msgid "Exchange rate"
+msgstr "汇率"
+
+#: views/plugin_options_2.php:1970
+msgid "+ to your interest in the rate, example values: 0.15, 20%"
+msgstr "+ 您对利率的兴趣，示例值：0.15, 20%"
+
+#: views/plugin_options_2.php:1972
+msgid "Press the button if you want to update currency rate!"
+msgstr "如果您想更新汇率，请按下按钮！"
+
+#: views/plugin_options_data.php:49
+msgid "PHP Session"
+msgstr "PHP会话"
+
+#: views/plugin_options_data.php:50
+msgid "Transient"
+msgstr "短暂的"
+
+#: views/shortcodes/styles/style-3/index.php:83
+msgid "Select Currency"
+msgstr "选择货币"
+
+#: views/shortcodes/woocs.php:6 views/shortcodes/woocs_converter.php:6
+#: views/shortcodes/woocs_rates.php:4
+msgid "Warning: Woocommerce is not activated"
+msgstr "警告：Woocommerce未激活"
+
+#: views/shortcodes/woocs_converter.php:25
+msgid "enter amount"
+msgstr "输入量"
+
+#: views/shortcodes/woocs_converter.php:64
+msgid "results"
+msgstr "结果"
+
+#: views/shortcodes/woocs_converter.php:66
+msgid "Convert"
+msgstr "转换"
+
+#: views/shortcodes/woocs_rates.php:45
+#, php-format
+msgid "1 %s is"
+msgstr "1 %s 为"
+
+#: views/shortcodes/woocs_rates.php:61 views/shortcodes/woocs_rates.php:69
+msgid "Rate"
+msgstr "比率"
+
+#: views/widgets/converter_form.php:11 views/widgets/rates_form.php:11
+msgid "Currencies excluding from view"
+msgstr "从视图中排除货币"
+
+#: views/widgets/converter_form.php:13 views/widgets/rates_form.php:13
+msgid "Examples: EUR,GBP,UAH"
+msgstr "例如: EUR,GBP,UAH"
+
+#: views/widgets/converter_form.php:18 views/widgets/rates_form.php:18
+msgid "Precision"
+msgstr "精度"
+
+#: views/widgets/converter_form.php:20 views/widgets/rates_form.php:20
+msgid "Count of digits after point"
+msgstr "小数点后位数"
+
+#: views/widgets/selector_form.php:13
+msgid "Examples: 300px,100%,auto"
+msgstr "例如: 300px,100%,auto"
+
+#: views/widgets/selector_form.php:26
+msgid "Show flags"
+msgstr "显示国旗"
+
+#: views/widgets/selector_form.php:35
+msgid "right"
+msgstr "右"
+
+#: views/widgets/selector_form.php:36
+msgid "left"
+msgstr "左"
+
+#: views/widgets/selector_form.php:44
+msgid "For ddslick script only!"
+msgstr "仅适用于ddslick脚本！"
+
+#: views/widgets/selector_form.php:50
+msgid "Drop-down options text type"
+msgstr "下拉选项文本类型"
+
+#: views/widgets/selector_form.php:53
+msgid "code"
+msgstr "代码"
+
+#: views/widgets/selector_form.php:62
+msgid ""
+"Which text display in the drop-down options - currency code OR description "
+"text. Looks good for all dropdowns except ddslick."
+msgstr "文字显示在下拉选项 - 货币代码或说明文字."
+
+#: views/woocs_order_metabox.php:16
+msgid "Order currency"
+msgstr "订单币种"
+
+#: views/woocs_order_metabox.php:24
+msgid "Currency in which the customer paid."
+msgstr "客户支付的货币。"
+
+#: views/woocs_order_metabox.php:24
+#, php-format
+msgid "THIS order currency is changed manually %s!"
+msgstr "这条命令货币手动修改 %s!"
+
+#: views/woocs_order_metabox.php:25
+msgid "Base currency"
+msgstr "基础货币"
+
+#: views/woocs_order_metabox.php:26
+msgid "Order currency rate"
+msgstr "订单币种汇率"
+
+#: views/woocs_order_metabox.php:26
+msgid "Currency rate when the customer paid"
+msgstr "客户支付时的汇率"
+
+#: views/woocs_order_metabox.php:27
+msgid "Total amount"
+msgstr "总金额"
+
+#: views/woocs_order_metabox.php:35
+msgid "Change order currency"
+msgstr "更改订单货币"
+
+#: views/woocs_order_metabox.php:35
+msgid "Change the order currency to any other"
+msgstr "将订单币种更改为任何其他"
+
+#: views/woocs_order_metabox.php:37
+#, php-format
+msgid ""
+"Not possible to recalculate the order - because current base currency is %s, "
+"and order base currency is %s!"
+msgstr "无法重新计算订单 - 因为当前基础货币是 %s，而订单基础货币是 %s！"
+
+#: views/woocs_order_metabox.php:40
+msgid "cancel"
+msgstr "取消"
+
+#: views/woocs_order_metabox.php:41
+msgid "Recalculate order"
+msgstr "重新计算订单"
+
+#: views/woocs_order_metabox.php:41
+msgid "Recalculate current order with the selected currency."
+msgstr "使用所选货币重新计算当前订单。"
+
+#. Plugin Name of the plugin/theme
+msgid "WOOCS - WooCommerce Currency Switcher"
+msgstr "WOOCS - WooCommerce 货币切换器"
+
+#. Plugin URI of the plugin/theme
+msgid "https://currency-switcher.com/"
+msgstr "https://currency-switcher.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Currency Switcher for WooCommerce that allows to the visitors and customers "
+"on your woocommerce store site switch currencies and optionally apply "
+"selected currency on checkout"
+msgstr ""
+"WCC 的货币切换器，允许您的 WCC 商店网站上的访问者和客户切换货币，并可选择在结"
+"账时应用所选货币"
+
+#. Author of the plugin/theme
+msgid "realmag777"
+msgstr "realmag777"
+
+#. Author URI of the plugin/theme
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
