@@ -23,7 +23,7 @@ zip -P $encrypt db.zip $db_name.sql
 #删除原文件
 rm $db_name.sql
 git add .
-git commit -m "$(date +%Y-%m-%d %H%M%S)"
+git commit -m "$(date '+%Y-%m-%d %H%M%S')"
 git push origin master
 
 #解密命令 unzip -P 密码 要解密的文件.zip
