@@ -16,6 +16,14 @@ cd $webpath
 if [ -f db.zip ]; then
 	rm db.zip
 fi
+# 安装ZIP
+if [ ! -x /usr/bin/zip ] ; then 
+	apt install zip
+fi
+# 安装UNZIP
+if [ ! -x /usr/bin/unzip ] ; then 
+	apt install unzip
+fi
 #导出MySQL数据
 mysqldump -u$db_user -p$db_pass $db_name > $db_name.sql
 #加密打包文件 需要安装zip unzip
