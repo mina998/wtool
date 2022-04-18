@@ -37,9 +37,13 @@ mysql > source /path/aaaa.sql
 mysql -uroot -p dbname < /path/aaaa.sql
 ```
 
-
+# 导出MySQL数据
 ```
+mysqldump -u$dbuser -p $dbname | gzip -9 - > $dbname.sql.gz
+```
+
 # 添加一个管理员并设置密码
+```
 GRANT ALL PRIVILEGES ON *.* TO 'admini'@'localhost' IDENTIFIED BY '设置的密码' WITH GRANT OPTION; 
 #添加用户
 mysql > insert into mysql.user(Host,User,Password) values("localhost","test",password("1234"));
